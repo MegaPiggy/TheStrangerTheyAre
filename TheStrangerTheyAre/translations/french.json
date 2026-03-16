@@ -118,7 +118,7 @@
     //Table
     "Day 100: The mineral's side effects not only turn the dimension's fog black, but also give the anglerfish an interesting property. Turns out, they change location each time you look away.": "Jour 100 : Les effets secondaires du minéral non seulement rendent le brouillard de la dimension noir, mais donnent également au cœlacanthe une propriété intéressante. Il s'avère qu'ils changent d'emplacement chaque fois que vous regardez ailleurs.",
     "Day 99: Just started to map out these pocket dimension. Thankfully I scanned the lighted node with my vision torch, because there's no way out! That dimension is a trap!": "Jour 99 : Je viens de commencer à cartographier ces dimensions de poche. Heureusement, j'ai scanné le nœud éclairé avec ma torche de vision, car il n'y a pas d'issue ! Cette dimension est un piège !",
-    "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I forget.": "Jour 105 : Je l'ai fait ! Après des jours de recherche, j'ai trouvé le bon chemin vers ce qui pourrait être notre système natal ! Je ferai un enregistrement de diapositives au cas où j’oublierais.",
+    "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I don't forget.": "Jour 105 : Je l'ai fait ! Après des jours de recherche, j'ai trouvé le bon chemin vers ce qui pourrait être notre système natal ! Je ferai un enregistrement de diapositives au cas où je n'oublierais pas.",
 
     //DescendantSurface
     "Alright, this is it...the End of the Universe. I hope my distant uncle was right about this place giving birth to a new universe in our place.": "D'accord, c'est ça... la Fin de l'Univers. J'espère que mon oncle éloigné avait raison à propos de cet endroit donnant naissance à un nouvel univers chez nous.",
@@ -209,13 +209,13 @@
 
     //ConversationGhirds1
     "What do you want, four-eyes?": "Qu'est-ce que tu veux, quatre yeux ?",
-    "What's that joke you were telling the other one? Can I hear it?": "Quelle est cette blague que tu racontais à l'autre ? Je peux l'entendre ?",
+    "What's that joke you were telling the other one? Can I hear it?": "Quelle est cette blague que tu racontais à l'autre ? Je peux savoir ?",
     "Don't interrupt conversation.": "Ne pas interrompre la conversation.",
     "A joke? What's that supposed to mean?": "Une blague ? Qu'est-ce que c'est supposé dire ?",
     "I just meant like, you know, you could tell me the joke you two were laughing about!": "Je voulais juste dire, tu sais, tu pourrais me raconter la blague dont vous étiez en train de rire tous les deux !",
-    "Listen, blue-skin. The only joke here is whatever backwater planet you puttered over here from. Is it customary there to interrupt important conversations to demand amusement?": "Écoute, peau bleue. La seule blague ici est quelle que soit la planète perdue que tu as terrée ici. Est-il habituel là-bas d'interrompre des conversations importantes pour demander de l'amusement ?",
+    "Listen, blue-skin. The only joke here is whatever backwater planet you puttered over here from. Is it customary there to interrupt important conversations to demand amusement?": "Écoute, peau bleue. La seule blague ici, c'est la peu importe planète perdue dont tu viens. Est-il habituel là-bas d'interrompre des conversations importantes pour demander de l'amusement ?",
     "No, it's just—": "Non, c'est juste—",
-    "Is all of your kind petulant, sleeve-tugging children? Because it's seeming like it, pal. Not a good look.": "Est-ce que toute ton espèce est irritable, enfant pertubateur ? Parce que ça en a l'air, mon pote. Pas très joli.",
+    "Is all of your kind petulant, sleeve-tugging children? Because it's seeming like it, pal. Not a good look.": "Est-ce que toute ton espèce est aussi irritable, enfant pertubateur ? Parce que ça en a l'air, mon pote. Pas très joli.",
     "Okay, I'm sorry. I—": "Okay, Je suis désolé. Je—",
     "You know, you're not on your grimy, gauche, gurkin-green grassworld dumpster fire anymore. You're in the galaxy at large now.": "Tu sais, tu n'es plus sur ton monde crasseux, maladroit, vert gurkin-herbeux en feu à présent. Tu es dans la galaxie en général maintenant.",
     "I think there's been a mis—": "Je pense qu'il y a eu un mal-en—",
@@ -317,7 +317,7 @@
     "Yeah I'm going to go exploring now.": "Ouais, je vais aller explorer maintenant.",
     "Come with me. Your life depends on it!": "Viens avec moi. Ta vie en dépend !",
     "Enjoy your stay, just don't do anything to our utopia or else we'll exile you from the system!": "Profite de ton séjour, ne fais rien à notre utopie ou sinon nous t'exilerons du système !",
-    "Sorry, now that I know you're the fabled alien to find his work, I'll introduce myself.": "Désolé, maintenant que je sais que tu es le fabuleux alien qui à trouver son travail, je vais me présenter.",
+    "Sorry, now that I know you're the fabled alien to find his work, I'll introduce myself.": "Désolé, maintenant que je sais que tu es le fabuleux alien qui a trouvé son travail, je vais me présenter.",
     "My name is Cypress, I'm The Scientist's very distant grandson and the current leader of this place.": "Je m'appelle Cyprès, je suis le petit-fils très éloigné du Scientifique et le leader actuel de cet endroit.",
     "Nice to meet you! They call me \"Hatchling\".": "Enchanté ! Ils m'appellent \"Petite Pierre\".",
     "Greetings Hatchling. I hope you enjoy your time here at our utopia.": "Salutations Petite Pierre. J'espère que t'apprécieras ton temps ici dans notre utopie.",
@@ -335,7 +335,7 @@
     "Hundreds and thousands of years ago, we used to have an active presence in space a few generations after our Scientist re-terraformed everything.": "Il y a des centaines et des milliers d'années, nous avions une présence active dans l'espace quelques générations après que notre Scientifique ait tout re-terraformé.",
     "But that was all so long ago, and everything of the old program was lost, forgotten, or abandoned.": "Mais c'était il y a si longtemps, et tout le vieux programme a été perdu, oublié ou abandonné.",
     "None of us know the reason why they stopped the program, not even our historians. All we know is that the program didn't even last a year.": "Aucun d'entre nous ne connaît la raison pour laquelle ils ont arrêté le programme, pas même nos historiens. Tout ce que nous savons est que le programme n'a même pas duré un an.",
-    "Now, we're just carefree explorers, most of us use these other planets as vacation resorts, as treacherous as they may be.": "Maintenant, nous sommes juste des explorateurs insouciants, la plupart d'entre nous utilisent ces autres planètes comme lieux de vacances, aussi dangereux qu'ils puissent être.",
+    "Now, we're just carefree explorers, most of us use these other planets as vacation resorts, as treacherous as they may be.": "Maintenant, nous sommes juste des explorateurs insouciants, la plupart d'entre nous utilisent ces autres planètes comme lieux de vacances, aussi dangereux qu'elles puissent être.",
     "I doubt we can solve the mystery of our ancestors in a matter of minutes, though.": "Je doute que nous puissions résoudre le mystère de nos ancêtres en quelques minutes, cependant.",
     "Well I sure can! I'm in a time loop!": "Eh bien, je le peux vraiment ! Je suis dans une boucle temporelle !",
     "A time loop? Did you accidentally inhale the fumes of a Vision Torch or something?": "Une boucle temporelle ? As-tu accidentellement inhalé les fumées d'une Torche de Vision ou quelque chose comme ça ?",
@@ -521,7 +521,7 @@
     "Wow, how did it get here?": "Wow, comment est-ce arrivé ici ?",
     "They got a signal from the Eye of the Universe.": "Ils ont reçu un signal de l'Œil de l'Univers.",
     "Really? I thought we silenced that bomb!": "Vraiment ? Je pensais que nous avions fait taire cette bombe !",
-    "You did, but they got the signal from the moment the Prisoner let it free.": "Vous l'avez fait, mais ils ont reçu le signal dès que le Prisonnier l'a laissé libre.",
+    "You did, but they got the signal from the moment the Prisoner let it free.": "Vous l'avez fait, mais ils ont reçu le signal dès que le Prisonnier l'a libéré.",
     "I am unsure about how they got it too.": "Je ne sais pas non plus comment ils l'ont reçu.",
     "Ah... that fool... So, what happened to them? Seeing as you are here, they seem to have not found it.": "Ah... cet imbécile... Alors, qu'est-ce qui leur est arrivé ? Vu que vous êtes ici, ils semblent ne pas l'avoir trouvé.",
     "Their leader, Escall was too hasty in his decision to warp and never let anyone know where he was going. They crashed in Dark Bramble which grew significantly since you last saw it.": "Leur chef, Escall, a été trop précipité dans sa décision de téléportation et de ne jamais laisser personne savoir où il allait. Ils se sont écrasés dans Sombronces qui a considérablement grandi depuis que vous l'avez vu pour la dernière fois.",
@@ -709,7 +709,9 @@
 
     //CypressOWSystem
     "Is this The Vortex? It sure doesn't look like what I was told.": "Est-ce le vortex ? C'est sûre que ça ne ressemble pas à ce qu'on m'a dit.",
+    "No, we're at my home system. I want you to meet your distant grandfather.": "Non, nous sommes dans mon système natal. Je veux que tu rencontres ton grand-père éloigné.",
     "How is that possible? He's been long gone!": "Comment est-ce possible ? Il est parti depuis longtemps !",
+    "The simulation on your kind's ship has a data clone of him. Let's go!": "La simulation sur le vaisseau de ton espèce à un clone de données de lui. Allons-y !",
     "Well, if you say so. I'll let you lead the way.": "Eh bien, si tu le dis. Je te laisserai ouvrir la voie.",
 
     //CypressReunion
@@ -734,22 +736,12 @@
     "And Hatchling, once again, I thank you. For everything. As for everyone else.": "Et Petite pierre, encore une fois, je te remercie. Pour tout. Comme pour tous les autres.",
     "Hatchling, once again, I thank you. For everything.": "Petite pierre, encore une fois, je te remercie. Pour tout.",
 
-    //ErnestoWarning
-    "Hey it's me Ernesto, the magic talking anglerfish.": "Hey c'est moi Ernesto, le cœlacanthe magic qui parle.",
-    "Now this isn't the time for fun and games, OK? I have something very important to tell you.": "Maintenant, ce n'est pas le moment de s'amuser et de jouer, d'accord ? J'ai quelque chose de très important à te dire.",
-    "Some ominous creature in a trench coat that dubbed itself as \"Anonymous\" came up to me, and it wanted me to pass on a warning.": "Une créature menaçante en trench-coat qui se faisait appeler \"Anonymous\" s'est approchée de moi, et elle voulait que je transmette un avertissement.",
-    "And the warning? It goes a little something like this.": "Et l'avertissement ? Ça fait un peu quelque chose comme ça.",
-    "<size=20>*ahem*</size>": "<size=20>*ahem*</size>",
-    "<size=72>DO NOT SHOOT YOUR SCOUT INTO THE EYE</size>": "<size=72>NE TIRE PAS TON GUETTEUR DANS L'ŒIL</size>",
-    "Yeah, a certain section has an elevator and an instrument that both don't work unless you launch your scout once when you find it.": "Ouais, une certaine section a un ascenseur et un instrument qui ne fonctionnent pas à moins que tu ne lances ton guetteur une fois que tu le trouves.",
-    "I know it's tempting, but you can just launch your scout right before you jump into the orb. Got it?": "Je sais que c'est tentant, mais tu peux simplement lancer ton guetteur juste avant de sauter dans l'orbe. Compris ?",
-    "Don't screw this up, or you'll have to restart the mod!": "Ne gâche pas ça, ou tu devras redémarrer le mod !",
-
     //PrisonerNew
     "...": "...",
     "There's someone I'd like you to meet.": "Il y a quelqu'un que j'aimerais que vous rencontrez.",
     "...?": "...?",
     "How do you understand my language?": "Comment connaissez-vous ma langue ?",
+    "Your brother taught me.": "Votre frère me l'a appris.",
     "Xylo....": "Xylo....",
     "He didn't like his name much, sounded too much like \"xylophone\".": "Il n'aimait pas beaucoup son nom, ça sonnait trop comme \"xylophone\".",
     "Mother named him Xylo because it meant \"wood\". It fits, because he was hearty, strong, and determined. Like a bundle of wood.": "Mère l'a appelé Xylo parce que cela signifiait \"bois\". Ça correspond, parce qu'il était costaud, fort et déterminé. Comme un fagot de bois.",
@@ -757,9 +749,12 @@
     "When I found out he crashed on that planet, I was devastated. I was lost without him.": "Quand j'ai découvert qu'il s'était écrasé sur cette planète, j'étais dévasté. J'étais perdu sans lui.",
     "And now here I am, locked up for eternity hoping the atoms of our terror turned into a bustling, new universe.": "Et maintenant je suis ici, enfermé pour l'éternité en espérant que les atomes de notre terreur se sont transformés en un nouvel univers, animé.",
     "Say, there's someone you want me to meet?": "Dîtes, il y a quelqu'un que vous voulez que je rencontre ?",
+    "You have a distant grandnephew waiting for you.": "Vous avez un petit-neveu éloigné qui vous attend.",
     "I'm an uncle again? Did Xylo....": "Je suis à nouveau un oncle ? Est-ce que Xylo....",
+    "Yep, he terraformed home. It's as good as new.": "Yep, il a terraformé la maison. C'est comme neuf.",
     "If only I could see our home again...*sniff*": "Si seulement je pouvais revoir notre maison...*sniff*",
     "Where is my distant grandnephew?": "Où est mon lointain petit-neveu ?",
+    "I'll take you to him. Follow me!": "Je vais vous emmener à lui. Suivez-moi !",
     "Alright, blue friend. Lead the way!": "D'accord, ami bleu. Montrez le chemin !",
 
     //PrisonerReunion
@@ -784,6 +779,10 @@
     "My little blue friend, I still thank you for bringing Cypress here.": "Mon petit ami bleu, je vous remercie encore d'avoir amené Cyprès ici.",
     "But....I want him to meet my brother...": "Mais.... je veux qu'il rencontre mon frère...",
     "Best of luck finding him. I know you can do it.": "Bonne chance pour le trouver. Je sais que vous pouvez le faire.",
+    "Your crave for knowledge is what brought us all together. You fit right in!": "Votre soif de connaissances est ce qui nous a tous réunis. Vous vous intégrez parfaitement !",
+    "So take a seat, get comfortable. This is your new home now. We'll be here until the end of time!": "Alors prennez un siège, mettez-vous à l'aise. C'est votre nouvelle maison maintenant. Nous serons ici jusqu'à la fin des temps !",
+    "I'm not ready yet.": "Je ne suis pas encore prêt.",
+    "Well said, Xylo!": "Bien dit, Xylo!",
     "Phyllo, I remember the day we all saw The Vortex for the first time.": "Phyllo, Je me souviens du jour où nous avons tous vu Le Vortex pour la première fois.",
     "When they scanned it with the vision torch, they were so frightened they couldn't look anymore.": "Quand ils l'ont scanné avec la torche de vision, ils étaient tellement effrayés qu'ils ne pouvaient plus regarder.",
     "From that moment on, feeling took over all thought as they rushed to burn down their temple.": "À partir de ce moment, les sentiments ont pris le dessus sur toute pensée alors qu'ils se précipitaient pour brûler leur temple.",
@@ -798,12 +797,12 @@
     "If only someone were to activate The Vortex, we could put the universe out of its misery, and give birth to something new.": "Si seulement quelqu'un devait activer le Vortex, nous pourrions mettre l'univers hors de sa misère, et donner naissance à quelque chose de nouveau.",
     "But, here we are. Spending the rest of our days together until our ship gets destroyed.": "Mais, nous y voilà. Passer le reste de nos jours ensemble jusqu'à ce que notre vaisseau soit détruit.",
     "Little blue friend, I may have just met you, but I already see you as apart of our family.": "Petit ami bleu, je viens peut-être de vous rencontrer, mais je vous vois déjà comme faisant partie de notre famille.",
-    "Your crave for knowledge is what brought us all together. You fit right in!": "Votre soif de connaissances est ce qui nous a tous réunis. Vous vous intégrez parfaitement !",
-    "So take a seat, get comfortable. This is your new home now. We'll be here until the end of time!": "Alors prennez un siège, mettez-vous à l'aise. C'est ta nouvelle maison maintenant. Nous serons ici jusqu'à la fin des temps !",
+    "Well, okay then. Take your time. We have all the time in the universe now.": "Eh bien, d'accord alors. Prennez votre temps. Nous avons tout le temps dans l'univers maintenant.",
+    "Well then, Hatchling. Welcome to your new home.": "Dans ce cas, Petite Pierre. Bienvenue dans votre nouvelle maison.",
 
     //SolanumNew
     "Kind traveler, you have bestowed upon me such wonderful wisdom.": "Aimable voyageur, vous m'avez accordé une sagesse si merveilleuse.",
-    "An owl-like species hidden beneath a cloak above the plane of the Solar System...it is no wonder we Nomai have not discovered it yet.": "Une espèce ressemblant à des hiboux cachée sous un camouflage au-dessus du plan du système solaire... il n'est pas étonnant que nous, les Nomaï, ne l'ayons pas encore découverte.",
+    "An owl-like species hidden beneath a cloak above the plane of the Solar System...it is no wonder we Nomai have not discovered it yet.": "Une espèce ressemblant à des chouettes cachée sous un camouflage au-dessus du plan du système solaire... il n'est pas étonnant que nous, les Nomaï, ne l'ayons pas encore découverte.",
     "Is it true that The Eye of the Universe is really just a tool of universal destruction? No wonder why they tried to hide it from us.": "Est-il vrai que l'Œil de l'Univers n'est vraiment qu'un outil de destruction universelle ? Pas étonnant qu'ils aient essayé de nous le cacher.",
     "Even then so, our curiosity would still pull us further if we found out such a thing, no matter what risk is to come.": "Même dans ce cas, notre curiosité nous tirerait encore plus loin si nous découvrions une telle chose, peu importe le risque à venir.",
     "After all, look at us. We crashed our Vessel into Dark Bramble. My family and friends have died to those ghastly fumes.": "Après tout, regardez-nous. Nous avons écrasé notre vaisseau dans Sombronces. Ma famille et mes amis sont morts par ces fumées épouvantables.",
@@ -811,7 +810,7 @@
     "Imagine how many other species we could have talked to. This would have been a wonderful little tool to bring to The Festival!": "Imaginez à combien d'autres espèces nous aurions pu parler. Cela aurait été un merveilleux petit outil à apporter au Festival !",
     "And that prisoner of theirs? He must have seen something in The Eye that no one else has seen.": "Et ce prisonnier des leurs ? Il a dû voir quelque chose dans L'Œil que personne d'autre n'a vu.",
     "Fellow traveler, if you wish to enter The Eye, do not be as fearful as they were.": "Compagnon de voyage, si vous souhaitez entrer dans L'Œil, ne soyez pas aussi craintif qu'eux.",
-    "If you wish to converse more, I would be grateful to.": "Si vous souhaitez converser davantage, je vous en serais reconnaissant.",
+    "If you wish to converse more, I would be grateful to.": "Si vous souhaitez converser davantage, je vous en serais reconnaissante.",
     "Hello traveler, what is on your mind?": "Bonjour voyageur, qu'est-ce qui vous préoccupe ?",
     "I need some help with my expedition. Can you help me?": "J'ai besoin d'aide pour mon expédition. Pouvez-vous m'aider ?",
     "Can I try getting you out of here?": "Puis-je essayer de vous faire sortir d'ici ?",
@@ -856,6 +855,9 @@
 
     //Exit
     "Exit to Angler's Eye (WARNING: You will have to walk the way back here when you leave!)": "Sortie vers Œil Sombre (ATTENTION : Vous devrez revenir ici à pied lorsque vous partez !)",
+    
+    //MineralCode
+    "Enter the two codes and access to the Mineral will be unlocked.": "Entrez les deux codes et l'accès au minéral sera déverrouillé.",
     "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.": "Tout le monde dort maintenant profondément dans le hall de coma, mais se faufiler discrètement en gardant concentré ne suffit pas. Il semble que ce n'est pas seulement le bruit qui les réveille, mais aussi la lumière de l'artefact.",
     "Anglerfish 101: Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.": "Cœlacanthe 101 : Il est plus facile de ne pas réveiller les cœlacanthes si vous êtes sans vaisseau. Nous pensons que cela est dû au bruit. Si une urgence survient, il sera utile de vous éjecter du vaisseau.",
     "Anglerfish 101: To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just coast right past you instead of chase you.": "Cœlacanthe 101 : Pour échapper à un cœlacanthe, utilisez la puissance de poussée diagonale. Vous pouvez également éviter d'être poursuivi si vous arrêtez la poussée juste au moment où vous le voyez bouger ou l'entendez grogner. Il pourrait juste vous dépasser au lieu de vous poursuivre.",
@@ -1048,7 +1050,10 @@
     "The exhibit to the right contains the minerals abundant on Angler's Eye preventing a Bramble Vine from growing any further. It's the only way to halt its growth, but there are mentions of effects on the pocket dimensions within it.": "L'exposition à droite contient les minéraux abondants sur Œil Sombre empêchant une Vigne de Ronces de pousser davantage. C'est le seul moyen d'arrêter sa croissance, mais il y a des mentions d'effets sur les dimensions de la poche à l'intérieur.",
     "An eerie, green fire and some beds lie in the basement of the Dark Bramble Museum.": "Un feu vert étrange et quelques lits se trouvent dans le sous-sol du Musée de Sombronces.",
     "According to some text, this is a simulation meant to preserve the fifth planet before it became Dark Bramble. Some archived slides have also been sent there.": "Selon certains textes, c'est une simulation destinée à préserver la cinquième planète avant qu'elle ne devienne Sombronces. Certaines diapositives archivées y ont également été envoyées.",
-    "There is a mineral atop the table in the Bramble Museum's basement that can be picked up.": "Il y a un minéral au sommet de la table dans le sous-sol du Musée des Ronces qui peut être récupéré.",
+    "Mineral Display Case": "Vitrine d'exposition du Minéral",
+    "There is a mineral inside a glass display, which is directly connected to the green fire nearby.": "Il y a un minéral à l'intérieur d'une vitrine d'exposition, qui est directement connecté au feu vert à proximité.",
+    "I was able to unlock the glass display by entering a series of codes in the Preserved Planet's Archives.": "J'ai pu déverrouiller la barrière en verre en entrant une série de codes dans les Archives de la Planète Préservée.",
+    "The mineral inside the display can be picked up.": "Le minéral à l'intérieur de la vitrine peut être ramassé.",
     "Angler's Eye Theater": "Théâtre d'Œil Sombre",
     "There is a Theater House on Angler's Eye for the purpose of watching slide reels.": "Il y a une Maison du Théâtre sur Œil Sombre dans le but de regarder des carrousels de diapositives.",
     "The text on the left of the table reads out some sort of poem stanza...": "Le texte à gauche du tableau indique une sorte de strophe poétique...",
@@ -1067,6 +1072,11 @@
     "Mining Hole": "Trou minier",
     "There is a mining hole not far from the south pole. A pickaxe and several rocks are seen there.": "Il y a un trou minier pas loin du pôle sud. On y voit une pioche et plusieurs rochers.",
     "The text at the bottom of the hole says that it was to get resources for The Stranger's cloaking device. It can also be used as fuel.": "Le texte en bas du trou indique qu'il s'agissait d'obtenir des ressources pour l'appareil de dissimulation de L'Étranger. Il peut également être utilisé comme carburant.",
+    "Observation Deck": "Plateforme d'Observation",
+    "An observation deck can be found not far from the Signal House.": "Une plate-forme d'observation peut être trouvée non loin de la Maison du Signal.",
+    "According to an observation, The Hourglass Twins once had water flowing on their surfaces, and that all planets in our star system once had some form of water on them.": "Selon une observation, les sablières avaient autrefois de l'eau qui coulait sur leurs surfaces, et toutes les planètes de notre système stellaire avaient autrefois une forme d'eau sur elles.",
+    "According to another observation, the author knew of the Quantum Moon, its sixth location, and that it appeared to be similar in nature to Angler's Eye.": "Selon une autre observation, l'auteur connaissait la Lune Quantique, son sixième emplacement, et qu'elle semblait similaire par nature à Œil Sombre.",
+    "The author of the writings observed Dark Bramble and saw something groundbreaking. Said author mentioned taking this observation to the archives.": "L'auteur des écrits a observé Sombronces et a vu quelque chose de sans précédent. Cet auteur a mentionné avoir apporté cette observation aux archives.",
     "Research House": "Maison de Recherche",
     "A picture on the first floor's table shows the home moon of the Stranger's Inhabitants. The Stranger is X'd out, and other icons are sketched out.": "Une image sur la table du premier étage montre la lune de la maison des habitants de l'Étranger. L'Étranger est en X, et d'autres icônes sont esquissées.",
     "A picture on the second floor shows the orbit of Angler's Eye.": "Une image au deuxième étage montre l'orbite de Œil Sombre.",
@@ -1080,13 +1090,11 @@
     "70 days after arriving, this inhabitant discovered that Angler's Eye may have originated from a collision with The Eye.": "70 jours après être arrivé, cet habitant a découvert qu'Œil Sombre pourrait provenir d'une collision avec L'Œil.",
     "The text on the second floor desk reads out some sort of poem stanza...": "Le texte sur le bureau du deuxième étage lit une sorte de strophe de poème...",
     "Preserved Planet": "Planète Préservée",
-    "Angler's Eye Archives?": "Archives d'Œil Sombre ?",
-    "The code door straight ahead has an emblem with a large amount of Bramble Vines growing from a center point.": "La porte de code tout droit a un emblème avec une grande quantité de Vignes de Ronce poussant à partir d'un point central.",
     "I found a new simulation built to preserve the life of Dark Bramble's former self.": "J'ai trouvé une nouvelle simulation construite pour préserver la vie de l'ancienne forme de Sombronces.",
     "I found a cave system beneath the Preserved Planet's Crust. There's water below, so I should probably watch my step.": "J'ai trouvé un système de grottes sous la Croûte de la Planète Préservée. Il y a de l'eau en dessous, donc je devrais probablement faire attention où je mets les pieds.",
     "A vine from the Bramble Seed blocking the ocean also appears to be reaching out and blocking something.": "Une vigne de la Graine de Ronce bloquant l'océan semble également s'étendre et bloquer quelque chose.",
     "On the South Pole in the caves is a sign. It says a poem \"To the South Pole, take a stroll. Retrace your steps, to the North Pole.\"": "Sur le pôle Sud dans les grottes se trouve un panneau. Il dit un poème \"Au Pôle Sud, faîtes une balade. Reviennez sur vos pas, au Pôle Nord.\"",
-    "Code Totem House": "Maison du Code du Totem",
+    "Warp House": "Maison de téléportation",
     "There is a mysterious house to the left of the green campfire. Each gateway has a unique emblem.": "Il y a une maison mystérieuse à gauche du feu de camp vert. Chaque porte a un emblème unique.",
     "The door on the left warps me to the Bramble Forest.": "La porte à gauche m'envoie à la Forêt de Ronce.",
     "The door straight ahead warps me to the North Pole.": "La porte tout droit m'envoie au Pôle Nord.",
@@ -1123,12 +1131,38 @@
     "There is what appears to be a Bramble Infestation on the North Pole.": "Il y a ce qui semble être une Infestation de Ronces au Pôle Nord.",
     "There is an elevator on the edge of the North Pole.": "Il y a un ascenseur sur le bord du Pôle Nord.",
     "Bramble Archives": "Archives des Ronces",
+    "Angler's Eye Archives?": "Archives d'Œil Sombre ?",
+    "There was mention about an archive somewhere on Angler's Eye.": "Il y avait une mention d'une archive quelque part sur Œil Sombre.",
     "Growing atop the planet's North Pole at the bottom of the ocean was a Bramble Node, and within that node are this area's archives!": "Au sommet du Pôle Nord de la planète, au fond de l'océan, se trouvait un Nœud de Ronces, et dans ce nœud se trouvent les archives de cette zone !",
     "The Scientist mentioned the fact that members of his kind are asleep in a \"Coma Hall\", and that both noise and artifact light disturb their slumber.": "Le scientifique a mentionné le fait que des membres de son espèce dorment dans un \"Hall de Coma\", et que le bruit et la lumière des artefacts perturbent leur sommeil.",
     "Some advice for evading Anglerfish is written on the wall! \"Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.\"": "Quelques conseils pour éviter les Cœlacanthes sont écrits sur le mur ! \"Il est plus facile de ne pas réveiller les cœlacanthes si vous êtes sans vaisseau. Nous pensons que cela est dû au bruit. Si une urgence survient, il sera utile de vous éjecter du vaisseau.\"",
     "Some advice for evading Anglerfish is written on the wall! \"To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just cast right past you instead of chase you.\"": "Quelques conseils pour éviter les Cœlacanthes sont écrits sur le mur ! \"Pour échapper à un cœlacanthe, utilisez la puissance de poussée diagonale. Vous pouvez également éviter d'être poursuivi si vous arrêtez la poussée juste au moment où vous le voyez bouger ou l'entendez grogner. Il pourrait juste vous dépasser au lieu de vous poursuivre.\"",
+    "Bramble Archives Code Switch": "Commutateur de Code des Archives des Ronces",
+    "Mineral Display Connection?": "Connexion Vitrine Minéral ?",
+    "The glass display appears to be connected to the Angler's Eye Green Fire in some way.": "La barrière en verre semble être connectée au feu vert d'Œil Sombre d'une certaine manière.",
+    "Inside the archives are two code totems and a mural of the mineral.": "À l'intérieur des archives se trouvent deux totems de code et une fresque du minéral.",
+    "Inputting the codes seemed to play a sound and change the mural on the wall. It's likely that something changed in the real world.": "La saisie des codes semblait jouer un son et changer la fresque sur le mur. Il est probable que quelque chose ait changé dans le monde réel.",
+    "The two totems are the key to opening the mineral's display case.": "Les deux totems sont la clé pour ouvrir la vitrine d'exposition du minéral.",
+    "Archives Left Vision Torch": "Archives Torche de Vision de Gauche",
+    "A vision torch can be seen kneeling on the left totem.": "Une torche de vision peut être vue posée sur le totem de gauche.",
+    "A vision torch on the left showed me where I can find a code for the totem.": "Une torche de vision à gauche m'a montré où je peux trouver un code pour le totem.",
+    "Archives Right Vision Torch": "Archives Torche de Vision de Droite",
+    "A vision torch can be seen kneeling on the right totem.": "Une torche de vision peut être vue posée sur le totem de droite.",
+    "A vision torch on the right showed me where I can find a code for the totem.": "Une torche de vision à droite m'a montré où je peux trouver un code pour le totem.",
+    "Isolated Swamp Code": "Code Marais Isolé",
+    "Right Code Location": "Emplacement Code de Droite",
+    "I found the codes in the Isolated Swamp Archives near the topmost elevator.": "J'ai trouvé les codes dans les archives du Marais Isolé près du plus haut ascenseur.",
+    "Preserved Planet Code": "Code Planète Préservée",
+    "Left Code Location": "Emplacement Code de Gauche",
+    "I found the codes in the Preserved Planet's caves near the elevator.": "J'ai trouvé les codes dans les grottes de la Planète Préservée près de l'ascenseur.",
     "Dark Bramble Reel": "Carrousel de Sombronces",
     "This slide reel shows The Scientist using a Vision Telescope to unravel the mysteries of the frozen planet, only for him to find out that it would become Dark Bramble. However, this vision gave him an idea...": "Ce diaporama montre Le Scientifique utilisant un Télescope de Vision pour percer les mystères de la planète gelée, seulement pour qu'il découvre que cela deviendrait Sombronces. Cependant, cette vision lui a donné une idée...",
+    "Archives Shortcut Reel": "Carrousel Raccourci Archives",
+    "A slide reel shows how to access a shortcut to the Bramble Archives involving a gear interface not far from the starting fire.": "Un carrousel de diapositives montre comment accéder à un raccourci vers les Archives des Ronces impliquant une interface d'engrenage non loin du feu de départ.",
+    "Archives Shortcut": "Raccourci Archives",
+    "Shortcut Location": "Emplacement Raccourci",
+    "There is a shortcut to the Bramble Archives involving a gear interface not far from the starting fire.": "Il y a un raccourci vers les Archives des Ronces impliquant une interface d'engrenage non loin du feu de départ.",
+    "I found the shortcut to the Bramble Archives not far from the starting fire.": "J'ai trouvé le raccourci vers les Archives des Ronces non loin du feu de départ.",
     "Blackout Bramble": "Blackout de Ronces",
     "Bramble Seed on Angler's Eye": "Graine de Ronce sur Œil Sombre",
     "According to a message in the basement of the Dark Bramble Museum, there's a Bramble Seed planted likely inside the hurricane.": "D'après un message dans le sous-sol du Musée de Sombronces, il y a probablement une Graine de Ronce plantée à l'intérieur de l'ouragan.",
@@ -1223,7 +1257,6 @@
     "A memorial for The Prisoner explains some more details about why he did what he did.": "Un mémorial pour Le Prisonnier explique quelques détails supplémentaires sur la raison pour laquelle il a fait ce qu'il a fait.",
     "I found a memorial upstairs with four containers of ashes.": "J'ai trouvé un mémorial à l'étage avec quatre conteneurs de cendres.",
     "The memorial updstairs is dedicated to The Scientist and his family. His last words were, \"Keep our home safe, by any means necessary\".": "Le mémorial situé à l'étage supérieur est dédié au Scientifique et à sa famille. Ses dernières paroles étaient, \"Gardez notre maison en sécurité, par tous les moyens nécessaires\".",
-    "Observation Deck": "Plateforme d'Observation",
     "I found an observation deck similar to the one on Angler's Eye.": "J'ai trouvé une plateforme d'observation similaire à celle sur Œil Sombre.",
     "I met an inhabitant astronomer. He seems pretty content about the world dying.": "J'ai rencontré un habitant astronome. Il semble assez content que le monde meure.",
     "Some observations show that the Desert Planet is deadly on its sun-facing side and a shows the fourth planet is known to \"change appearance\".": "Certaines observations montrent que la Planète Désertique est mortelle du côté ensoleillé et montre que la quatrième planète est connue pour \"changer d'apparence\".",
@@ -1277,9 +1310,9 @@
     "In the archive, the elevator to the left takes me to a library filled with slide reels involving the history of the inhabitants.": "Dans les archives, l'ascenseur à gauche me mène à une bibliothèque remplie de carrousels de diapositives sur l'histoire des habitants.",
     "In the archive, the elevator in the middle takes me to a library filled with slide reels filled with information.": "Dans les archives, l'ascenseur au milieu m'emmène à une bibliothèque remplie de carrousels de diapositives remplies d'informations.",
     "In the archive, the elevator to the right takes me down to the theater. It also contains a table and some data transferring totems.": "Dans les archives, l'ascenseur à droite m'emmène jusqu'au théâtre. Il contient également une table et quelques totems de transfert de données.",
-    "According to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "D'après un message sur la table, Le Scientifique a fait cette archive pour préserver tous les carrousels de diapositives, mais ce \"chef\" lui a ordonné de le garder.",
-    "According to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "D'après un message sur la table, Le Scientifique explique comment fonctionne la salle de coma, mais montre aussi à quel point elle était populaire. Cela explique où tous les autres, que je n'ai pas vus dans les autres zones, sont allés.",
-    "Prisoner's Breakdown Reel": "Carrousel de la dépression du Prisoner",
+    "Accroding to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "D'après un message sur la table, Le Scientifique a fait cette archive pour préserver tous les carrousels de diapositives, mais ce \"chef\" lui a ordonné de le garder.",
+    "Accroding to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "D'après un message sur la table, Le Scientifique explique comment fonctionne la salle de coma, mais montre aussi à quel point elle était populaire. Cela explique où tous les autres, que je n'ai pas vus dans les autres zones, sont allés.",
+    "Prisoner's Breakdown Reel": "Carrousel de la dépression du Prisonnier",
     "This slide reel shows The Prisoner among others breaking down in tears after watching The Scientist crash into Angler's Eye. The Prisoner almost jumped off the Eye Shrine, but seeing The Eye Symbol sparked something in him to stop...": "Ce carrousel de diapositives montre Le Prisonnier parmi d'autres fondant en larmes après avoir regardé Le Scientifique s'écraser sur Œil Sombre. Le Prisonnier a failli sauter du Sanctuaire de l'Œil, mais voir le symbole de l'Œil a déclenché quelque chose en lui pour arrêter...",
     "Scientist Data Clone": "Clone de Données du Scientifique",
     "I met a data clone of The Scientist in the Isolated Swamp Archives!": "J'ai rencontré un clone de données du Scientifique dans les Archives du Marais Isolé !",
@@ -1476,19 +1509,19 @@
   "AchievementTranslations": {
     "tsta_thevision": {
       "Name": "La Vision",
-      "Description": "Utiliser la Torche de Vision sur Solanum."
+      "Description": "Utilisez la Torche de Vision sur Solanum."
     },
     "tsta_mindscapes": {
       "Name": "Porjection Mentale",
-      "Description": "Utiliser la Torche de Vision sur Slate."
+      "Description": "Utilisez la Torche de Vision sur Slate."
     },
     "tsta_redpilled": {
       "Name": "Désillusionné",
-      "Description": "Activer le mode simulation permanent."
+      "Description": "Activez le mode simulation permanent."
     },
     "tsta_ghostbusters": {
       "Name": "Ghostbuster",
-      "Description": "Retirer tous les résidents de la simulation."
+      "Description": "Retirez tous les résidents de la simulation."
     },
     "tsta_sudormrf": {
       "Name": "sudo rm -rf /*",
@@ -1496,23 +1529,27 @@
     },
     "tsta_followyourdreams": {
       "Name": "Suis Tes Rêves",
-      "Description": "Atteindre une certaine planète avant d'apprendre la Langue des Étrangers."
+      "Description": "Atteignez une certaine planète avant d'apprendre la Langue des Étrangers."
     },
     "tsta_allornothing": {
       "Name": "Tout ou Rien",
-      "Description": "Obtenir les cinq sceaux dans une seule boucle."
+      "Description": "Obtenez les cinq sceaux dans une seule boucle."
     },
     "tsta_ernesto": {
       "Name": "Spécialiste de Ernesto",
-      "Description": "Trouver Ernesto."
+      "Description": "Trouvez Ernesto."
     },
     "tsta_gettrolled": {
       "Name": "Trollé !",
-      "Description": "Fais-toi troller."
+      "Description": "Faites-vous troller."
     },
     "tsta_gangnam": {
       "Name": "Oppan Stranger Style!",
-      "Description": "Trouve le Stranger Style"
+      "Description": "Trouvez le Stranger Style"
+    },
+    "tsta_reunion": {
+    "Name": "Réunion de Famille",
+    "Description": "Présentez Cyprès au Scientifique et au Prisonnier."
     }
   }
 }
