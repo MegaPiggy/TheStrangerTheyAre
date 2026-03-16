@@ -12,7 +12,7 @@ public class SealItem : NHItem
     private string _sealName;
     private string _sealFactID;
 
-    public override void Awake()
+    public void OnValidate()
     {
         _type = TheStrangerTheyAre.SealItemType;
         _sealName = GetSealName(sealID);
@@ -24,6 +24,11 @@ public class SealItem : NHItem
         SocketAudio = AudioType.ToolItemSharedStoneInsert;
         UnsocketAudio = AudioType.ToolItemSharedStoneRemove;
         PickupFact = _sealFactID;
+    }
+
+    public override void Awake()
+    {
+        OnValidate();
         base.Awake();
     }
 

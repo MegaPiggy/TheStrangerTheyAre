@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Linq;
+using UnityEngine;
 
 namespace TheStrangerTheyAre
 {
@@ -61,7 +62,7 @@ namespace TheStrangerTheyAre
                 Collider[] hits = Physics.OverlapSphere(globalPoint, _sphereCheckRadius);
                 if (hits != null && hits.Length > 0)
                 {
-                    TheStrangerTheyAre.WriteLine($"QuantumAnglerfish candidate position {globalPoint} is occupied by {hits.Length} colliders [{string.Join(", ", hits)}], trying again.", OWML.Common.MessageType.Debug);
+                    TheStrangerTheyAre.WriteLine($"QuantumAnglerfish candidate position {globalPoint} is occupied by {hits.Length} colliders [{string.Join(", ", hits.Select(c => c.name))}], trying again.", OWML.Common.MessageType.Debug);
                     // occupied, try again
                     continue;
                 }
