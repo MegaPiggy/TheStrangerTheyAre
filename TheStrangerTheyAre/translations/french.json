@@ -118,7 +118,7 @@
     //Table
     "Day 100: The mineral's side effects not only turn the dimension's fog black, but also give the anglerfish an interesting property. Turns out, they change location each time you look away.": "Jour 100 : Les effets secondaires du minéral non seulement rendent le brouillard de la dimension noir, mais donnent également au cœlacanthe une propriété intéressante. Il s'avère qu'ils changent d'emplacement chaque fois que vous regardez ailleurs.",
     "Day 99: Just started to map out these pocket dimension. Thankfully I scanned the lighted node with my vision torch, because there's no way out! That dimension is a trap!": "Jour 99 : Je viens de commencer à cartographier ces dimensions de poche. Heureusement, j'ai scanné le nœud éclairé avec ma torche de vision, car il n'y a pas d'issue ! Cette dimension est un piège !",
-    "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I don't forget.": "Jour 105 : Je l'ai fait ! Après des jours de recherche, j'ai trouvé le bon chemin vers ce qui pourrait être notre système natal ! Je ferai un enregistrement de diapositives au cas où je n'oublierais pas.",
+    "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I forget.": "Jour 105 : Je l'ai fait ! Après des jours de recherche, j'ai trouvé le bon chemin vers ce qui pourrait être notre système natal ! Je ferai un enregistrement de diapositives au cas où j’oublierais.",
 
     //DescendantSurface
     "Alright, this is it...the End of the Universe. I hope my distant uncle was right about this place giving birth to a new universe in our place.": "D'accord, c'est ça... la Fin de l'Univers. J'espère que mon oncle éloigné avait raison à propos de cet endroit donnant naissance à un nouvel univers chez nous.",
@@ -736,6 +736,17 @@
     "And Hatchling, once again, I thank you. For everything. As for everyone else.": "Et Petite pierre, encore une fois, je te remercie. Pour tout. Comme pour tous les autres.",
     "Hatchling, once again, I thank you. For everything.": "Petite pierre, encore une fois, je te remercie. Pour tout.",
 
+    //ErnestoWarning
+    "Hey it's me Ernesto, the magic talking anglerfish.": "Hey c'est moi Ernesto, le cœlacanthe magic qui parle.",
+    "Now this isn't the time for fun and games, OK? I have something very important to tell you.": "Maintenant, ce n'est pas le moment de s'amuser et de jouer, d'accord ? J'ai quelque chose de très important à te dire.",
+    "Some ominous creature in a trench coat that dubbed itself as \"Anonymous\" came up to me, and it wanted me to pass on a warning.": "Une créature menaçante en trench-coat qui se faisait appeler \"Anonymous\" s'est approchée de moi, et elle voulait que je transmette un avertissement.",
+    "And the warning? It goes a little something like this.": "Et l'avertissement ? Ça fait un peu quelque chose comme ça.",
+    "<size=20>*ahem*</size>": "<size=20>*ahem*</size>",
+    "<size=72>DO NOT SHOOT YOUR SCOUT INTO THE EYE</size>": "<size=72>NE TIRE PAS TON GUETTEUR DANS L'ŒIL</size>",
+    "Yeah, a certain section has an elevator and an instrument that both don't work unless you launch your scout once when you find it.": "Ouais, une certaine section a un ascenseur et un instrument qui ne fonctionnent pas à moins que tu ne lances ton guetteur une fois que tu le trouves.",
+    "I know it's tempting, but you can just launch your scout right before you jump into the orb. Got it?": "Je sais que c'est tentant, mais tu peux simplement lancer ton guetteur juste avant de sauter dans l'orbe. Compris ?",
+    "Don't screw this up, or you'll have to restart the mod!": "Ne gâche pas ça, ou tu devras redémarrer le mod !",
+
     //PrisonerNew
     "...": "...",
     "There's someone I'd like you to meet.": "Il y a quelqu'un que j'aimerais que vous rencontrez.",
@@ -1054,6 +1065,7 @@
     "There is a mineral inside a glass display, which is directly connected to the green fire nearby.": "Il y a un minéral à l'intérieur d'une vitrine d'exposition, qui est directement connecté au feu vert à proximité.",
     "I was able to unlock the glass display by entering a series of codes in the Preserved Planet's Archives.": "J'ai pu déverrouiller la barrière en verre en entrant une série de codes dans les Archives de la Planète Préservée.",
     "The mineral inside the display can be picked up.": "Le minéral à l'intérieur de la vitrine peut être ramassé.",
+    "There is a mineral atop the table in the Bramble Museum's basement that can be picked up.": "Il y a un minéral au sommet de la table dans le sous-sol du Musée des Ronces qui peut être récupéré.",
     "Angler's Eye Theater": "Théâtre d'Œil Sombre",
     "There is a Theater House on Angler's Eye for the purpose of watching slide reels.": "Il y a une Maison du Théâtre sur Œil Sombre dans le but de regarder des carrousels de diapositives.",
     "The text on the left of the table reads out some sort of poem stanza...": "Le texte à gauche du tableau indique une sorte de strophe poétique...",
@@ -1095,6 +1107,7 @@
     "A vine from the Bramble Seed blocking the ocean also appears to be reaching out and blocking something.": "Une vigne de la Graine de Ronce bloquant l'océan semble également s'étendre et bloquer quelque chose.",
     "On the South Pole in the caves is a sign. It says a poem \"To the South Pole, take a stroll. Retrace your steps, to the North Pole.\"": "Sur le pôle Sud dans les grottes se trouve un panneau. Il dit un poème \"Au Pôle Sud, faîtes une balade. Reviennez sur vos pas, au Pôle Nord.\"",
     "Warp House": "Maison de téléportation",
+    "Code Totem House": "Maison du Code du Totem",
     "There is a mysterious house to the left of the green campfire. Each gateway has a unique emblem.": "Il y a une maison mystérieuse à gauche du feu de camp vert. Chaque porte a un emblème unique.",
     "The door on the left warps me to the Bramble Forest.": "La porte à gauche m'envoie à la Forêt de Ronce.",
     "The door straight ahead warps me to the North Pole.": "La porte tout droit m'envoie au Pôle Nord.",
@@ -1133,6 +1146,7 @@
     "Bramble Archives": "Archives des Ronces",
     "Angler's Eye Archives?": "Archives d'Œil Sombre ?",
     "There was mention about an archive somewhere on Angler's Eye.": "Il y avait une mention d'une archive quelque part sur Œil Sombre.",
+    "The code door straight ahead has an emblem with a large amount of Bramble Vines growing from a center point.": "La porte de code tout droit a un emblème avec une grande quantité de Vignes de Ronce poussant à partir d'un point central.",
     "Growing atop the planet's North Pole at the bottom of the ocean was a Bramble Node, and within that node are this area's archives!": "Au sommet du Pôle Nord de la planète, au fond de l'océan, se trouvait un Nœud de Ronces, et dans ce nœud se trouvent les archives de cette zone !",
     "The Scientist mentioned the fact that members of his kind are asleep in a \"Coma Hall\", and that both noise and artifact light disturb their slumber.": "Le scientifique a mentionné le fait que des membres de son espèce dorment dans un \"Hall de Coma\", et que le bruit et la lumière des artefacts perturbent leur sommeil.",
     "Some advice for evading Anglerfish is written on the wall! \"Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.\"": "Quelques conseils pour éviter les Cœlacanthes sont écrits sur le mur ! \"Il est plus facile de ne pas réveiller les cœlacanthes si vous êtes sans vaisseau. Nous pensons que cela est dû au bruit. Si une urgence survient, il sera utile de vous éjecter du vaisseau.\"",
@@ -1310,8 +1324,8 @@
     "In the archive, the elevator to the left takes me to a library filled with slide reels involving the history of the inhabitants.": "Dans les archives, l'ascenseur à gauche me mène à une bibliothèque remplie de carrousels de diapositives sur l'histoire des habitants.",
     "In the archive, the elevator in the middle takes me to a library filled with slide reels filled with information.": "Dans les archives, l'ascenseur au milieu m'emmène à une bibliothèque remplie de carrousels de diapositives remplies d'informations.",
     "In the archive, the elevator to the right takes me down to the theater. It also contains a table and some data transferring totems.": "Dans les archives, l'ascenseur à droite m'emmène jusqu'au théâtre. Il contient également une table et quelques totems de transfert de données.",
-    "Accroding to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "D'après un message sur la table, Le Scientifique a fait cette archive pour préserver tous les carrousels de diapositives, mais ce \"chef\" lui a ordonné de le garder.",
-    "Accroding to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "D'après un message sur la table, Le Scientifique explique comment fonctionne la salle de coma, mais montre aussi à quel point elle était populaire. Cela explique où tous les autres, que je n'ai pas vus dans les autres zones, sont allés.",
+    "According to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "D'après un message sur la table, Le Scientifique a fait cette archive pour préserver tous les carrousels de diapositives, mais ce \"chef\" lui a ordonné de le garder.",
+    "According to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "D'après un message sur la table, Le Scientifique explique comment fonctionne la salle de coma, mais montre aussi à quel point elle était populaire. Cela explique où tous les autres, que je n'ai pas vus dans les autres zones, sont allés.",
     "Prisoner's Breakdown Reel": "Carrousel de la dépression du Prisonnier",
     "This slide reel shows The Prisoner among others breaking down in tears after watching The Scientist crash into Angler's Eye. The Prisoner almost jumped off the Eye Shrine, but seeing The Eye Symbol sparked something in him to stop...": "Ce carrousel de diapositives montre Le Prisonnier parmi d'autres fondant en larmes après avoir regardé Le Scientifique s'écraser sur Œil Sombre. Le Prisonnier a failli sauter du Sanctuaire de l'Œil, mais voir le symbole de l'Œil a déclenché quelque chose en lui pour arrêter...",
     "Scientist Data Clone": "Clone de Données du Scientifique",
@@ -1548,8 +1562,8 @@
       "Description": "Trouvez le Stranger Style"
     },
     "tsta_reunion": {
-    "Name": "Réunion de Famille",
-    "Description": "Présentez Cyprès au Scientifique et au Prisonnier."
+      "Name": "Réunion de Famille",
+      "Description": "Présentez Cyprès au Scientifique et au Prisonnier."
     }
   }
 }
