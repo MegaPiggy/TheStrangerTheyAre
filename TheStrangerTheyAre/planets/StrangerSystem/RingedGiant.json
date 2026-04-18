@@ -264,10 +264,7 @@
 				"detectionRadius": 300,
 				"identificationRadius": 10,
 				"parentPath": "Sector/Seal_Ringed",
-				"isRelativeToParent": true,
-				"position": {
-					"y": 2
-				}
+				"isRelativeToParent": true
 			}
 		]
 	},
