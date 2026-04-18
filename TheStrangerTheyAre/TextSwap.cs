@@ -14,18 +14,6 @@ namespace TheStrangerTheyAre
 
         public void Start()
         {
-            if (TheStrangerTheyAre.NewHorizonsAPI.GetCurrentStarSystem() == "SolarSystem")
-            {
-                if (Locator.GetShipLogManager().IsFactRevealed("ANGLERS_EYE_ALIENTEXT_E2"))
-                {
-                    PlayerData.SetPersistentCondition("LANGUAGE_LEARNED", true);
-                }
-                else
-                {
-                    PlayerData.SetPersistentCondition("LANGUAGE_LEARNED", false);
-                }
-            }
-
             if (Dialogue == null)
             {
                 TheStrangerTheyAre.WriteLine($"TextSwap at {transform.GetPath()} is missing a reference to the dialogue.", OWML.Common.MessageType.Error);
