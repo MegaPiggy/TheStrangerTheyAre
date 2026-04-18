@@ -112,7 +112,6 @@
     }
   ],
   "preloadAssetBundles": [
-    "assets/AssetBundle/strangerbundle",
-    "assets/AssetBundle/postcredits"
+    "assets/AssetBundle/strangerbundle"
   ]
 }
