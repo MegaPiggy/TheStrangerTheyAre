@@ -6,5 +6,6 @@
   "uniqueName": "AnonymousStrangerOW.TheStrangerTheyAre",
   "version": "2.7.2",
   "owmlVersion": "2.15.1",
-  "dependencies": ["xen.NewHorizons"]
+  "conflicts": [ "SBtT.TheOutsider" ],
+  "dependencies": [ "xen.NewHorizons" ]
 }

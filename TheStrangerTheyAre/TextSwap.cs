@@ -37,8 +37,7 @@ namespace TheStrangerTheyAre
 
         private void Apply(bool learnedLanguage)
         {
-            // Always disable translator text in DreamWorld
-            TranslatorText.SetActive(!IsInDreamWorld() && !learnedLanguage);
+            TranslatorText.SetActive(false);
             Dialogue.SetActive(learnedLanguage);
             _isSwapped = learnedLanguage;
         }
@@ -46,11 +45,6 @@ namespace TheStrangerTheyAre
         private bool Check()
         {
             return Locator.GetShipLogManager().IsFactRevealed("ANGLERS_EYE_ALIENTEXT_E2");
-        }
-
-        private bool IsInDreamWorld()
-        {
-            return this.GetAttachedOWRigidbody().gameObject.name.StartsWith("DreamWorld");
         }
     }
 }
