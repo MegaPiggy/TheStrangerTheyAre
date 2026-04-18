@@ -80,7 +80,7 @@
 		<!-- Another node why not -->
 		<Name>1A</Name>
 		<Dialogue>
-			<Page>You have? What was in there? How did you get in? i thought the place was sealed off!</Page>
+			<Page>You have? What was in there? How did you get in? I thought the place was sealed off!</Page>
 		</Dialogue>
 		<DialogueOptionsList>
 			<DialogueOption>
