@@ -5,10 +5,8 @@ namespace TheStrangerTheyAre
 {
     public class TextSwap : MonoBehaviour
     {
-        [SerializeField]
-        public GameObject TranslatorText;
-        [SerializeField]
-        public GameObject Dialogue;
+        [SerializeField] public GameObject TranslatorText;
+        [SerializeField] public GameObject Dialogue;
 
         private bool _isSwapped;
 
@@ -26,32 +24,33 @@ namespace TheStrangerTheyAre
                 TranslatorText = gameObject.FindChild("Arc 1");
             }
 
-            if (Check())
-            {
-                TranslatorText.SetActive(false);
-                Dialogue.SetActive(true);
-                _isSwapped = true;
-            }
-            else
-            {
-                TranslatorText.SetActive(true);
-                Dialogue.SetActive(false);
-                _isSwapped = false;
-            }
+            Apply(Check());
         }
 
         public void Update()
         {
             if (!_isSwapped && Check())
             {
-                TranslatorText.SetActive(false);
-                Dialogue.SetActive(true);
+                Apply(true);
             }
+        }
+
+        private void Apply(bool learnedLanguage)
+        {
+            // Always disable translator text in DreamWorld
+            TranslatorText.SetActive(!IsInDreamWorld() && !learnedLanguage);
+            Dialogue.SetActive(learnedLanguage);
+            _isSwapped = learnedLanguage;
         }
 
         private bool Check()
         {
             return Locator.GetShipLogManager().IsFactRevealed("ANGLERS_EYE_ALIENTEXT_E2");
+        }
+
+        private bool IsInDreamWorld()
+        {
+            return this.GetAttachedOWRigidbody().gameObject.name.StartsWith("DreamWorld");
         }
     }
 }
