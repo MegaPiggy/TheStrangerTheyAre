@@ -5,7 +5,7 @@ namespace TheStrangerTheyAre;
 
 public class CloakMineralItem : NHItem
 {
-    public override void Awake()
+    public void OnValidate()
     {
         _type = TheStrangerTheyAre.CloakMineralItemType;
         DisplayName = "MineralDisplayName";
@@ -15,6 +15,11 @@ public class CloakMineralItem : NHItem
         SocketAudio = AudioType.ToolItemScrollInsert;
         UnsocketAudio = AudioType.ToolItemScrollRemove;
         PickupFact = "ANGLERS_EYE_MINE_MINERAL";
+    }
+
+    public override void Awake()
+    {
+        OnValidate();
         base.Awake();
     }
 

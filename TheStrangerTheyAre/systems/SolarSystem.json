@@ -1,5 +1,19 @@
 {
-    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+  "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+  "conditionalChecks": [
+    {
+      "check": {
+        "allFactsRevealed": [
+          "ANGLERS_EYE_ALIENTEXT_E2"
+        ]
+      },
+      "then": {
+        "setPersistentConditions": [
+          "TSTA_LANGUAGE_LEARNED"
+        ]
+      }
+    }
+  ],
   "entryPositions": [
     {
       "id": "ANGLERS_EYE_MAIN",
@@ -421,6 +435,5 @@
         "a": 255
       }
     }
-  ],
-    "returnToSolarSystemWhenTooFar": true
+  ]
 }

@@ -8,7 +8,7 @@ public class GhostbirdSkullItem : NHItem
     private readonly Vector3 _defaultScale = Vector3.one;
     private readonly Vector3 _smallerScale = Vector3.one * 0.3f;
 
-    public override void Awake()
+    public void OnValidate()
     {
         _type = TheStrangerTheyAre.GhostbirdSkullItemType;
         DisplayName = "SkullDisplayName";
@@ -18,6 +18,11 @@ public class GhostbirdSkullItem : NHItem
         SocketAudio = AudioType.ToolItemSharedStoneInsert;
         UnsocketAudio = AudioType.ToolItemSharedStoneRemove;
         PickupFact = "QUANTUM_CORPSE_SKULL";
+    }
+
+    public override void Awake()
+    {
+        OnValidate();
         base.Awake();
     }
 

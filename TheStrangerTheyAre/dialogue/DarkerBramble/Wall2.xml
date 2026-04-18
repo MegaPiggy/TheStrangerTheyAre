@@ -5,7 +5,7 @@
 		<EntryCondition>DEFAULT</EntryCondition>
 		<RequiredLogCondtion>ANGLERS_EYE_ALIENTEXT_E2</RequiredLogCondtion>
 		<Dialogue>
-			<Page>Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I don't forget.</Page>
+			<Page>Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I forget.</Page>
 		</Dialogue>
 		<RevealFacts>
 			<FactID>DARKER_BASE_TEXT2</FactID>

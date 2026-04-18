@@ -1644,6 +1644,7 @@
 		],
 		"signals": [
 			{
+				"rename": "AntennaSignal",
 				"frequency": "Strange Frequency",
 				"name": "Signal House",
 				"audio": "assets/Audio/POSTLUDE_SIGNAL.ogg",
@@ -1657,7 +1658,8 @@
 					"x": -22.36887,
 					"y": 115.6436,
 					"z": 28.60617
-				}
+				},
+				"parentPath": "Sector/SignalHouse/Props/SatelliteDish/Antenna/AntennaEnd"
 			}
 		],
 		"entryLocation": [
@@ -1782,15 +1784,17 @@
 	"Volumes": {
 		"audioVolumes": [
 			{
+				"rename": "MainMusic",
 				"audio": "assets/Audio/sorcerer.ogg",
 				"clipSelection": "random",
 				"track": "music",
 				"priority": 0,
-				"radius": 150.0,
+				"radius": 210.0,
 				"volume": 0.3,
 				"position": {}
 			},
 			{
+				"rename": "BrambleMuseumMusic",
 				"audio": "assets/Audio/bramblemuseum.ogg",
 				"priority": 1,
 				"clipSelection": "random",
@@ -1804,6 +1808,7 @@
 				}
 			},
 			{
+				"rename": "ConservatoryAmbience",
 				"audio": "DreamFireRoom",
 				"priority": 1,
 				"clipSelection": "random",
@@ -1817,6 +1822,7 @@
 				}
 			},
 			{
+				"rename": "TheatreAmbience",
 				"audio": "assets/Audio/silence.ogg",
 				"priority": 1,
 				"track": "music",
@@ -1842,6 +1848,7 @@
 		],
 		"hazardVolumes": [
 			{
+				"parentPath": "Sector/Hurricane",
 				"firstContactDamageType": "electrical",
 				"firstContactDamage": 10000000,
 				"damagePerSecond": 10000000,
@@ -1868,17 +1875,17 @@
 		],
 		"interferenceVolumes": [
 			{
-				"radius": 145.0
+				"radius": 210
 			}
 		],
 		"mapRestrictionVolumes": [
 			{
-				"radius": 145.0
+				"radius": 210
 			}
 		],
 		"oxygenVolumes": [
 			{
-				"radius": 145,
+				"radius": 210,
 				"position": {
 					"x": 0,
 					"y": 70,
@@ -1889,6 +1896,7 @@
 		],
 		"revealVolumes": [
 			{
+				"rename": "TheatreRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -1902,6 +1910,7 @@
 				]
 			},
 			{
+				"rename": "SignalRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -1915,6 +1924,7 @@
 				]
 			},
 			{
+				"rename": "PoemRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -1928,6 +1938,7 @@
 				]
 			},
 			{
+				"rename": "SignalHouseRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -1942,9 +1953,10 @@
 				]
 			},
 			{
+				"rename": "MainRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
-				"radius": 130,
+				"radius": 210,
 				"position": {
 					"x": 0,
 					"y": 0,
@@ -1956,9 +1968,10 @@
 				]
 			},
 			{
+				"rename": "HurricaneEnterRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
-				"radius": 75,
+				"radius": 100,
 				"position": {
 					"x": 1.104206,
 					"y": -100.9798,
@@ -1969,6 +1982,22 @@
 				]
 			},
 			{
+				"rename": "HurricaneObserveRevealVolume",
+				"revealFor": "player",
+				"revealOn": "observe",
+				"radius": 80,
+				"maxDistance": 100,
+				"position": {
+					"x": 1.104206,
+					"y": -100.9798,
+					"z": -0.5480309
+				},
+				"reveals": [
+					"ANGLERS_EYE_MAIN_HURRICANE_R1"
+				]
+			},
+			{
+				"rename": "BrambleMuseumRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -1982,6 +2011,7 @@
 				]
 			},
 			{
+				"rename": "SimRoomRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -1995,6 +2025,7 @@
 				]
 			},
 			{
+				"rename": "RockRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -2008,6 +2039,7 @@
 				]
 			},
 			{
+				"rename": "MineRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -2021,6 +2053,7 @@
 				]
 			},
 			{
+				"rename": "R&DTerraplanRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -2034,6 +2067,7 @@
 				]
 			},
 			{
+				"rename": "R&DOrbitEnterRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -2041,12 +2075,41 @@
 					"y": 80.64743,
 					"z": -79.98937
 				},
-				"radius": 2,
+				"radius": 3,
 				"reveals": [
 					"ANGLERS_EYE_RD_ORBIT"
 				]
 			},
 			{
+				"rename": "R&DOrbitObserveRevealVolume",
+				"revealFor": "player",
+				"revealOn": "observe",
+				"maxDistance": 10,
+				"position": {
+					"x": 5.7406,
+					"y": 79.544,
+					"z": -82.011
+				},
+				"rotation": {
+					"x": 43.9255,
+					"y": 356.3114,
+					"z": 355.4712
+				},
+				"shape": {
+					"useShape": false,
+					"type": "box",
+					"size": {
+						"x": 4.375,
+						"y": 0.25,
+						"z": 4.375
+					}
+				},
+				"reveals": [
+					"ANGLERS_EYE_RD_ORBIT"
+				]
+			},
+			{
+				"rename": "ConservatoryRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"position": {
@@ -2060,6 +2123,7 @@
 				]
 			},
 			{
+				"rename": "VisionReelRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"parentPath": "Sector/R&DHouse_DBM/Props/F2_Props/Prefab_IP_SlideReelShelf (1)/SlideReelShelf_Row_03/SlideSocket_02",
@@ -2070,6 +2134,7 @@
 				]
 			},
 			{
+				"rename": "CrashSiteRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"parentPath": "Sector/CRASHSITE_TEXT",
@@ -2080,6 +2145,7 @@
 				]
 			},
 			{
+				"rename": "MineralTubeOnRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"parentPath": "Sector/BrambleMuseum/Interactables/Tube_Mineral/ShiplogOn",
@@ -2090,6 +2156,7 @@
 				]
 			},
 			{
+				"rename": "MineralTubeOffRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"parentPath": "Sector/BrambleMuseum/Interactables/Tube_Mineral/ShiplogOff",
@@ -2101,6 +2168,7 @@
 				]
 			},
 			{
+				"rename": "ObservationDeckRevealVolume",
 				"revealFor": "player",
 				"revealOn": "enter",
 				"parentPath": "Sector/ObservationDeck_DBM",

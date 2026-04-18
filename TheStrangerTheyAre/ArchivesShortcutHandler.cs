@@ -13,6 +13,7 @@ namespace TheStrangerTheyAre
 
         // spawn stuff
         private PlayerSpawner _spawner; // for spawning the player
+        private bool _isTeleporting;
 
         public const float blinkTime = 0.5f; // constant for blink time
         public const float animTime = blinkTime / 2f; // constant for blink animation time
@@ -23,15 +24,18 @@ namespace TheStrangerTheyAre
             _archivesSpawn = SearchUtilities.Find("PreBramble_Archives_Body/Sector/PreBrambleBase/Interactibles/BrambleArchivesSpawn").GetComponent<SpawnPoint>();
         }
 
-        public override bool CanInteract => true;
+        public override bool CanInteract => !_isTeleporting;
 
         public override void OnGearRotated()
         {
+            if (_isTeleporting) return;
             StartCoroutine(UseShortcut());
         }
 
         private IEnumerator UseShortcut()
         {
+            _isTeleporting = true;
+            
             yield return new WaitForSeconds(0.5f); // let the animation play first
             OWInput.ChangeInputMode(InputMode.None); // stop player input for a while
             var cameraEffectController = FindObjectOfType<PlayerCameraEffectController>(); // gets camera controller
@@ -52,6 +56,8 @@ namespace TheStrangerTheyAre
             yield return new WaitForSeconds(animTime); //  waits until animation stops to proceed to next line
             OWInput.ChangeInputMode(InputMode.Character); // stop player input for a while
             Locator.GetShipLogManager().RevealFact("PREBRAMBLE_SHORTCUT_E"); // reveal shiplog
+
+            _isTeleporting = false;
         }
     }
 }

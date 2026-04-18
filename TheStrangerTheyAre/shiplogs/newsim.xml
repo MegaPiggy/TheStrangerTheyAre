@@ -146,12 +146,12 @@
 
             <ExploreFact> <!-- An explore fact that belongs to this entry -->
                 <ID>NEWSIM_ARCHIVE_TEXT1</ID> <!-- The ID of this fact -->
-                <Text>Accroding to a message on the table, The Scientist made this archive to preserve all the slide reels, but this "leader" ordered him to have it guarded.</Text> <!-- The Text to display for this fact, notice how you can use color just like in dialogue -->
+                <Text>According to a message on the table, The Scientist made this archive to preserve all the slide reels, but this "leader" ordered him to have it guarded.</Text> <!-- The Text to display for this fact, notice how you can use color just like in dialogue -->
             </ExploreFact>
 
             <ExploreFact> <!-- An explore fact that belongs to this entry -->
                 <ID>NEWSIM_ARCHIVE_TEXT2</ID> <!-- The ID of this fact -->
-                <Text>Accroding to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.</Text> <!-- The Text to display for this fact, notice how you can use color just like in dialogue -->
+                <Text>According to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.</Text> <!-- The Text to display for this fact, notice how you can use color just like in dialogue -->
             </ExploreFact>
         </Entry>
 

@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
   "loopDuration": 33,
+  "startHere": false,
   "respawnHere": true,
   "canEnterViaWarpDrive": true,
   "factRequiredForWarp": "HOME_REVEAL",

@@ -5,27 +5,13 @@ namespace TheStrangerTheyAre
 {
     public class TextSwap : MonoBehaviour
     {
-        [SerializeField]
-        public GameObject TranslatorText;
-        [SerializeField]
-        public GameObject Dialogue;
+        [SerializeField] public GameObject TranslatorText;
+        [SerializeField] public GameObject Dialogue;
 
         private bool _isSwapped;
 
         public void Start()
         {
-            if (TheStrangerTheyAre.NewHorizonsAPI.GetCurrentStarSystem() == "SolarSystem")
-            {
-                if (Locator.GetShipLogManager().IsFactRevealed("ANGLERS_EYE_ALIENTEXT_E2"))
-                {
-                    PlayerData.SetPersistentCondition("LANGUAGE_LEARNED", true);
-                }
-                else
-                {
-                    PlayerData.SetPersistentCondition("LANGUAGE_LEARNED", false);
-                }
-            }
-
             if (Dialogue == null)
             {
                 TheStrangerTheyAre.WriteLine($"TextSwap at {transform.GetPath()} is missing a reference to the dialogue.", OWML.Common.MessageType.Error);
@@ -38,27 +24,22 @@ namespace TheStrangerTheyAre
                 TranslatorText = gameObject.FindChild("Arc 1");
             }
 
-            if (Check())
-            {
-                TranslatorText.SetActive(false);
-                Dialogue.SetActive(true);
-                _isSwapped = true;
-            }
-            else
-            {
-                TranslatorText.SetActive(true);
-                Dialogue.SetActive(false);
-                _isSwapped = false;
-            }
+            Apply(Check());
         }
 
         public void Update()
         {
             if (!_isSwapped && Check())
             {
-                TranslatorText.SetActive(false);
-                Dialogue.SetActive(true);
+                Apply(true);
             }
+        }
+
+        private void Apply(bool learnedLanguage)
+        {
+            TranslatorText.SetActive(false);
+            Dialogue.SetActive(learnedLanguage);
+            _isSwapped = learnedLanguage;
         }
 
         private bool Check()

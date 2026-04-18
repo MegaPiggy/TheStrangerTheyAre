@@ -81,12 +81,36 @@
 		],
 		"revealVolumes": [
 			{
+				"rename": "MapEnterRevealVolume",
 				"reveals": [ "DARKER_BASE_MAP" ],
 				"revealOn": "enter",
 				"revealFor": "player",
 				"parentPath": "Sector/DarkerBrambleBase/Props/Decal",
 				"isRelativeToParent": true,
 				"radius": 5
+			},
+			{
+				"rename": "MapObserveRevealVolume",
+				"reveals": [ "DARKER_BASE_MAP" ],
+				"revealOn": "observe",
+				"revealFor": "player",
+				"parentPath": "Sector/DarkerBrambleBase/Props/Decal",
+				"isRelativeToParent": true,
+				"rotation": {
+					"x": 0,
+					"y": 90,
+					"z": 270
+				},
+				"shape": {
+					"useShape": false,
+					"type": "box",
+					"size": {
+						"x": 0.5,
+						"y": 7.408,
+						"z": 7.408
+					}
+				},
+				"maxDistance": 25
 			}
 		]
 	},

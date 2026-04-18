@@ -2,6 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
     "DialogueDictionary": {
       "The Scientist": "窮理人",
+      "The Prisoner": "囚人",
       //Desk
       "Day 42: The resources we have obtained from this system's terrestrial planet are helpful, especially the fish we have found in one of the ponds.": "42日目:この星系の温暖な固体惑星から得た資源、特に池の1つで見つけた魚が有用である。&lt;i&gt;&lt;/i&gt;",
   
@@ -97,7 +98,7 @@
       "Perhaps we are, and they're keeping it classified to keep us under control. Maybe it's best we follow their orders, to protect our homeworld.": "もしかすると本当に危険なのかもしれないし、統制を保つために機密にしているのかもしれない。故郷を守るためには、命令に従うのが最善かもしれない。&lt;i&gt;&lt;/i&gt;",
   
       //Signal
-      "NOTE: To find the white ship, use the gear interface to activate a signal and follow it.": "注意：白い船を見つけるには、歯車インターフェースを使って信号を発信し、それを追跡せよ。&lt;i&gt;&lt;/i&gt;",
+      "NOTE: To find the white ship, use the gear interface to activate a signal and follow it.": "注意：白い船を見つけるには、歯車インターフェースを使って信号を有効化し、いずれかの周波数に追加されたその信号を追跡せよ。&lt;i&gt;&lt;/i&gt;",
   
       //Vessel1
       "The enemy behind the anomaly has finally shown its face! A massive white ship capable of warp technology has warped to our system.": "異常現象の背後にいる敵がついにその姿を現した！ワープ技術を持つ巨大な白い船が我々の星系にワープしてきた。&lt;i&gt;&lt;/i&gt;",
@@ -119,7 +120,7 @@
       //Table
       "Day 100: The mineral's side effects not only turn the dimension's fog black, but also give the anglerfish an interesting property. Turns out, they change location each time you look away.": "100日目:ミネラルの副作用は空間内の霧を黒くするだけでなく、アンコウに興味深い特性も与える。目を離すたびにアンコウの位置が変わることがわかった。&lt;i&gt;&lt;/i&gt;",
       "Day 99: Just started to map out these pocket dimension. Thankfully I scanned the lighted node with my vision torch, because there's no way out! That dimension is a trap!": "99日目:この空間のマッピングを始めたところだ。ビジョントーチで光る種をスキャンできたのは幸いだった、というのも出口がないからだ！その空間は罠なのだ！&lt;i&gt;&lt;/i&gt;",
-      "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I don't forget.": "105日目:成功した！数日の捜索の後、我々の故郷の星系に到達するかもしれない正しい道を見つけた！忘れないようにスライドに記録しておこう。&lt;i&gt;&lt;/i&gt;",
+      "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I forget.": "105日目:成功した！数日の捜索の後、我々の故郷の星系に到達するかもしれない正しい道を見つけた！忘れないようにスライドに記録しておこう。&lt;i&gt;&lt;/i&gt;",
   
       //DescendantSurface
       "Alright, this is it...the End of the Universe. I hope my distant uncle was right about this place giving birth to a new universe in our place.": "よし、ここだ…宇宙の終わりだ。遠い祖先がこの場所が私たちの代わりに新たな宇宙を生み出すと言ったのが正しいといいのだが。&lt;i&gt;&lt;/i&gt;",
@@ -685,7 +686,7 @@
       "Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things i found, and a campfire.": "表面やその下にはほとんど何もない。ここの南にキャンプがあるが、テントとちょっと私が見つけたもの、そして焚き火があるだけだ。&lt;i&gt;&lt;/i&gt;",
       "There is however a space station floating just above the planet. Since our home got terraformed, it's just been abandoned.": "あとは、惑星のすぐ上には宇宙ステーションが浮いてる。私たちの故郷がテラフォーミングされてから、それはただ放棄されたままになっている。&lt;i&gt;&lt;/i&gt;",
       "I've been there, that's where I came from.": "そこに行ったことがある。私はそこから来たんだ。&lt;i&gt;&lt;/i&gt;",
-      "You have? What was in there? How did you get in? i thought the place was sealed off!": "行ったのか？中には何があったんだ？どうやって入ったんだ？その場所は封鎖されていると思ってた！&lt;i&gt;&lt;/i&gt;",
+      "You have? What was in there? How did you get in? I thought the place was sealed off!": "行ったのか？中には何があったんだ？どうやって入ったんだ？その場所は封鎖されていると思ってた！&lt;i&gt;&lt;/i&gt;",
       "I went through a few of those treacherous Bramble Dimensions after discovering it in my home system.": "私の星系でそこを発見した後、危険なイバラの空間を何度か通過してやってきたんだ。&lt;i&gt;&lt;/i&gt;",
       "Hmmm...so the only way in is to go through those \"Bramble Dimensions\" you say?": "ふむ…つまり唯一の入り口はあなたが言うその“イバラの空間”を通ることなのか？&lt;i&gt;&lt;/i&gt;",
       "Yes, and watch out for Quantum Anglerfish!": "ああ、それから量子アンコウに注意するように！&lt;i&gt;&lt;/i&gt;",
@@ -1182,10 +1183,10 @@
       "Inputting the codes seemed to play a sound and change the mural on the wall. It's likely that something changed in the real world.": "コードを入力すると音が鳴り、壁の壁画が変化したようだ。現実世界で何かが変化した可能性が高い。",
       "The two totems are the key to opening the mineral's display case.": "2つのトーテムがミネラルの展示ケースを開くキーである。",
       "Archives Left Vision Torch": "記録保管所左側のビジョントーチ",
-      "A vision torch can be seen kneeling on the left totem.": "左側のトーテムにひざまずくビジョントーチが見える。",
+      "A vision torch can be seen kneeling on the left totem.": "左側のトーテムに寄りかかるビジョントーチが見える。",
       "A vision torch on the left showed me where I can find a code for the totem.": "左側のビジョントーチがトーテム用のコードをどこで見つけられるかを示してくれた。",
       "Archives Right Vision Torch": "記録保管所右側のビジョントーチ",
-      "A vision torch can be seen kneeling on the right totem.": "右側のトーテムにひざまずくビジョントーチが見える。",
+      "A vision torch can be seen kneeling on the right totem.": "右側のトーテムに寄りかかるビジョントーチが見える。",
       "A vision torch on the right showed me where I can find a code for the totem.": "右側のビジョントーチがトーテム用のコードをどこで見つけられるかを示してくれた。",
       "Isolated Swamp Code": "孤立したぬかるみのコード",
       "Right Code Location": "右側のコードの場所",
@@ -1236,7 +1237,7 @@
       "The Strangers' Inhabitants saw The Vessel warp into their home system. Feeling threatened, they were not afraid to call The Nomai their enemy.": "流れ者の住人たちは、Nomaiの船が彼らの母星系にワープするのを目撃した。危険を感じた彼らはNomaiを敵と呼ぶことを恐れなかった。",
       "After quickly gathering reconnisance, they became well aware that The Vessel was unarmed. Despite the Nomai coming in peace, The Strangers' Inhabitants proceeded with their attack plan.": "素早く偵察を行った後、彼らはNomaiの船が武装していないことを十分に認識した。Nomaiが平和的に来たにもかかわらず、流れ者の住人たちは攻撃計画を進めた。",
       "Some text claims that if the attack is successful, they will put a cloak around The Vessel so no others could find it.": "ある文章によると、攻撃が成功した場合、他の者が見つけられないようにNomaiの船にクロークをかけるとのことだ。",
-      "A set of text by the gear interface states that to find The Vessel, you have to turn on the signal with the interface and follow the signal.": "インターフェースそばの文章によると、Nomaiの船を見つけるためには、インターフェースで信号をオンにしてその信号を追跡する必要があるとのことだ。",
+      "A set of text by the gear interface states that to find The Vessel, you have to turn on the signal with the interface and follow the signal.": "インターフェースそばの文章によると、Nomaiの船を見つけるためには、インターフェースで信号をオンにして、いずれかの周波数に追加されたその信号を追跡する必要があるとのことだ。",
   
       //desert
       "Sizzling Sands": "焼けつく砂",
@@ -1331,8 +1332,8 @@
       "In the archive, the elevator to the left takes me to a library filled with slide reels involving the history of the inhabitants.": "記録保管所内の左側のエレベータは、住人たちの歴史に関するスライドリールが並ぶ図書室へと通じている。",
       "In the archive, the elevator in the middle takes me to a library filled with slide reels filled with information.": "記録保管所内の中央のエレベータは、情報が詰まったスライドリールが並ぶ図書室へと通じている。",
       "In the archive, the elevator to the right takes me down to the theater. It also contains a table and some data transferring totems.": "記録保管所内の右側のエレベータは映写室へと下降する。そこにはテーブルといくつかのデータ転送用トーテムもある。",
-      "Accroding to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "テーブルの文章によると、窮理人はすべてのスライドリールを保存するためにこの記録保管所を作ったが、“指導者”はそれを監視下に置くよう命じたという。",
-      "Accroding to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "テーブルの文章で窮理人は昏眠ホールの仕組みを説明すると同時に、それがどれほど人気だったかも述べている。これは、他のエリアで見かけなかったその他大勢の行方を説明している。",
+      "According to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "テーブルの文章によると、窮理人はすべてのスライドリールを保存するためにこの記録保管所を作ったが、“指導者”はそれを監視下に置くよう命じたという。",
+      "According to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "テーブルの文章で窮理人は昏眠ホールの仕組みを説明すると同時に、それがどれほど人気だったかも述べている。これは、他のエリアで見かけなかったその他大勢の行方を説明している。",
       "Prisoner's Breakdown Reel": "囚人の精神崩壊リール",
       "This slide reel shows The Prisoner among others breaking down in tears after watching The Scientist crash into Angler's Eye. The Prisoner almost jumped off the Eye Shrine, but seeing The Eye Symbol sparked something in him to stop...": "このスライドリールには、窮理人がアンコウの眼に墜落するのを見た後、嘆き悲しむ囚人をはじめとする住人たちが映っている。囚人は眼の神殿から飛び降りそうになったが、眼のシンボルを見たことで何かが湧き起こり、思いとどまった…",
       "Scientist Data Clone": "窮理人のデータクローン",
@@ -1341,7 +1342,7 @@
       "This is a data clone of The Scientist before he left The Stranger, so he has no idea about what happened to him afterwards.": "これは窮理人が流れ者を去る前のデータクローンなので、その後自身に何が起こったかについては彼は全く知らない。",
       "The Scientist was the head of the scientific committee, and even invented the Vision Torch and discovered green fire technology. Against his will, he was forced to help destroy the planet. He also would have never approved of the simulation if he was still on the ship at that time.": "窮理人は窮理部門の責任者で、ビジョントーチを発明し、緑の炎の技術を発見した。彼の意思に反して彼は惑星破壊を手伝うことを強制された。また、彼がその当時まだ船にいたなら模擬現実を決して認めなかっただろう。",
       "The Scientist explains more about his family and how they died due to poor enviromnmental factors on The Stranger.": "窮理人は自身の家族についてさらに詳しく説明し、流れ者上の劣悪な環境因子によってどのように亡くなったかを語った。",
-      "The Scientist describes life before his kind found The Eye. They were connected with nature, were very spiritual, and lived in happiness under the Ringed Giant. It was their superstition which caused them to destroy their home planet, just to reach The Eye. He also mentions that all animals from their old planet went extinct faster than they could preserve them.": "窮理人は自身の種族が眼を見つける前の生活について説明してくれた。彼らは自然と繋がり、非常に霊的で、環の巨人の下で幸せに暮らしていた。眼に到達するためだけに故郷の惑星を破壊したのは、彼らの迷信によるものだった。また、彼は古い故郷の動物たちが彼らが保存できるよりも速く絶滅したとも述べている。",
+      "The Scientist describes life before his kind found The Eye. They were connected with nature, were very spiritual, and lived in happiness under the Ringed Giant. It was their superstition which caused them to destroy their home planet, just to reach The Eye. He also mentions that all animals from their old planet went extinct faster than they could preserve them.": "窮理人は自身の種族が眼を見つける前の生活について説明してくれた。彼らは自然と繋がり、非常に霊的で、環の巨人の下で幸せに暮らしていた。眼に到達するためだけに故郷の惑星を破壊したのは、彼らの迷信によるものだった。また、彼は古い故郷の動物たちが彼らが保存できるよりも早く絶滅したとも述べている。",
       "The Scientist got very uncomfortable when I brought up The Prisoner, but he did tell me that some of them miss him deep down. The Scientist also thinks it was too early for The Eye's signal to be let out.": "囚人の話をすると窮理人はとても不快そうであったが、住人の何人かは心の奥底で囚人を恋しく思っていると語ってくれた。窮理人はまた、眼の信号を解放するには時期が早すぎたと考えている。",
       "The Scientist explained how terrifying life was on The Stranger. Many Strangers got so insane, they took their own lives. And if not, they starved to death due to lack of food. There were 55 crew members. 20 died, and 33 more got trapped in the simulation.": "窮理人は流れ者での生活がいかに恐ろしかったかを説明した。多くの住人たちは狂気に陥り、自ら命を絶った。そうでなければ、食料不足で餓死した。乗組員は55人いた。20人が死亡し、さらに33人が模擬現実に閉じ込められた。",
       "The Scientist also explains cloaked techonolgy. It can work on your ship without any customizations.": "窮理人はクローキング技術についても説明した。それは特別な設定をせずとも船に適用できるとのことだ。",
@@ -1522,7 +1523,9 @@
       "Sizzling Sands": "焼けつく砂",
       "Ringed Giant": "環の巨人",
       "Strangers' Homeworld": "流れ者の故郷",
-      "Stranded Vessel": "漂流船"
+      "Stranded Vessel": "漂流船",
+
+      "As The Stranger continues to coast along the empty void, you spend the rest of eternity with your new, strange family.": "流れ者が虚空に向かって進み続ける間、あなたは新しい風変わりな家族とともに永遠の余生を過ごします。"
     },
     "OtherDictionary": {
       "SealDisplayName": "{0}の封印",

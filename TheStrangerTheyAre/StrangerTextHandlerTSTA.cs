@@ -15,7 +15,7 @@ namespace TheStrangerTheyAre
             }
         }
 
-        private bool KnowsLanguage()
+        public static bool KnowsLanguage()
         {
             return Locator.GetShipLogManager().IsFactRevealed("ANGLERS_EYE_ALIENTEXT_E2");
         }

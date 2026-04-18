@@ -54,9 +54,9 @@
 			{
 				"isDefault": true,
 				"position": {
-					"x": -963.1741,
-					"y": -229.4492,
-					"z": -260.2756
+					"x": -963.1364,
+					"y": -233.6091,
+					"z": -259.9943
 				},
 				"rename": "SpawnPlayer_Bramble",
 				"startWithSuit": true

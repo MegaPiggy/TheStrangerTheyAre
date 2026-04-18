@@ -73,10 +73,10 @@ namespace TheStrangerTheyAre
                     if (endingBundle == null)
                     {
                         endingBundle = ModHelper.Assets.LoadBundle("assets/AssetBundle/postcredits");
-                        if (endingBundle != null)
-                        {
-                            EndSceneAddition.LoadEndingAdditions(endingBundle);
-                        }
+                    }
+                    if (endingBundle != null)
+                    {
+                        EndSceneAddition.LoadEndingAdditions(endingBundle);
                     }
                 }
             };

@@ -8,6 +8,7 @@ namespace TheStrangerTheyAre
 
         public void Awake()
         {
+            GetComponent<SphereCollider>().radius = 210;
             anglersEye = TheStrangerTheyAre.NewHorizonsAPI.GetPlanet("Angler's Eye").transform.Find("Sector").gameObject; // gets angler's eye
         }
 

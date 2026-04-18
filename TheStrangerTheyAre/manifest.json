@@ -4,7 +4,7 @@
   "author": "AnonymousStrangerOW",
   "name": "The Stranger They Are",
   "uniqueName": "AnonymousStrangerOW.TheStrangerTheyAre",
-  "version": "2.7.1",
+  "version": "2.7.2",
   "owmlVersion": "2.15.1",
-  "dependencies": ["xen.NewHorizons"]
+  "dependencies": [ "xen.NewHorizons" ]
 }
