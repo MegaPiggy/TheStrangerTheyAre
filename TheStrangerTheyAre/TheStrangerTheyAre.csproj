@@ -1,96 +1,77 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <TargetFramework>net48</TargetFramework>
-    <LangVersion>latest</LangVersion>
-    <Copyright>Copyright © 2024 AnonymousStrangerOW</Copyright>
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
-    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
-    <NoWarn>MSB3270</NoWarn>
-    <DebugType>portable</DebugType>
-  </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="OWML" Version="2.13.0" />
-    <PackageReference Include="OuterWildsGameLibs" Version="1.1.15.1018" />
-  </ItemGroup>
-  <ItemGroup>
-    <!-- TODO: change this to local copy so CI works -->
-    <Reference Include="NewHorizons">
-      <HintPath>$(OuterWildsModsDirectory)\xen.NewHorizons\NewHorizons.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="default-config.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="manifest.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="TheStrangerTheyAre.csproj.user" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Remove="translations\diff.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="planets\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="systems\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="assets\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="translations\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="dialogue\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="shiplogs\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Icons\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <Compile Remove="planets\EyeOfTheUniverse\QuantumInstrumentTSTA.cs" />
-    <None Include="addon-manifest.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="title-screen.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="QuantumInstrumentTSTA.cs" />
-    <None Include="subtitle.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-  <Target Name="BuildDll" AfterTargets="Build">
-    <Copy SourceFiles="$(OutputPath)$(AssemblyName).dll" DestinationFolder="$(UnityDllsDir)" />
-  </Target>
-  <Target Name="BuildPdb" AfterTargets="Build">
-    <Copy SourceFiles="$(OutputPath)$(AssemblyName).pdb" DestinationFolder="$(UnityDllsDir)" />
-  </Target>
-  <Target Name="PreBuildPostCredits" BeforeTargets="Build">
-    <Copy SourceFiles="$(UnityBundlesDir)postcredits" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-  </Target>
-  <Target Name="PreBuildPostCreditsManifest" BeforeTargets="Build">
-    <Copy SourceFiles="$(UnityBundlesDir)postcredits.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-  </Target>
-  <Target Name="PreBuildMain" BeforeTargets="Build">
-    <Copy SourceFiles="$(UnityBundlesDir)strangerbundle" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-  </Target>
-  <Target Name="PreBuildMainManifest" BeforeTargets="Build">
-    <Copy SourceFiles="$(UnityBundlesDir)strangerbundle.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-  </Target>
-  <Target Name="PreBuildTitle" BeforeTargets="Build">
-    <Copy SourceFiles="$(UnityBundlesDir)title" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-  </Target>
-  <Target Name="PreBuildTitleManifest" BeforeTargets="Build">
-    <Copy SourceFiles="$(UnityBundlesDir)title.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-  </Target>
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<Copyright>Copyright © 2024 AnonymousStrangerOW</Copyright>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+		<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+		<NoWarn>MSB3270</NoWarn>
+		<DebugType>portable</DebugType>
+		<OutputPath>$(USERPROFILE)\Desktop\Apps\Gamerip\outer-wilds-unity-assets-main\</OutputPath>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="OWML" Version="2.13.0" />
+		<PackageReference Include="OuterWildsGameLibs" Version="1.1.15.1018" />
+	</ItemGroup>
+	<ItemGroup>
+		<!-- TODO: change this to local copy so CI works -->
+		<Reference Include="NewHorizons">
+			<HintPath>$(OuterWildsModsDirectory)\xen.NewHorizons\NewHorizons.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
+	<ItemGroup>
+		<None Include="default-config.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="manifest.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="TheStrangerTheyAre.csproj.user" />
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Remove="planets\SolarSystem\AltEndingController.cs" />
+		<Compile Remove="translations\diff.txt" />
+	</ItemGroup>
+	<ItemGroup>
+		<None Include="planets\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="systems\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="assets\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="translations\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="dialogue\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="shiplogs\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="Icons\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<Compile Remove="planets\EyeOfTheUniverse\QuantumInstrumentTSTA.cs" />
+		<None Include="addon-manifest.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="title-screen.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="QuantumInstrumentTSTA.cs" />
+		<None Include="subtitle.png">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	<Target Name="BuildDll" AfterTargets="Build">
+		<Copy SourceFiles="$(OutputPath)$(AssemblyName).dll" DestinationFolder="$(USERPROFILE)\Desktop\Apps\Gamerip\outer-wilds-unity-assets-main\" />
+	</Target>
 </Project>
