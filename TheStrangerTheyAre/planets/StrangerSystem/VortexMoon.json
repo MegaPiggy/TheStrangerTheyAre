@@ -129,7 +129,7 @@
 			{
 				"id": "VOLCANO_BASE",
 				"cloaked": false,
-				"parentPath": "Sector/CG_ISLAND_LAB",
+				"parentPath": "Sector/MilitaryBase",
 				"isRelativeToParent": true
 			},
 			{

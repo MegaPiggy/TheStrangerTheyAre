@@ -95,6 +95,7 @@
 			{
 				"audio": "HGT_Ambience_Surface",
 				"rename": "Atmosphere Ambience",
+				"track": "environment",
 				"parentPath": "Sector/Atmosphere",
 				"volume": 0.6,
 				"isRelativeToParent": true,
@@ -102,13 +103,16 @@
 			},
 			{
 				"audio": "HGT_Ambience_Cave_Big",
+				"track": "environment",
 				"rename": "Base Ambience",
 				"volume": 0.6,
 				"radius": 300
 			},
 			{
 				"audio": "assets/Audio/ultravioletdeath.ogg",
+				"track": "environmentUnfiltered",
 				"parentPath": "Sector/HazardVolume",
+				"isRelativeToParent": false,
 				"rename": "Hazard Ambience",
 				"position": {
 					"x": 0,

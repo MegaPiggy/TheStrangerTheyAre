@@ -511,7 +511,7 @@
 			},
 			{
 				"xmlFile": "dialogue/Homeworld/Outside/ScientistStatue.xml",
-				"parentPath": "Sector/ScientistStatue/Post/Props_IP_DoNotEnterSign",
+				"parentPath": "Sector/ScientistStatue/Post/Props_IP_DoNotEnterSign/Arc_TestAlienWriting/Dialogue",
 				"isRelativeToParent": true,
 				"position": {
 					"y": 0.75
