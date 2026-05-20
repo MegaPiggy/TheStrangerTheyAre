@@ -9,7 +9,6 @@
 		<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
 		<NoWarn>MSB3270</NoWarn>
 		<DebugType>portable</DebugType>
-		<OutputPath>$(USERPROFILE)\Desktop\Apps\Gamerip\outer-wilds-unity-assets-main\</OutputPath>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="OWML" Version="2.13.0" />
@@ -24,54 +23,74 @@
 	</ItemGroup>
 	<ItemGroup>
 		<None Include="default-config.json">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="manifest.json">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>
 	<ItemGroup>
 		<Content Include="TheStrangerTheyAre.csproj.user" />
 	</ItemGroup>
 	<ItemGroup>
-		<Compile Remove="planets\SolarSystem\AltEndingController.cs" />
 		<Compile Remove="translations\diff.txt" />
 	</ItemGroup>
 	<ItemGroup>
 		<None Include="planets\**">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="systems\**">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="assets\**">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="translations\**">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="dialogue\**">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="shiplogs\**">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="Icons\**">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<Compile Remove="planets\EyeOfTheUniverse\QuantumInstrumentTSTA.cs" />
 		<None Include="addon-manifest.json">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="title-screen.json">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 		<None Include="QuantumInstrumentTSTA.cs" />
 		<None Include="subtitle.png">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>
 	<Target Name="BuildDll" AfterTargets="Build">
-		<Copy SourceFiles="$(OutputPath)$(AssemblyName).dll" DestinationFolder="$(USERPROFILE)\Desktop\Apps\Gamerip\outer-wilds-unity-assets-main\" />
+		<Copy SourceFiles="$(OutputPath)$(AssemblyName).dll" DestinationFolder="$(UnityDllsDir)" />
+	</Target>
+	<Target Name="BuildPdb" AfterTargets="Build">
+		<Copy SourceFiles="$(OutputPath)$(AssemblyName).pdb" DestinationFolder="$(UnityDllsDir)" />
+	</Target>
+	<Target Name="PreBuildPostCredits" BeforeTargets="Build">
+		<Copy SourceFiles="$(UnityBundlesDir)postcredits" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
+	</Target>
+	<Target Name="PreBuildPostCreditsManifest" BeforeTargets="Build">
+		<Copy SourceFiles="$(UnityBundlesDir)postcredits.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
+	</Target>
+	<Target Name="PreBuildMain" BeforeTargets="Build">
+		<Copy SourceFiles="$(UnityBundlesDir)strangerbundle" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
+	</Target>
+	<Target Name="PreBuildMainManifest" BeforeTargets="Build">
+		<Copy SourceFiles="$(UnityBundlesDir)strangerbundle.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
+	</Target>
+	<Target Name="PreBuildTitle" BeforeTargets="Build">
+		<Copy SourceFiles="$(UnityBundlesDir)title" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
+	</Target>
+	<Target Name="PreBuildTitleManifest" BeforeTargets="Build">
+		<Copy SourceFiles="$(UnityBundlesDir)title.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
 	</Target>
 </Project>
