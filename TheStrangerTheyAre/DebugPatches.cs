@@ -445,7 +445,7 @@ public class DebugPatches
     }
 
     [HarmonyPrefix]
-    [HarmonyPatch(typeof(AudioVolume), nameof(AudioVolume.Deactivate))]
+    [HarmonyPatch(typeof(AudioVolume), nameof(AudioVolume.Deactivate), typeof(float))]
     public static void AudioVolume_Deactivate_Patch(AudioVolume __instance, float fadeSeconds)
     {
         TheStrangerTheyAre.WriteLine($"AudioVolume.Deactivate called on instance of type: {__instance.GetType().FullName}", MessageType.Error);
