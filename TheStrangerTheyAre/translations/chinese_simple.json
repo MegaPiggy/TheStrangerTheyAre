@@ -1,28 +1,49 @@
 {
   "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
-
   "DialogueDictionary": {
-    // Angler's Eye
-
-    //Conservatory
+    //Desk
     "Day 42: The resources we have obtained from this system's terrestrial planet are helpful, especially the fish we have found in one of the ponds.": "第42天：我们从这个星系的陆地行星上获取的资源非常有用，尤其是我们在其中一个池塘中发现的鱼。",
+
+    //Desk1
     "Day 42: The resources we have obtained from this system's terrestrial planet are helpful, especially the fish we have found in one of the ponds. We'll never run out of food now!": "第42天：我们从这个星系的陆地行星上获取的资源非常有用，尤其是我们在其中一个池塘中发现的鱼。现在我们再也不用为食物发愁了！",
-    "Day 43: I scanned the fish with my vision torch. It says these fish will evolve into an intelligent species, and that one individual will be able to make it here. Interesting...": "第43天：我用火把视野扫描了这些鱼。它说这些鱼将进化成智慧生命，而且有一个体能够生存下来并到达这里。真是有趣极了......",
+
+    //Desk2
+    "Day 43: I scanned the fish with my vision torch. It says these fish will evolve into an intelligent species, and that one individual will be able to make it here. Interesting...": "第43天：我用火把视野扫描了这些鱼。它说这些鱼将进化成智慧生命，而且有一个个体将能够到达这里。有意思……",
+
+    //Wall1
     "Our conservatory should be just enough to produce healthy seeds for the next 5 years. That is more than enough time that we need to finish the terraforming.": "我们的温室应该能够生产足够的健康种子，支撑未来五年的需求。这完全足够我们用来完成地球化改造了。",
-    "Next you shall let the water flow, only then will our trees regrow. Obtain the water above the sky, from the Ringed Giant way up high.": "接下来，需要让水流动起来，树木才能重新生长。去高悬于天际的环形巨物那里获取水源。",
 
-    //DbMuseum
-    "Day 66: I have finished setting up this simulation for myself and anyone who stumbles across it, with the purpose of preserving the fifth planet before its destruction. All slide reels have also been uploaded and preserved within it, but I will make sure it is never used the way my kind has done.": "第66天：我已完成为我自己和任何意外发现它的人搭建的模拟器设置工作，目的是在第五颗行星被摧毁之前保存它。所有幻灯片已上传并保存在其中，但我会确保它永远不会像我们所做的那样被使用。",
+    //Wall2
+    "Next you shall let the water flow, only then will our trees regrow. Obtain the water above the sky, from the Ringed Giant way up high.": "接下来，需要让水流动起来，树木才能重新生长。去高悬于天际的环状纹路巨星那里获取水源。",
+
+    //1F_Archive
+    "Day 66: I have finished setting up this simulation for myself and anyone who stumbles across it, with the purpose of preserving the fifth planet before its destruction. All slide reels have also been uploaded and preserved within it, but I will make sure it is never used the way my kind has done.": "第66天：我已完成为我自己和任何意外发现它的人搭建的虚拟空间设置工作，目的是在第五颗行星被摧毁之前保存它。所有幻灯片已上传并保存在其中，但我会确保它永远不会像我们族人所做的那样被使用。",
+
+    //1F_SimEntryWall
     "Fourth, keep out a watchful eye. Make sure our offspring does not die.": "第四，请保持警惕的目光。务求确保我们的后代不会死亡殆尽。",
-    "Day 90: We successfully grew a Bramble Seed on the south pole of this moon, but the atmosphere had some strange effect within the seed itself. We will enter the hurricane with our ship and enter through the top node, so our ship can fit.": "第90天：我们成功在这个卫星的南极种植了一颗荆棘种子，但它那奇异的大气层对种子内部产生了一些奇怪的影响。我们将驾驶着我们的飞船驶入飓风眼，依靠顶部节点确保飞船能够顺利通过。",
-    "These are Anglerfish, an omnivorous species of deep sea fish that can handle extreme environments. They naturally appear in deep parts of the fifth planet's subsurface ocean. They also end up in Bramble Seed pocket dimensions, because the invasive plant started growing at the bottom of the ocean.": "这些都是安康鱼，一种适应极端环境的杂食性深海鱼类。它们自然地出现在第五行星地表下海洋的深处部分。此外，由于这些荆棘种子极强的入侵性————已经开始从海底生长并扩散，这些安康鱼也会在荆棘种子的次元空间中出现",
-    "The fifth planet currently has an invasive plant that started rapidly growing from the bottom of its subsurface ocean, and today has grown almost to the surface. To the left is what the fifth planet of this system looks like, to the right is what the planet and its fate will look like in the future.": "第五颗行星目前有一种入侵性极强的植物，这种植物从地表下的海洋深处迅速生长，并几乎接近海面。左边展示了这颗行星现在的样子；右边则是它未来的样子以及它的命运。",
-    "Apparently, it has been discovered that the only way to stop the growth of the plant is through use of the minerals found all over this moon. However, it can have side effects to the pocket dimensions it connects to, eliminating all light within. The anglerfish also seem to act different.": "显然，目前已经发现的唯一阻止这些植物生长的方法就是利用遍布卫星表面的矿物质。然而，它可能对其连接的次元空间产生副作用————其中的所有光线都被吞噬。此外，这种措施还似乎使安康鱼的行为表现得有所不同。",
 
-    //Observation Deck
+    //1F_Table
+    "Day 90: We successfully grew a Bramble Seed on the south pole of this moon, but the atmosphere had some strange effect within the seed itself. We will enter the hurricane with our ship and enter through the top node, so our ship can fit.": "第90天：我们成功在这个卫星的南极种植了一颗荆棘种子，但它那奇异的大气层对种子内部产生了一些奇怪的影响。我们将驾驶着我们的飞船驶入飓风眼，依靠顶部节点确保飞船能够顺利通过。",
+
+    //2F_AnglerExhibit
+    "These are Anglerfish, an omnivorous species of deep sea fish that can handle extreme environments. They naturally appear in deep parts of the fifth planet's subsurface ocean. They also end up in Bramble Seed pocket dimensions, because the invasive plant started growing at the bottom of the ocean.": "这些都是安康鱼，一种适应极端环境的杂食性深海鱼类。它们自然地出现在第五行星地表下海洋的深处部分。此外，由于这些极具入侵性的荆棘种子已经开始从海底生长并扩散，这些安康鱼也会在荆棘种子的次元空间中出现。",
+
+    //2F_DBExhibit
+    "The fifth planet currently has an invasive plant that started rapidly growing from the bottom of its subsurface ocean, and today has grown almost to the surface. To the left is what the fifth planet of this system looks like, to the right is what the planet and its fate will look like in the future.": "第五颗行星目前有一种入侵性极强的植物，这种植物从地表下的海洋深处迅速生长，并几乎接近海面。左边展示了这颗行星现在的样子；右边则是它未来的样子以及它的命运。",
+
+    //2F_VineExhibit
+    "Apparently, it has been discovered that the only way to stop the growth of the plant is through use of the minerals found all over this moon. However, it can have side effects to the pocket dimensions it connects to, eliminating all light within. The anglerfish also seem to act different.": "显然，目前已经发现的唯一阻止这些植物生长的方法就是利用遍布卫星表面的矿物质。然而，它可能对植物连接的次元空间产生副作用——其中的所有光线都被吞噬。此外，这种措施还似乎使安康鱼的行为表现得有所不同。",
+
+    //Elevator
     "Elevator to Observation Deck": "前往观景台的电梯",
+
+    //Table1
     "OBSERVATION 1: Getting a closer look at all the planets, there's water on every planet, the third having it in the form of snow on its surface. The desert twins have water and sand flowing between them like an hourglass, but it won't be too long until the water on the sand-like planet starts to evaporate.": "观察1：从更近的距离观察所有行星，每一颗行星都有水存在，第三行星的表面覆盖着雪的形式。沙漠双子星之间的水流与沙粒流动得如同沙漏一般，但不久之后，在类似沙地的行星上，水将开始蒸发。",
-    "OBSERVATION 2: A ghostly moon with a similar atmosphere as this moon changes its orbit according to each planet. It leaves view sometimes to reach a sixth location, possibly the vortex. Could both the cloaked and ghostly moons be evil twins of one another?": "观察2：一个有着与这颗卫星相似大气的幻影卫星根据每个行星改变其轨道。它有时会离开视线到达第六个位置，可能是<![CDATA[<color=blue>那个漩涡</color>]]>处。隐形卫星和幻影卫星可能是彼此的邪恶双双子星吗？",
+
+    //Table2
+    "OBSERVATION 2: A ghostly moon with a similar atmosphere as this moon changes its orbit according to each planet. It leaves view sometimes to reach a sixth location, possibly the vortex. Could both the cloaked and ghostly moons be evil twins of one another?": "观察2：一个有着与这颗卫星相似大气的幻影卫星根据每个行星改变其轨道。它有时会离开视线到达第六个位置，可能是那个漩涡处。隐形卫星和幻影卫星可能是彼此的邪恶双子星吗？",
+
+    //Table3
     "OBSERVATION 3: I just pointed my telescope at the fifth planet...what I saw...I was shocked. My plans might work after all! This is going to the archives right away!": "观察3：我刚用望远镜对准了第五颗行星……我看到的景象让我震惊。看来，我的计划或许真能行！这个发现要立刻存档！",
 
     //CrashSite
@@ -31,47 +52,73 @@
     //Mines
     "Day 5: I remember this place! This is the place our kind mined the materials for the cloaking device! Since the minerals power themselves, I can use it to fuel my ship and get resources from this system's terrestrial planet.": "第5天：我记得这个地方！这是我们一族开采用于隐形装置材料的地方！由于这些矿物自带能量，我可以用它来为我的飞船提供燃料，并从这个星系的类地行星获取资源。",
 
-    //R&D House
-    "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.": "地球化很困难，但并非不可能。我们所需的是提供氧气的树木、维系生命的水，以及到达那里的方法。试想，如果我们的宇宙庞大千百倍，难度将何等繁复。",
-    "I can't use my kind's ship, so we need another means of transport and we need to grow more trees. We can get the water by extracting the hydrogen and oxygen from the Teal-Ringed Giant.": "我无法使用我们一族的飞船，所以我们需要另外一种交通方式，并且我们需要种植更多树木。我们可以通过从青环巨星中提取氢和氧来获取水。",
-    "Day 40: Finally, everything is built. Now to continue my research...": "终于，一切建成了。接下来，我要继续我的研究了……",
-    "Day 50: I finally got ahold of my kind's ship with my signal station. I will be leaving tomorrow to finally get this plan back on track.": "第50天：我终于通过信号站与我们一族的飞船取得了联系，明天就要启程，将计划重新带回正轨",
-    "Day 64: Unfortunately, I had to leave our ship. The others have gone insane, and refuse to leave this new simulation they built. There's nothing I can do to help them.": "第64天：不幸的是，我不得不离开我们的飞船。其他人已经疯了，坚决拒绝离开他们自己建立的新模拟世界。我无能为力。",
-    "For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need.": "为要让我们的旧世界复苏，需要收集一些物品。首先是种子，然后是它最需要的阳光。",
-    "This hidden moon is orbiting around the fifth planet of this star system. Its origins are odd for something that should have come from its parent planet.": "这颗隐匿的卫星正缓缓环绕着恒星系中第五颗行星，在无垠黑暗中静默徘徊。它的来历异常神秘，彷佛本该血脉相承于母行星，却又独自散发着出乎意料的诡异气息。",
-    "The planet is abundant with a smooth, black mineral with strange properties. Our kind used these resources for our ship.": "这颗卫星蕴藏着丰富的光滑黑矿石，这些矿石拥有奇特的特性。我们利用这些资源建造了我们的飞船。",
-    "This is the north pole, where most of the base lies. The south pole is dangerous and has extremely strange properties, but it's not impossible to enter.": "这是北极，大部分基地都位于这里。南极很危险，并且具有极其奇特的性质，但也不是完全无法进入。",
-    "Day 70: When I was calculating trajectories for this moon's orbit, it's also a moon for the object that drove my kind insane. I hardly remember the details of it, but I can assume that this moon collided with it.": "第70天：在为这颗卫星的轨道进行计算时，我发现它也环绕着那个使我们陷入疯狂的对象运行。我几乎记不清具体细节，但可以推断这颗卫星曾与其发生过碰撞。",
+    //1F_Table1
+    "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.": "地球化改造很困难，但并非不可能。我们所需的是提供氧气的树木、维系生命的水，以及到达那里的方法。试想，如果我们的宇宙庞大千百倍，难度将何等繁复。",
 
-    //Signal House
-    "Day 45: An anomaly has occured with the signal blocker, as I was able to detect The Eye's signal. However, this anomaly allowed me to track the connection wavelengths between our ship and the blocker, now that I have it located.": "第45天：信号屏蔽器出现了异常，我成功检测到了眼信号。然而，这一异常使我能够追踪我们飞船与阻断器之间的连接频率，现在我已经确定了它的位置。",
+    //1F_Table2
+    "I can't use my kind's ship, so we need another means of transport and we need to grow more trees. We can get the water by extracting the hydrogen and oxygen from the Teal-Ringed Giant.": "我无法使用我们一族的飞船，所以我们需要另外一种交通方式，并且我们需要种植更多树木。我们可以通过从有青绿色环状纹路的巨星中提取氢和氧来获取水。",
+
+    //1F_Wall1
+    "Day 40: Finally, everything is built. Now to continue my research...": "第40天：终于，一切建成了。接下来，我要继续我的研究了……",
+
+    //1F_Wall2
+    "Day 50: I finally got ahold of my kind's ship with my signal station. I will be leaving tomorrow to finally get this plan back on track.": "第50天：我终于通过信号站与我们一族的飞船取得了联系，明天就要启程，将计划重新带回正轨。",
+
+    //1F_Wall3
+    "Day 64: Unfortunately, I had to leave our ship. The others have gone insane, and refuse to leave this new simulation they built. There's nothing I can do to help them.": "第64天：不幸的是，我不得不离开我们的飞船。其他人已经疯了，坚决拒绝离开他们自己建立的新虚拟世界。我无能为力。",
+
+    //2F_Desk
+    "For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need.": "为要让我们的旧世界复苏，需要收集一些物品。首先是种子，然后是它最需要的阳光。",
+
+    //2F_Poster1
+    "This hidden moon is orbiting around the fifth planet of this star system. Its origins are odd for something that should have come from its parent planet.": "这颗隐匿的卫星正缓缓环绕着恒星系中第五颗行星，在无垠黑暗中静默徘徊。它的来历异常神秘，彷佛本该血脉相承于母行星，却又独自散发着出乎意料的诡异气息。",
+
+    //2F_Poster2
+    "The planet is abundant with a smooth, black mineral with strange properties. Our kind used these resources for our ship.": "这颗卫星蕴藏着丰富的光滑黑矿石，这些矿石拥有奇特的特性。我们利用这些资源建造了我们的飞船。",
+
+    //2F_Poster3
+    "This is the north pole, where most of the base lies. The south pole is dangerous and has extremely strange properties, but it's not impossible to enter.": "这是北极，大部分基地都位于这里。南极很危险，并且具有极其奇特的性质，但也不是完全无法进入。",
+
+    //2F_Poster4
+    "Day 70: When I was calculating trajectories for this moon's orbit, it's also a moon for the object that drove my kind insane. I hardly remember the details of it, but I can assume that this moon collided with it.": "第70天：在为这颗卫星的轨道进行计算时，我发现它也环绕着那个使我们陷入疯狂的对象运行。我几乎记不清具体细节，但可以推断这颗卫星曾与其发生过碰撞。",
+    "Day 45: An anomaly has occured with the signal blocker, as I was able to detect The Eye's signal. However, this anomaly allowed me to track the connection wavelengths between our ship and the blocker, now that I have it located.": "第45天：信号屏蔽器出现了异常，我成功检测到了眼信号。然而，这一异常使我能够追踪我们飞船与屏蔽器之间的连接频率，现在我已经确定了它的位置。",
     "That is the order it shall follow; else it will stay dead and hollow. Input these words as a secret code, but put a star in the fifth node.": "将这些诗歌作为隐秘的密码输入，但需在第五个节点插入一颗星。",
-    "The light bulb above the hidden door in the Bramble Museum has somehow synced with the door under it, which can be found with a flashlight. The closer it is to opening, the darker the light bulb gets.": "荆棘博物馆隐藏门上方的灯泡不知何故与下方的门同步 —— 你可以用手电筒找到那扇门。越接近开启，灯泡便愈发昏暗。",
+    "The light bulb above the hidden door in the Bramble Museum has somehow synced with the door under it, which can be found with a flashlight. The closer it is to opening, the darker the light bulb gets.": "荆棘博物馆隐藏门上方的灯泡不知何故与下方的门同步——你可以用手电筒找到那扇门。越接近开启，灯泡便愈发昏暗。",
     "With those two things, fresh air will flourish, so plants and animals can thrive and nourish. But best beware the spreading flames, the air might spark it all ablaze.": "有了这两样东西，新鲜空气会兴旺，植物和动物才能繁荣。但要小心蔓延的火焰，空气可能会助燃一切。",
 
-    //Crimson
+    //1F_Wall
     "There was an old story about an electric hurricane on the Scientist's base planet. I bet it has similar properties to the hazardous water around this vortex. I'm sure I've also heard that you can set it down and walk away from it a decent amount of meters away.": "据说科学家的基地上曾有一个电气飓风的古老传说。我敢打赌，它与这个漩涡周围的危险水域具有相似的特性。我还听说过，你可以将它放下，然后安全地远离它几米开外。",
+
+    //2F_Wall1
     "The Defense Ministry has ordered us to extract the electric fluid for their weapons. Why do we even need weapons? Are we really in danger?": "国防部下令我们提取导电流体用于武器制造。可我们为何需要武器？我们真的面临威胁吗？",
+
+    //2F_Wall2
     "Perhaps we are, and they're keeping it classified to keep us under control. Maybe it's best we follow their orders, to protect our homeworld.": "或许确实如此，但他们将真相列为机密，只为掌控我们。也许顺从他们的命令才是明智之举，毕竟这关乎家园的安危。",
+
+    //Signal
     "NOTE: To find the white ship, use the gear interface to activate a signal and follow it.": "提示：若要寻找那艘白色飞船，请使用齿轮界面启动信号，然后循迹而行。",
+
+    //Vessel1
     "The enemy behind the anomaly has finally shown its face! A massive white ship capable of warp technology has warped to our system.": "隐藏在异象背后的敌人终于现身！一艘具备跃迁能力的庞大白色飞船已经跃入我们的星系。",
+
+    //Vessel2
     "On further examination, the ship has no weapons. The war is in our favor!": "经仔细检查，这艘飞船竟无武装。战局已向我方倾斜！",
     "If Operation Phoenix succeeds, we must put a cloak on the ship so that no one finds it. Is that clear?": "若凤凰行动成功，务必为那艘飞船披上隐形外衣，确保无人发现它的踪迹。明白了吗？",
-
-    //Crimson Moon
     "We still have quite a long while until our star dies, maybe another 281,083 years. But when it does, the desert planet will lose its atmosphere when the clock hits star.": "距离我们的恒星熄灭还有相当漫长的时间，约莫281,083年之久。然而当那一刻来临，沙漠星球将在时钟指向恒星符号时，失去它珍贵的大气层。",
     "NOTICE: The seal will be burned when the lava's tide rises. Luckily, this won't happen until ring time around the last minutes before our star dies in case we need it again.": "警告：熔岩潮汐升起之际，封印将被焚毁。幸运的是，此事仅会发生在我们恒星消亡前的最后时刻，在时钟指向环形符号之时，以便我们可能再次需要它。",
+
+    //1F_Wall4
     "This clock here lasts for 44 minutes, with each 11 minutes being a symbol.": "此处的时钟周期为44分钟，每过11分钟便会指向一个独特的符号。",
-    "We have detected an alien anomaly in the now overgrown ice planet, likely inside its dimensions. We must prepare in case some horrifying beast tries to pose a threat to our homeworld. We must not lose it again!": "那颗早已被植物覆盖的冰冷星球上，我们探测到了异界波动...极可能藏于其次元之内。我们必须做好万全准备，以防某种恐怖生物试图威胁我们的家园。我们绝不能再次失去它！",
-    "In order to respond to anomalies like the one that just happened, today I announce the founding of the Ministry of Defense!": "为妥善应对如刚才发生的异常现象，本日起，我正式宣布国防部成立！",
+
+    //2F_Table
+    "We have detected an alien anomaly in the now overgrown ice planet, likely inside its dimensions. We must prepare in case some horrifying beast tries to pose a threat to our homeworld. We must not lose it again!": "我们在那颗早已被植物覆盖的冰冷星球上探测到了异界波动，它极可能藏于其次元之内。我们必须做好万全准备，以防某种恐怖生物试图威胁我们的家园。我们绝不能再次失去它！",
+    "In order to respond to anomalies like the one that just happened, today I announce the founding of the Ministry of Defense!": "为妥善应对如刚才发生的异常现象，今日起，我正式宣布国防部成立！",
     "All of our nuclear arsenal is ready for defense! We are prepared for Operation Phoenix.": "我们的核武库已全面就绪，随时可为防御任务启动！凤凰行动准备完毕。",
 
-    //Darker Bramble
+    //Table
     "Day 100: The mineral's side effects not only turn the dimension's fog black, but also give the anglerfish an interesting property. Turns out, they change location each time you look away.": "第100天：这种矿物的副作用不仅令次元空间中的迷雾变得漆黑，还赋予安康鱼一种奇特的性质。有趣的是，每当你将视线移开，它们就会瞬间转移位置。",
-    "Day 99: Just started to map out these pocket dimension. Thankfully I scanned the lighted node with my vision torch, because there's no way out! That dimension is a trap!": "第99天：开始绘制这些次元空间的地图。万幸我用火把视野扫描了那个发光节点，否则就彻底迷失了！那个次元完全是个陷阱！",
-    "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I forget.": "第105天：成功了！经过数天的搜寻，我找到了可能通往我们家园星系的正确路径！我要立即制作一份幻灯记录，以防日后遗忘。",
-
-    //Eye of the Universe
+    "Day 99: Just started to map out these pocket dimension. Thankfully I scanned the lighted node with my vision torch, because there's no way out! That dimension is a trap!": "第99天：开始绘制这些次元空间的地图。幸好我用火把视野扫描了那个发光节点，因为它没有出口！那个次元完全是个陷阱！",
+    "Day 105: I did it! After days of searching, I've found the right path to what might be our home system! I'll make a slide recording in case I forget.": "第105天：成功了！经过数天的搜寻，我找到了可能通往我们家园星系的正确路径！我要立即制作一份幻灯片记录，以防日后遗忘。",
 
     //DescendantSurface
     "Alright, this is it...the End of the Universe. I hope my distant uncle was right about this place giving birth to a new universe in our place.": "就是这里了……宇宙的终点。我只希望我那远房叔叔所言非虚，这个地方能在我们消逝后孕育新的宇宙。",
@@ -81,7 +128,7 @@
     "So who's jumping in first?": "那么，谁先跃入其中？",
     "I don't know, maybe I'm just faster than you.": "不清楚，或许我天生就比你敏捷一些。",
     "Since I went ahead of you before, I'll just let you plunge in first.": "既然此前都是我领先一步，这一次，就让你先跳入深渊吧。",
-    "Alright, see you on the other side!": "好，彼岸相见！",
+    "Alright, see you on the other side!": "好，在另一边再见！",
 
     //DescendantVessel
     "It's.....beautiful...No wonder our kind destroyed our homeworld to get to it...": "这景象……如此震撼……难怪我们的族人不惜摧毁家园也要抵达这里……",
@@ -91,7 +138,7 @@
     "Right on! Let's head down there, shall we?": "正是如此！我们一起下去看看，好吗？",
     "...Eh? That's it? Were you here before or something?": "……呃？就这样？你之前到过这里还是怎么了？",
     "No but I expected better. Let's just head on down.": "没有，只是我期待能看到更惊人的景象。算了，我们继续前进吧。",
-    "Alright Hatchling, lead the way!": "好的，小家伙，请为我们带路！",
+    "Alright Hatchling, lead the way!": "好的，小家伙，请带路！",
 
     //DescendantCampfire
     "Oh hey Hatchling! I thought I lost you for good! Weirdly enough, I see my friend Bark from the Distant Enigma shivering over there.": "嘿，小家伙！还以为彻底找不到你了呢！说来奇怪，我看到我那位来自深域幻星的朋友巴克正在那边瑟瑟发抖。",
@@ -113,27 +160,27 @@
     "From what my brother has learned about The Eye, it is a tool of sacrifice. He knew that our kind was doomed once we boarded The Stranger, so he thought it was time.": "从我兄弟对宇宙之眼的研究来看，它是一种牺牲的工具。他深知一旦我们登上外星站，我们的种族就注定灭亡，所以他认为时机已到。",
     "Little did he know, the universe is bigger and contains more intelligent life than he thought, so it would be unfair to end their lives too.": "可他浑然不知，宇宙远比他想象的广袤，孕育着更多智慧生命，若如此行事，对他们而言实在太不公平。",
     "But you? You activated The Eye at the perfect time. The Universe was already dying, and it was calling for you to end its misery and fill its remains with new life.": "而你？你在最恰当的时机激活了宇宙之眼。此刻宇宙已奄奄一息，它呼唤着你终结它的痛苦，并从它的遗骸中孕育新生。",
-    "I hope you can forgive my ancestors and I for blocking the signal, eating your primitive ancestors to survive, and killing a whole clan of Nomai.": "我希望你能宽恕我们祖祖辈辈阻断信号、为生存而捕食你们原始祖先，以及屠戮整个挪麦种族的罪过。",
+    "I hope you can forgive my ancestors and I for blocking the signal, eating your primitive ancestors to survive, and killing a whole clan of Nomai.": "我希望你能宽恕我们祖祖辈辈阻断信号、为生存而捕食你们原始祖先，以及屠戮整个挪麦家族的罪过。",
     "What few members of my kind know is that everyone has their flaws, including myself. Instead of attacking them for offending you or impeding on your values, put those feelings aside and focus on unity and brotherhood.": "我族中很少有人明白，每个人都有缺陷，我亦不例外。请你不要因他们冒犯了你或挑战你的价值观而予以抨击，暂且搁置这些情绪，让我们专注于团结与兄弟情谊。",
     "So thank you Hatchling, thank you for admiring my work. Now let's get ready to set this new universe in stone!": "所以谢谢你，小家伙，谢谢你对我作品的赞赏。现在，让我们准备为这个全新的宇宙奠基吧！",
     "Very well said! Let's continue to press forward!": "说得太好了！让我们继续向前迈进！",
     "Right on, Hatchling! Us explorers must always stick together!": "说得对极了，小家伙！我们探险家必须同舟共济，并肩前行！",
     "I think this is it, the new universe. Go on ahead and figure out a way to activate it!": "我想，这就是那个崭新的宇宙。继续向前，找出激活它的方法吧！",
+    "I think this is it, the new universe. Go on ahead and figure out a way to actviate it!": "我想，这就是那个崭新的宇宙。继续向前，找出激活它的方法吧！",
+
     //Mineral
-    "This mineral is found on Angler's Eye, and it's known for its resistance to electricity, its natural cloaking, and ability to stop the Bramble from growing.": "这种矿物在安康鱼眼上被发现，它以其对电的抵抗力、天然的隐形能力和阻止荆棘生长的能力而闻名。",
+    "This mineral is found on Angler's Eye, and it's known for its resistance to electricity, its natural cloaking, and ability to stop the Bramble from growing.": "这种矿物在安康鱼之眼上被发现，它以其对电的抵抗力、天然的隐形能力和阻止荆棘生长的能力而闻名。",
     "The Stranger's Inhabitants used this to cloak The Stranger, and one individual used it to reach their home moon.": "外星站的居民用它来掩盖外星站船体，并且有人用它来前往他们故乡的卫星。",
-    "Turns out, Angler's Eye originated from the Eye of the Universe, and the minerals are weakened quantum shards. Who knew the Quantum Moon had an evil twin?": "原来，安康鱼眼竟源自宇宙之眼本身，而这些矿物实则是衰减后的量子碎片。谁能想到，量子卫星居然还有个邪恶",
+    "Turns out, Angler's Eye originated from the Eye of the Universe, and the minerals are weakened quantum shards. Who knew the Quantum Moon had an evil twin?": "原来，安康鱼之眼竟源自宇宙之眼本身，而这些矿物实则是衰减后的量子碎片。谁能想到，量子卫星居然还有个邪恶双胞胎？",
 
     //SystemModel
     "The Stranger's Inhabitants once lived on a lush, green moon, which they destroyed to reach The Eye.": "外星站的居民曾经生活在一个郁郁葱葱的绿色卫星上，但他们为了到达宇宙之眼而摧毁了它。",
     "Luckily, one individual stepped up and brought their dormant home back to life, and even repopulated the species!": "幸运的是，一个个体挺身而出，让其休眠的家园重获新生，甚至重新繁衍了这个物种！",
     "Hundreds of thousands of years later, they still live in harmony in a stagnant paradise, while doing everything to make sure they don't lose their home again.": "数十万年后，他们仍然和谐地生活在一个停滞的天堂中，同时尽一切努力确保他们不会再次失去家园。",
-    "After destroying a Nomai Vessel and its clan, other Nomai clans reacted by putting a no-warp zone around our solar neighborhood.": "在摧毁了一艘挪麦飞船及其氏族后，其他挪麦氏族通过在我们太阳系附近设置一个禁止跃迁区来做出反应。",
+    "After destroying a Nomai Vessel and its clan, other Nomai clans reacted by putting a no-warp zone around our solar neighborhood.": "在一艘挪麦飞船及其家族被摧毁后，其他挪麦家族通过在我们太阳系附近设置一个禁止跃迁区来应对。",
     "I even convinced Cypress, the current leader of the Strangers' Homeworld, to come with me to The Eye!": "我甚至说服了外星站居民故乡的现任领导人塞普雷斯和我一起去宇宙之眼！",
 
-    //HomeWorld
-
-    //Museum
+    //1F_MineralExhibit
     "Our Scientist brought this mineral with him on his trip back from that cloaked moon. Please do not touch!": "我们的科学家从那颗隐形的卫星上带回了这种矿物。请勿触摸！",
     "These are the planets of our star system! First we have the hot, desert planet, then comes our beloved Ringed Giant where our home moon resides.": "这些是我们恒星系统的行星！首先是炎热的沙漠行星，然后是我们挚爱的环界星，我们的家园卫星就位于那里。",
     "Beyond our homeworld lies a stormy, crimson giant with a violent, volcanic moon. Even further out, is a planet like no other, one with a strange orbit and a transforming surface.": "在我们的家园之外，是一颗暴风雨般的绯红巨星，拥有一颗狂暴的火山卫星。更远的地方，是一颗与众不同的行星，它有着奇怪的轨道和不断变化的表面。",
@@ -147,16 +194,16 @@
     "May he be remembered, not for what he did, but for the tragedy that drove him to madness.": "愿人们铭记他，不是因为他的所作所为，而是因为那将他推向疯狂的悲剧命运。",
 
     //ScientistTomb
-    "Here lies the Scientist, in all his former glory. May he forever be remembered for his successful terraforming of our home planet. His final words, \"Keep our home safe, by any means necessary\".": "科学家安息于此，荣耀永存。愿他因成功地将我们的家园行星地球化改造而永远被铭记。他的遗言是：\"不惜一切代价，保护我们的家园安全。\"",
+    "Here lies the Scientist, in all his former glory. May he forever be remembered for his successful terraforming of our home planet. His final words, \"Keep our home safe, by any means necessary\".": "科学家安息于此，荣耀永存。愿他因成功地将我们的家园行星地球化改造而永远被铭记。他的遗言是：“不惜一切代价，保护我们的家园安全。”",
 
     //StrangerTomb
-    "In memory to all those who suffered and died aboard our ship, meant to reach the vortex. The horrors of famine, self-harm, insanity, and simulated isolation almost wiped out our entire species.": "谨此纪念所有在飞船上遭受苦难与死亡的同胞，他们本欲抵达那漩涡之所。饥荒、自戕、精神错乱与模拟隔离的恐怖几乎将我们整个族群推向灭绝。",
+    "In memory to all those who suffered and died aboard our ship, meant to reach the vortex. The horrors of famine, self-harm, insanity, and simulated isolation almost wiped out our entire species.": "谨此纪念所有在飞船上遭受苦难与死亡的同胞，他们本欲抵达那漩涡之所。饥荒、自我伤害、精神错乱与虚拟隔离的恐怖几乎将我们整个族群推向灭绝。",
 
     //Astronomer
-    "....Only minutes away...": "....仅剩几分钟了...",
+    "....Only minutes away...": "……仅剩几分钟了……",
     "What are you observing?": "你在观察什么？",
     "Did you know the universe is dying?": "你知道宇宙正在消亡吗？",
-    "All of our planets. Symptoms of star death are all over the place. Should blow up in 33 minutes.": "我们所有的行星。恒星死亡的征兆随处可见，大约33分钟后就会爆炸。",
+    "All of our planets. Symptoms of star death are all over the place. Should blow up in 33 minutes.": "我们所有的行星。恒星死亡的征兆随处可见。大约33分钟后就会爆炸。",
     "And you're doing nothing about it?": "面对这一切，你就不打算采取任何行动吗？",
     "Indeed I do, I'm witnessing it before my very eyes.": "的确如此，我正亲眼见证这一切发生。",
     "Yeah, what can we do about it? Besides, I'd rather die doing something I love.": "是啊，我们又能做什么呢？况且，我宁愿做着自己热爱的事情死去。",
@@ -167,7 +214,7 @@
     "Don't interrupt conversation.": "不要打断谈话。",
     "A joke? What's that supposed to mean?": "笑话？那是什么意思？",
     "I just meant like, you know, you could tell me the joke you two were laughing about!": "我只是想说，你们可以告诉我你们两个在笑什么！",
-    "Listen, blue-skin. The only joke here is whatever backwater planet you puttered over here from. Is it customary there to interrupt important conversations to demand amusement?": "听着，蓝皮。这里唯一的笑话就是你从哪个偏远星球来的。打断重要的谈话来要求娱乐是你们那里的习俗吗？",
+    "Listen, blue-skin. The only joke here is whatever backwater planet you puttered over here from. Is it customary there to interrupt important conversations to demand amusement?": "听着，蓝皮人。这里唯一的笑话就是你从哪个偏远星球来的。打断重要的谈话来要求娱乐是你们那里的习俗吗？",
     "No, it's just—": "不，只是——",
     "Is all of your kind petulant, sleeve-tugging children? Because it's seeming like it, pal. Not a good look.": "你们所有人都这么任性，拉着袖子的孩子吗？因为看起来是这样，伙计。这可不好看。",
     "Okay, I'm sorry. I—": "好吧，对不起。我——",
@@ -184,16 +231,16 @@
     "Can't you see we're in the middle of a conversation?": "你没看到我们正在谈话吗？",
     "Sorry.": "对不起。",
     "You've got some guts little one. You're an alien AND you fear my laugh? What have we done to you?": "你这小家伙真有胆量。你是个外星人，而且还害怕我的笑声？我们对你做了什么？",
-    "Simulated versions of your ancestors on The Stranger kept trying to kill me.": "外星站模拟上，你的祖先一直想杀我。",
+    "Simulated versions of your ancestors on The Stranger kept trying to kill me.": "在虚拟版本的外星站上，你的祖先一直想杀我。",
     "That's no surprise, they drove themselves insane. We're not like that anymore, so you're the creep now!": "这并不奇怪，他们把自己逼疯了。我们早已不是那样了，所以现在反倒是你才显得古怪！",
     "This ship looks similar to the one at the edge of our star system, but much cleaner. They came to your home system, too?": "这艘船看起来和我们恒星系边缘的那艘船很相似，但更干净。他们也来过你们的家园系统吗？",
     "Yes, they were looking for the Eye of the Universe, and now we're about to go there ourselves.": "是的，他们正在寻找宇宙之眼，而我们现在也要去那里了。",
     "Alright then, let's stop holding back and do this!": "好吧，那我们别再犹豫了，开始行动吧！",
 
     //Leaning
-    "....Hey...": "....嘿...",
+    "....Hey...": "……嘿……",
     "I come in peace.": "我带着和平而来。",
-    "....Is something wrong?": "....有什么不对劲吗？",
+    "....Is something wrong?": "……有什么不对劲吗？",
     "OK, I won't bother you.": "好吧，我不打扰你了。",
     "...Nothing's wrong....I'm just a bit shy.": "……没什么不对……我只是有点害羞。",
     "Why are you shy?": "你为什么害羞？",
@@ -225,11 +272,11 @@
     "Good.": "很好。",
 
     //PartySit2
-    "Oh heya! You must be that alien our Scientist foresaw during his terraform studies. Welcome!": "哦，嘿呀！你一定是我们的科学家在他的地球化研究中预见到的那个外星人。欢迎！",
+    "Oh heya! You must be that alien our Scientist foresaw during his terraform studies. Welcome!": "哦，嘿呀！你一定是我们的科学家在他的地球化改造研究中预见到的那个外星人。欢迎！",
     "Yep, that's me.": "是的，那是我。",
     "So far, you're the only one who's ever welcomed me.": "到目前为止，你是唯一一个欢迎我的人。",
     "Yeah, I'm the only one here that's not afraid of aliens.": "是啊，我是这里唯一一个不害怕外星人的人。",
-    "You can call me \"Hatchling\". Nice meeting you!": "你可以叫我'小家伙'。很高兴认识你！",
+    "You can call me \"Hatchling\". Nice meeting you!": "你可以叫我“小家伙”。很高兴认识你！",
     "Why is your kind so xenophobic?": "为什么你们这么排外？",
     "If ya want a li'l history lesson, there's a museum and memorial dedicated to the Scientist on the South Pole. I'm sure you've seen plenty of his studies though!": "如果你想听一点历史课，南极有一个博物馆和纪念馆是专门纪念科学家的。我相信你已经看过很多他的研究了！",
     "Anytime, new pal!": "随时奉陪，新朋友！",
@@ -242,13 +289,13 @@
 
     //ScientistDescendantIntro
     "...Who are you? Where did you come from?": "……你是谁？你从哪里来？",
-    "I am a Hearthian. I come in peace from the next system over.": "我是一个木炉星人。我从邻近的星系带着和平而来。",
+    "I am a Hearthian. I come in peace from the next system over.": "我是一个哈斯人。我从邻近的星系带着和平而来。",
     "No, who are you?": "不，你是谁？",
     "Where are we?": "我们在哪里？",
     "Doesn't matter. Come with me. Your life depends on it!": "不重要。跟我来。你的性命悬于此刻！",
     "Come with me. Your life depends on it!": "跟我来。你的性命悬于此刻！",
     "Yeah right! How am I supposed to trust you? Stop wasting my time!": "是啊，说得对！我凭什么相信你？别浪费我的时间了！",
-    "B-but...": "可...可是...",
+    "B-but...": "可……可是……",
     "No buts! Go back to your homeland, and don't mess with us!": "别再可是了！回到你的家园去，别来打扰我们！",
     "Like I'd tell an alien my personal information! That's just asking for death!": "我怎么可能告诉一个外星人我的个人信息！那简直是自寻死路！",
     "You're on our home turf, and we're not going to risk you ruining our utopia!": "你正身处我们的领地，我们绝不会冒险让你破坏我们的理想家园！",
@@ -258,13 +305,13 @@
     "If The Scientist was here, he'd say it's time.": "如果科学家在这里，他会说时机已到。",
     "No he woul.....wait....": "不，他不会……等等……",
     "I remember...he passed down a note through many generations.": "我记得……他通过世代相传的方式留下了一张纸条。",
-    "It said...\"Wait for all the stars to die, then activate the Universe's Eye\".": "上面写着……\"等待所有恒星熄灭，然后再激活宇宙之眼\"。",
-    "Heh, you know a lot, stranger! Do you have something to take us there?": "嘿，你知道很多啊，陌生人！你有办法带我们去那里吗？",
+    "It said...\"Wait for all the stars to die, then activate the Universe's Eye\".": "上面写着……“等待所有恒星熄灭，然后再激活宇宙之眼”。",
+    "Heh, you know a lot, stranger! Do you have something to take us there?": "嘿，你知道得很多啊，陌生人！你有办法带我们去那里吗？",
     "Yes, come aboard the Vessel!": "是的，请登上飞船！",
     "Alright, I alone shall come with you on this journey.": "好吧，我将独自一人与你踏上这段旅程。",
     "The others can keep guard of our homeland. I'll start my way on over.": "其他人可以继续守护我们的家园。我这就过去。",
 
-    //ScientistDescendantVision
+    //ScientistDescendantIntroKnown
     "...So you came all this way after discovering my ancestor's terraforming studies? Just like he predicted...": "……所以你在发现我祖先的地球化研究后一路来到这里？就像他预测的那样……",
     "....And you are?": "……你是谁？",
     "Yeah I'm going to go exploring now.": "是的，我现在要去探索了。",
@@ -272,8 +319,9 @@
     "Enjoy your stay, just don't do anything to our utopia or else we'll exile you from the system!": "祝你旅途愉快，只是不要对我们的乌托邦做任何事情，否则我们会将你驱逐出这个星系！",
     "Sorry, now that I know you're the fabled alien to find his work, I'll introduce myself.": "对不起，既然我知道你是来寻找他的作品的传说中的外星人，我就自我介绍一下。",
     "My name is Cypress, I'm The Scientist's very distant grandson and the current leader of this place.": "我叫塞普雷斯，我是科学家的远房孙子，也是这个地方的现任领导人。",
-    "Nice to meet you! They call me \"Hatchling\".": "很高兴认识你！他们叫我'小家伙'。",
+    "Nice to meet you! They call me \"Hatchling\".": "很高兴认识你！他们叫我“小家伙”。",
     "Greetings Hatchling. I hope you enjoy your time here at our utopia.": "你好，小家伙。我希望你在这里的乌托邦玩得开心。",
+    "Why must I go with you, Hatchling? Is it really that urgent?": "为什么我必须要跟你走，小家伙？这真的有那么紧急？",
 
     //SpaceStation
     "What brings you here, alien?": "你来这里做什么，外星人？",
@@ -302,16 +350,16 @@
     "Can I find it?": "我能找到它吗？",
     "Yeah, true.": "是啊，没错。",
     "No I will not! What else is there to do? Go bother someone else with that attitude!": "我不会的！还能做什么呢？带着这种态度去打扰别人吧！",
-    "If you want to find it, it has a signal on it. That is, if your kind has that technology yet.": "如果你想找到它，它上面有一个信号。也就是说，如果你们已经拥有了那种技术。",
+    "If you want to find it, it has a signal on it. That is, if your kind has that technology yet.": "如果你想找到它，它上面有一个信号源。如果你们已经拥有了那种技术的话。",
     "Okay, thanks!": "好的，谢谢！",
     "Oh yeah, I'm quite aware. We're all choosing to die in peace, just ask everyone, they'll all say the same thing.": "哦，是的，我很清楚。我们都选择平静地死去，随便问问谁，他们都会这么说。",
     "Also, I'm working on something to make sure we're not forgotten.": "而且，我正在做一些事情来确保我们不会被遗忘。",
     "Oh there's plenty of places to explore in this star system!": "哦，在这个恒星系里有很多地方可以探索！",
-    "The motto for the space program is, \"From the crimson gale, to the burning dune, we watch the skies from our home moon\".": "太空计划的座右铭是：'从绯红色的狂风，到燃烧的沙丘，我们从家园卫星上仰望天空'。",
+    "The motto for the space program is, \"From the crimson gale, to the burning dune, we watch the skies from our home moon\".": "太空计划的座右铭是：“从绯红色的狂风，到燃烧的沙丘，我们从家园卫星上仰望天空”。",
     "For starters, if you can use signal detection technology, I'd follow the radio signals of our friends out in space right now.": "首先，如果你能使用信号探测技术，我会追踪我们朋友现在在太空中的无线电信号。",
     "They've been dwelling on those planets for quite a while, so they might know a thing or two.": "他们在那些行星上住了很长时间了，所以他们可能知道一些事情。",
     "Alright, thanks for the info!": "好的，谢谢你的信息！",
-    "Your friend \"Hornfels\" does the same job I do, huh? We may do the same job, but somehow I doubt we're alike at all.": "你的朋友'霍恩费斯'和我做一样的工作，是吗？我们可能做着一样的工作，但不知何故，我怀疑我们是否相似。",
+    "Your friend \"Hornfels\" does the same job I do, huh? We may do the same job, but somehow I doubt we're alike at all.": "你的朋友“霍恩费斯”和我做一样的工作，是吗？我们可能做着一样的工作，但不知何故，我怀疑我们是否相似。",
     "Okay then, feel free to explore space.": "好吧，那就随意探索太空吧。",
 
     //StageSit1
@@ -329,11 +377,9 @@
 
     //StageSit3
     "Never gets old, huh?": "永远不会过时，是吗？",
-
-    //Observation Deck
-    "OBSERVATION 1: Yearly checkup on all the planets! Everything's OK, the desert's still deadly on its sun-facing side, the crimson stormy planet is still brewing, and the fourth continues to act mysteriously, changing its form each view.": "观察 1：年度行星巡检完毕！一切如常，沙漠行星的向阳面依旧致命，绯红风暴行星仍在翻涌酝酿，而那神秘的第四行星继续捉摸不定，每次观测都呈现不同形态。",
-    "OBSERVATION 2: The strange base on the volcanic moon shows itself yet again. Why are these buildings there? Could they be from the old space program all those years ago?": "观察 2：火山卫星上的那座奇特基地再次浮现。这些建筑为何会在那里？莫非是多年前旧太空计划的遗迹？",
-    "OBSERVATION 3: The universe is about to die. Our neighbor star where our ancestors' old ship lies, it will die 11 minutes before our star dies. We have plenty of time to leave, but we don't want to leave home. We'd rather die with it, unlike our ancestors did.": "观察 3：宇宙即将走向终结。我们祖先旧飞船所在的邻近恒星将比我们的恒星早11分钟熄灭。虽有充裕时间逃离，但我们不愿离开家园。不同于先祖的选择，我们宁愿与它共赴终焉。",
+    "OBSERVATION 1: Yearly checkup on all the planets! Everything's OK, the desert's still deadly on its sun-facing side, the crimson stormy planet is still brewing, and the fourth continues to act mysteriously, changing its form each view.": "观察1：年度行星巡检完毕！一切如常，沙漠行星的向阳面依旧致命，绯红风暴行星仍在翻涌酝酿，而那神秘的第四行星继续捉摸不定，每次观测都呈现不同形态。",
+    "OBSERVATION 2: The strange base on the volcanic moon shows itself yet again. Why are these buildings there? Could they be from the old space program all those years ago?": "观察2：火山卫星上的那座奇特基地再次浮现。这些建筑为何会在那里？莫非是多年前旧太空计划的遗迹？",
+    "OBSERVATION 3: The universe is about to die. Our neighbor star where our ancestors' old ship lies, it will die 11 minutes before our star dies. We have plenty of time to leave, but we don't want to leave home. We'd rather die with it, unlike our ancestors did.": "观察3：宇宙即将走向终结。我们祖先旧飞船所在的邻近恒星将比我们的恒星早11分钟熄灭。虽有充裕时间逃离，但我们不愿离开家园。不同于先祖的选择，我们宁愿与它共赴终焉。",
 
     //ScientistStatue
     "This statue is dedicated to our almighty Scientist, who never gave up on his dream of home. Without him, we would not regain our home and our species would cease to exist!": "这座雕像铭记着我们全能的科学家，他从未放弃对家园的执着梦想。若非他的存在，我们将永失家园，我族也将消逝于星河之间！",
@@ -350,18 +396,20 @@
     //Quantum
     "This quirky rock from the farthest planet seems to change position whenever it isn't being observed.": "这块来自最遥远行星的古怪岩石似乎在不被观察时会改变位置。",
 
-    //Isolated Swamp
-
-    //BottomReelShelf
+    //BottomReelShelf1
     "Informative, Ship": "信息，飞船",
-    "Informative, Simulation": "信息，模拟",
+
+    //BottomReelShelf2
+    "Informative, Simulation": "信息，虚拟空间",
+
+    //BottomReelShelf3
     "Informative, Cloaked Moon": "信息，隐形卫星",
 
     //DataWall
     "Day 63: Finally, everything from the three archives and the cloaked moon transferred. My work here on the ship is done.": "第63天：终于，三个档案馆和隐形卫星上的所有东西都转移完毕。我在飞船上的工作完成了。",
 
     //Reminder
-    "REMEMBER TO TAKE YOUR SLIDES AND YOUR ARTIFACT WITH YOU ON THE ELEVATOR BY SETTING THEM ON THE ELEVATOR FLOOR.": "记住将你的幻灯片和文物放在电梯地板上，然后一起带走。",
+    "REMEMBER TO TAKE YOUR SLIDES AND YOUR ARTIFACT WITH YOU ON THE ELEVATOR BY SETTING THEM ON THE ELEVATOR FLOOR.": "<![CDATA[<i>记住将你的幻灯片和文物放在电梯地板上，然后一起带走。</i>]]>",
 
     //ScientistDialogue
     "What an incredible species you are, and what an incredible language you speak. Am I speaking your language right and do you understand me clearly?": "你们真是令人难以置信的物种，你们说的语言也令人难以置信。我说你们的语言说得对吗？你们能清楚地理解我吗？",
@@ -369,12 +417,12 @@
     "Could you speak up a little more?": "你能再说大声一点吗？",
     "Aren't you going to snap my neck?": "你不会扭断我的脖子吧？",
     "Wonderful!": "太棒了！",
-    "OK HOW DOES THIS SOUND?": "这样听起来怎么样？",
+    "OK HOW DOES THIS SOUND?": "<![CDATA[<i>这样听起来怎么样？</i>]]>",
     "PERFECT!": "完美！",
     "Too loud!": "太吵了！",
     "*AHEM* I can't talk that loudly without messing up my throat, so you're going to just have to listen closely...": "*咳咳* 我不能说得那么大声，否则会伤到我的喉咙，所以你只能仔细听了……",
     "*AHEM* OK then.": "*咳咳* 好的。",
-    "I'm not violent like the others, nor do I wish to prevent people from accessing archives like my kind is doing in this simulation. I do not wish to hurt you, but I do wish to learn from you.": "我与其他同族不同，我既不崇尚暴力，也不想阻止人们访问档案库——正如我的同类在这个模拟世界中所做的那样。我无意伤害你，相反，我希望能向你学习。",
+    "I'm not violent like the others, nor do I wish to prevent people from accessing archives like my kind is doing in this simulation. I do not wish to hurt you, but I do wish to learn from you.": "我与其他族人不同，我既不崇尚暴力，也不想阻止人们访问档案库——正如我的同类在这个虚拟世界中所做的那样。我无意伤害你，相反，我希望能向你学习。",
     "I can see you have a lot of questions for me. Tell me, what’s on your mind?": "我知道你有很多问题想问我。告诉我，你在想什么？",
     "How are you in here? I see you don't have an artifact.": "你怎么会在这里？我看到你没有文物。",
     "Tell me more about you.": "告诉我更多关于你的事。",
@@ -393,44 +441,44 @@
     "What are the origins of the Angler's Eye?": "安康鱼之眼的起源是什么？",
     "Unlike the rest here, my mind was uploaded. Therefore, I did not sleep to enter.": "和这里的其他人不同，我的意识是被上传的。因此，我没有通过睡眠进入。",
     "I got uploaded before I left our ship to resume studying. I don't know whether I succeeded with the terraform, died on the way, stranded on that cloaked moon, or just plain failed.": "在我离开飞船继续我的研究之前，我的意识已被上传至此。至于我是否成功地完成了地球化改造，还是在途中不幸身亡，抑或被困在那颗隐形卫星上，又或是彻底失败了——这一切我皆不得而知。",
-    "Although I may be just blocks of code, I'm still as alive as the \"real\" me once was.": "尽管在此处我可能只是一串代码，但我依然感到自己与那个曾经活着的'真实'我别无二致。",
-    "I have never been too fond of my real name so if you must please call me \"the Scientist\".": "我从来都不太喜欢我的本名，若是要称呼我，就叫我'科学家'吧。",
+    "Although I may be just blocks of code, I'm still as alive as the \"real\" me once was.": "尽管在此处我可能只是一串代码，但我依然感到自己与那个曾经活着的“真实”我别无二致。",
+    "I have never been too fond of my real name so if you must please call me \"the Scientist\".": "我从来都不太喜欢我的本名，若是要称呼我，就叫我“科学家”吧。",
     "Before I left our ship, I was the head of the scientific committee. I was the first one to utilize green fire and invented the vision torch.": "在离开飞船之前，我是科学委员会的主席。我率先掌握了绿火的运用之法，并发明了火把视野。",
-    "I was however blindsighted by my leader's... ulterior motives. I was directly involved in the technology needed to directly build the ship.": "然而，我却被领袖的...不可告人的动机蒙蔽了双眼。我直接参与了建造那艘飞船所需的技术研发。",
+    "I was however blindsighted by my leader's... ulterior motives. I was directly involved in the technology needed to directly build the ship.": "然而，我却被领袖的……不可告人的动机蒙蔽了双眼。我直接参与了建造那艘飞船所需的技术研发。",
     "I didn't want to tear down our home planet, but it was his orders. He made me build that ship regardless of how unhealthy conditions were.": "我本不愿摧毁我们的家园星球，但那是他的命令。不顾一切恶劣条件，他强令我建造那艘飞船。",
     "When I left, I put my assistant in charge because I could not deal with the shame I felt. The committee thought I died in the crash, and didn't bother checking.": "离开时，我将一切托付给了我的助手，因为我无法面对内心的羞愧。委员会以为我在坠毁中丧生，也没人费心去确认。",
-    "And then, the simulation, this fake delusion we are all trapped in was built. I would never have approved of this prison.": "然后，这个模拟世界——这个困住我们所有人的虚幻牢笼——就这样被建造了。若是由我做主，我绝不会允许建造这样一座囚牢。",
+    "And then, the simulation, this fake delusion we are all trapped in was built. I would never have approved of this prison.": "然后，这个虚拟世界——这个困住我们所有人的虚幻牢笼——就这样被建造了。若是由我做主，我绝不会允许建造这样一座囚牢。",
     "All just another futile attempt to fix a mistake I warned them about.": "这不过是又一次徒劳的挣扎，试图弥补我早已警告过的错误。",
     "Ah yes, my family. There were four of us. Me, my wife, my son, and my infant daughter.": "啊，我的家人。我们一家四口：我、我的妻子、我的儿子，还有我那尚在襁褓中的女儿。",
     "Our youngest was born on the ship, but due to lack of nutrients and poor atmosphere, she passed away only a week later.": "我们最小的孩子出生在飞船上，但由于营养不足和恶劣的环境，她仅仅活了一周就离我们而去。",
-    "<size=20>It was devastating...</size>": "<size=20>那七天慢长得像穿越了三个星系，却又短得抓不住一缕哭声</size>",
+    "<size=20>It was devastating...</size>": "<size=20>那七天漫长得像穿越了三个星系，却又短得抓不住一缕哭声……</size>",
     "We decided that the ship was no longer safe for us, so we had to give terraforming a shot.": "我们断定飞船对我们来说已不再安全，于是决心尝试地球化改造计划。",
     "We landed on the cloaked moon, far from our ship, but like a disease, it followed. Our son also didn't make it.": "我们降落在那颗隐形卫星上，远离飞船，却仿佛被厄运如影随形。我们的儿子……也没能挺过来。",
     "We decided then and there that the only hope for us was to resurrect the husk of our old home; our home moon.": "就在那一刻，我们决定，唯一的希望就是让我们曾经的家园——那颗废弃的卫星——重获生机。",
     "My kind had a deep connection with nature, so we tried to take it with us on our voyage.": "我们这个族群与自然有着深厚的羁绊，所以我们尝试在星际航行中带上自然的种子。",
-    "Before we found that vortex in the sky, which you have called the \"Eye of the Universe\", we lived very simple and pleasant lives.": "在发现天空中那个你们称为'宇宙之眼'的漩涡之前，我们过着简朴而幸福的生活。",
+    "Before we found that vortex in the sky, which you have called the \"Eye of the Universe\", we lived very simple and pleasant lives.": "在发现天空中那个你们称为“宇宙之眼”的漩涡之前，我们过着简朴而幸福的生活。",
     "We lived peacefully under the Ringed Giant, rafting its rivers, counting the stars, enjoying the simple pleasures of life.": "我们在环界星的庇护下和平生活，泛舟河上，仰望星空，享受生活中那些简单而珍贵的喜乐。",
     "Some of us had hobbies; building furniture, playing board games, music, and even fishing.": "我们各有所好——有人制作家具，有人沉迷棋盘，有人醉心音乐，还有人乐于垂钓。",
     "Most of my kind was very spiritual, some even worshipping idols and making sacrifices to ancient, now long forgotten gods.": "我的族群大多崇尚精神世界，有些人甚至膜拜偶像，向如今已被尘封的古老神明献祭。",
     "I was one of the few individuals who didn't care for worship, in fact my whole family was that way.": "我是为数不多的几个对神灵崇拜不感兴趣的人之一，事实上，我的整个家庭都是如此。",
     "It was only natural for my kind to sacrifice the planet to reach the \"Eye of the Universe\". After all that, we were never the same. No more gods, no more faith.": "为了抵达宇宙之眼而牺牲整个星球，在我族人眼中不过是道简单的算式。自那以后，我们彻底改变了。神明被遗忘，信仰化为尘埃。",
-    "The one locked down underground? We once knew each other but we had a... falling out. I don't like talking about it.": "你说那个被囚禁在地下的人？是的，我们曾经亲如手足，但后来...有了不可弥合的裂痕。我不愿多谈这段往事。",
+    "The one locked down underground? We once knew each other but we had a... falling out. I don't like talking about it.": "你说那个被囚禁在地下的人？是的，我们曾经亲如手足，但后来……有了不可弥合的裂痕。我不愿多谈这段往事。",
     "The time on the Stranger really made him go insane! He became so hopeless about losing home that he deactivated the Signal Blocker.": "在飞船上的漫长岁月彻底摧毁了他的理智！对失去家园的绝望驱使他关闭了信号屏蔽装置。",
     "When he scanned The Eye... what he saw drove him to obsession. He thought it would end our suffering and reset the universe.": "当他扫描宇宙之眼时……他所见之物令他陷入痴迷。他坚信这能终结我们的苦难，让宇宙重获新生。",
     "The problem is, there's probably many other lifeforms out there. Why must we end their lives because we suffered? It is simply not yet time to activate The Vortex.": "问题在于，宇宙中可能还存在着无数其他生命。凭什么因为我们的痛苦就要终结他们的存在？现在还不是启动漩涡的时候。",
     "However, despite his obsessions, I do wish for the times we had before.": "然而，尽管他如此执念，我依然怀念我们曾经共度的时光。",
     "Anyway let’s change the topic before I start getting all emotional.": "算了，换个话题吧，再说下去我怕自己控制不住情绪。",
-    "This \"Stranger\" you speak of, do you mean our ship? That wretched place was awful.": "你所说的'外星站'，就是指我们的飞船吗？那个地方简直是噩梦般的存在。",
+    "This \"Stranger\" you speak of, do you mean our ship? That wretched place was awful.": "你所说的“外星站”，就是指我们的飞船吗？那个地方简直是噩梦般的存在。",
     "We started our voyage with 55 crew members. Many others were lost, including a popular singer.": "启程时我们共有55名船员。途中我们失去了许多同伴，其中包括一位备受喜爱的歌手。",
-    "When we arrived, 20 died excluding my wife and I, while the other 33 remain trapped here in this simulation.": "抵达目的地时，除了我和妻子，已有20人丧生，其余33人则永远被困在了这个模拟世界中。",
+    "When we arrived, 20 died excluding my wife and I, while the other 33 remain trapped here in this simulation.": "抵达目的地时，除了我和妻子，已有20人丧生，其余33人则永远被困在了这个虚拟世界中。",
     "We made a memorial at the bottom of a well, but we don't like to remember those painful memories.": "我们在井底立了一座纪念碑，但没人愿意重温那些痛苦的回忆。",
     "The death wasn’t the only toll it took on us. No animals lived till the ship was built and the trip was expected to take way less time than it did so by the time we arrived we barely had any food left.": "死亡仅是我们付出的众多代价之一。飞船建成前就没有动物能够存活，而且航行的时间远超预期，到达时我们已几乎断绝了所有食物来源。",
     "All those factors meant children could not grow. My two beautiful children died due to the incompetence of our leader.": "这一切意味着孩子们根本无法健康成长。我那两个天真美丽的孩子，就因为领袖的无能而离我而去。",
     "He knew we didn’t have the technology to do this the ability to play god like we did.": "他明知我们没有足够的技术，却依然让我们如同扮演造物主一般改变自然。",
-    "Plenty of my kind have even taken their own lives due to this madness or starved to death due to lack of food. All while our leader said it was a \"necessary sacrifice\".": "在这疯狂的旅途中，许多同族或选择自尽，或因缺粮饿死。而我们的领袖却只是冷冷地称之为'必要的牺牲'。",
+    "Plenty of my kind have even taken their own lives due to this madness or starved to death due to lack of food. All while our leader said it was a \"necessary sacrifice\".": "在这疯狂的旅途中，许多族人或选择自尽，或因缺粮饿死。而我们的领袖却只是冷冷地称之为“必要的牺牲”。",
     "When I came back, I was even more horrified to see what happened next. I saw all the burned reels, the burnt codes, and all my dead friends lying dead around an eerie, green fire.": "当我回来后，我震惊地发现了更为可怕的景象。烧焦的卷轴、焚毁的代码散落各处，我的朋友们已化作尸体，围绕着一团诡异的绿色火焰静卧。",
-    "I then discovered this digital prison, and was disturbed to see my friends here......alive...": "随后我发现了这个数字牢笼，令我毛骨悚然的是，我的朋友们在这里竟然……还'活着'……",
-    "So I coded in this whole area, and added an archive and a coma hall to ease the pains of the others, trapped here in this simulation for eternity.": "于是我构建了这整个区域，设立了档案馆和永眠殿，希望能为那些永远被囚禁在模拟世界中的同伴们减轻些许痛苦。",
+    "I then discovered this digital prison, and was disturbed to see my friends here......alive...": "随后我发现了这个数字牢笼，令我毛骨悚然的是，我的朋友们在这里竟然……还活着……",
+    "So I coded in this whole area, and added an archive and a coma hall to ease the pains of the others, trapped here in this simulation for eternity.": "于是我构建了这整个区域，设立了档案馆和永眠殿，希望能为那些永远被囚禁在虚拟世界中的同伴们减轻些许痛苦。",
     "If only I was able to put a stop to it all...": "如果我能阻止这一切就好了……",
     "I specify in the green fire technology that you see all around us, but we have always been more spiritual than scientific.": "我专精于你们周围所见的这种绿色火焰技术，但我们族群向来重视精神层面多于科学。",
     "Before the green fire technology, our kind didn't have much at all. We were basically primitive.": "在绿色火焰技术诞生前，我们族群几乎一无所长，基本还处于原始文明阶段。",
@@ -440,7 +488,7 @@
     "A colleage of mine also discovered some crystals which give off electricity when lit up. A decade and some trial and error later we have the light sensors.": "我的一位同事还发现了一些晶体，这些晶体在受光照射时会释放电力。经过十年的不断尝试与失败，我们终于研制出了光传感器。",
     "Our ship's cloak is all natural resources we've mined from the cloaked moon. We didn't really have to configure it at all.": "我们飞船的隐形装置全部来自于隐形卫星上开采的天然资源，它本身就具备隐形特性，无需任何额外调整。",
     "Well, we can actually have up to 11 leaders, but almost always, one leader is more powerful than the rest.": "说来，我们的制度允许同时存在最多11位领袖，但几乎总是有一位凌驾于其他人之上。",
-    "Our most powerful leader usually wears yellow clothing, but his advisors who we deem \"The Council\" typically dress in red.": "我们最高领袖通常身着黄袍，而被称为'议会'的顾问们则多身着红衣。",
+    "Our most powerful leader usually wears yellow clothing, but his advisors who we deem \"The Council\" typically dress in red.": "我们最高领袖通常身着黄袍，而被称为“议会”的顾问们则多身着红衣。",
     "Our hierarchy system was directly related to the color of clothing. It goes from top to bottom: yellow, red, blue, green, gray, brown and rugged. The wealthy often had jewelry.": "我们的等级制度直接体现在服装色彩上。从最高到最低依次是：黄色、红色、蓝色、绿色、灰色、棕色和粗麻布。富有者常佩戴珠宝为饰。",
     "However, our leader was a tyrant since we found that vortex. He doesn't listen to his advisors and may even imprison those who defy him.": "然而，自从发现那个漩涡后，我们的领袖就成了暴君。他对顾问的建言充耳不闻，甚至将反对者投入牢狱。",
     "Those who refused to board the ship to reach the vortex were left home to starve, including one of our famous singers. Leaving home was truly a terrifying day.": "那些拒绝登船前往漩涡的人被弃于故土任其饿死，其中包括我们一位著名的歌手。那离乡的一日，真是令人心惊胆战。",
@@ -450,9 +498,9 @@
     "We found it when we were scanning the other planets in your system, but we predicted the trajectory incorrectly.": "我们在扫描你们星系中的其他行星时发现了它，但我们错误地计算了它的轨迹。",
     "For the terraforming plan, I was told by the Council to check to see if our homeworld was able to be terraformed, but we ended up crashing into the cloaked moon on our way there.": "为了地球化改造计划，议会派我前去检测我们的家园是否适合进行改造，但在途中我们却意外坠毁在了那颗隐形卫星上。",
     "The crash happened due to our false assumptions about its orbit.": "坠毁事故源于我们对它轨道的错误假设。",
-    "As my time on the cloaked moon went on, I found out that it was an \"evil twin\" of the ghost moon. Instead of copying just the terrain, some of the properties from the planet get imbued into it.": "随着在隐形卫星上时间的推移，我发现它其实是幻影卫星的'邪恶孪生兄弟'。它不仅复制了地形，还吸收了原行星的某些特性。",
+    "As my time on the cloaked moon went on, I found out that it was an \"evil twin\" of the ghost moon. Instead of copying just the terrain, some of the properties from the planet get imbued into it.": "随着在隐形卫星上时间的推移，我发现它其实是幻影卫星的“邪恶孪生兄弟”。它不仅复制了地形，还吸收了原行星的某些特性。",
     "I've also noticed that when you hold one of the minerals of the planet when going into the hurricane, it will not harm you.": "我还发现，当你手持这颗星球特有的矿石进入飓风时，竟能安然无恙。",
-    "Unlike most of my kind I've never been all too great at art. Never my skill set. I always like something more... tangible. Also slide reels are kind of clunky, too.": "与大多数同胞不同，我从未在艺术上有什么天赋。那从来不是我所长。我总是偏爱更加...实在的东西。况且，那些幻灯片卷轴操作起来也相当笨重。",
+    "Unlike most of my kind I've never been all too great at art. Never my skill set. I always like something more... tangible. Also slide reels are kind of clunky, too.": "与大多数同胞不同，我从未在艺术上有什么天赋。那从来不是我所长。我总是偏爱更加……实在的东西。况且，那些幻灯片卷轴操作起来也相当笨重。",
     "A bit rude but sure, what happened after we entered this eternal sleep?": "虽然有些唐突，但我确实想知道，在我们陷入永恒沉眠后发生了什么",
     "So first there were this species called The Nomai...": "首先，有一个叫做挪麦人的种族……",
     "That icy planet Angler's Eye orbited? It's now Dark Bramble.": "安康鱼之眼曾环绕的那颗冰冷行星？现在它已经变成了黑棘星。",
@@ -472,15 +520,15 @@
     "That's all I know": "我只知道这些",
     "Wow, how did it get here?": "哇，它是怎么到这里的？",
     "They got a signal from the Eye of the Universe.": "他们收到了来自宇宙之眼的信号。",
-    "Really? I thought we silenced that bomb!": "真的吗？我以为我们已经让那颗'炸弹'沉寂了！",
+    "Really? I thought we silenced that bomb!": "真的吗？我以为我们已经让那颗“炸弹”沉寂了！",
     "You did, but they got the signal from the moment the Prisoner let it free.": "没错，但他们接收到的是幽禁者释放信号的那一刹那。",
     "I am unsure about how they got it too.": "我也不清楚他们到底是怎么接收到的。",
     "Ah... that fool... So, what happened to them? Seeing as you are here, they seem to have not found it.": "啊……那个傻瓜……那么，后来他们怎样了？既然你现在站在这里，看来他们并未找到宇宙之眼。",
-    "Their leader, Escall was too hasty in his decision to warp and never let anyone know where he was going. They crashed in Dark Bramble which grew significantly since you last saw it.": "他们的首领艾斯科尔仓促决定跃迁，却从未告知任何人他要去哪。他们坠毁在黑棘星中，自从你上次见到它后，那里已经扩张了许多。",
-    "I am unsure of the details. All I know is they came from 2 Escape Pods on Brittle Hollow and Ember Twin.": "我不太清楚详情。我只知道他们来自碎空星和灰烬双星上的两个逃生舱。",
+    "Their leader, Escall was too hasty in his decision to warp and never let anyone know where he was going. They crashed in Dark Bramble which grew significantly since you last saw it.": "他们的首领艾斯科尔仓促决定跃迁，并从未告知其他人他要去哪。他们坠毁在黑棘星中，自从你上次见到它后，那里已经扩张了许多。",
+    "I am unsure of the details. All I know is they came from 2 Escape Pods on Brittle Hollow and Ember Twin.": "我不太清楚详情。我只知道他们来自碎空星和余烬双星上的两个逃生舱。",
     "Ah a shame. Let me know if you do. So, what happened to them? Seeing as you are here, they seem to have not found it.": "啊，真遗憾。如果你知道的话，请告诉我。那么，他们后来如何了？既然你在这里，看来他们似乎没能找到它。",
-    "Is Dark Bramble what you call the last stage of the infection? It seems fitting. How did they escape from it? I predicted it would have been quite hard to navigate.": "黑棘星就是你所说的感染最终阶段吗？这名字倒是贴切。他们是如何从中逃脱的？按我的预测，在那里航行应该极其困难。",
-    "Three of the Escape Pods tried to escape but only two of them got out. They crashed on Brittle Hollow and Ember Twin.": "三个逃生舱试图逃离，但只有两个成功脱出。它们坠落在了碎空星和灰烬双星上。",
+    "Is Dark Bramble what you call the last stage of the infection? It seems fitting. How did they escape from it? I predicted it would have been quite hard to navigate.": "黑棘星就是你对感染最终阶段的叫法吗？这名字倒是贴切。他们是如何从中逃脱的？按我的预测，在那里航行应该极其困难。",
+    "Three of the Escape Pods tried to escape but only two of them got out. They crashed on Brittle Hollow and Ember Twin.": "三个逃生舱试图逃离，但只有两个成功逃出来。它们坠落在了碎空星和余烬双星上。",
     "What a shame. Let me know if you find anything else.": "真是遗憾。如果你有任何新发现，请告诉我。",
     "I will.": "我会的。",
     "Ah sorry to hear about that. What else can you say about these Nomai?": "听到这个消息真令人难过。关于这些挪麦人，你还能告诉我什么？",
@@ -489,7 +537,7 @@
     "Do you have any more information on the Nomai?": "关于挪麦人，你还有其他信息吗？",
     "Yes do tell me, what did they do when they arrived here?": "是的，请告诉我，他们到达这里后做了什么？",
     "The Nomai crash landed here in pursuit of the Eye of the Universe and tried to find it. Because it wasn’t calling out anymore, they needed to make a new device to find it.": "挪麦人为了追寻宇宙之眼而坠毁在这里，并试图找到它。由于宇宙之眼不再发出信号，他们必须制造一种新设备来定位它。",
-    "Ah so many fools looking for that bomb. So, what did they do? Fly out in space looking for it?": "啊，这么多傻瓜都在寻找那颗'炸弹'。那么，他们做了什么？四处飞行寻找它吗？",
+    "Ah so many fools looking for that bomb. So, what did they do? Fly out in space looking for it?": "啊，这么多傻瓜都在寻找那颗“炸弹”。那么，他们做了什么？四处飞行寻找它吗？",
     "They decided to make this huge project they called the Ash Twin Project.": "他们决定启动一个巨大工程，名为灰烬双星计划。",
     "I don't know what their plan was to find it.": "我不清楚他们寻找它的具体计划。",
     "Really? How did it work?": "真的吗？它是如何运作的？",
@@ -504,13 +552,13 @@
     "I see! While we write in very different ways, we seem to be fond of that.": "原来如此！虽然我们的书写方式完全不同，但这种形式确实很吸引人。",
     "Why do you prefer to write instead of making slide reels?": "你为何偏好书写而非制作幻灯卷轴？",
     "Well then, how did they die?": "那么，他们是怎么死的？",
-    "To a comet we've named \"The Interloper\", which contained a deadly, cold, and burning substance we called \"Ghost Matter\".": "我们将那颗彗星命名为'闯入者'，其中蕴含着一种致命、寒冷却又灼热的物质，我们称之为'幽灵物质'。",
+    "To a comet we've named \"The Interloper\", which contained a deadly, cold, and burning substance we called \"Ghost Matter\".": "我们将那颗彗星命名为“闯入者”，其中蕴含着一种致命、寒冷却又灼热的物质，我们称之为“幽灵物质”。",
     "Ghost Matter? The way you describe it sounds similar to the elements I used to make the Vision Torch. I doubt it was sent by us or anyone on purpose, but I hypothesize that the comet is where the element can naturally be found.": "幽灵物质？从你的描述听来，它与我用来制造火把视野的元素非常相似。我不认为这是我们或任何人有意为之，但我推测这种元素可能自然存在于彗星之中。",
     "Same elements? Our universe is truly an interesting place.": "相同的元素？我们的宇宙确实是个充满奇妙的地方。",
     "Unlike most of my kind, I've never been all too great at art. Never my skill set. So, what else can you tell me about Nomai?": "与我族中大多数人不同，我在艺术上从无建树。那从来不是我所长。那么，关于挪麦人，你还能告诉我什么？",
     "Well if you find out anything else, let me know! I'm dying for more.": "如果你发现了其他线索，一定要告诉我！我迫不及待想知道更多。。",
     "You must be talking about the one locked up below the lake. What was he like?": "你一定是在说那个被囚禁在湖下的人。他是什么样子的？",
-    "He shared to me why he got imprisoned in the vault. After experiencing some kind of emotional catharsis. Once free he decided to extinguish his flame, free from the burden that it wasn't all in vain.": "他向我坦承了自己被囚禁在地窖的原因。在经历了某种情感的宣泄后，一旦获得自由，他决定熄灭自己的火焰，终于卸下了'一切并非徒劳'的沉重负担。",
+    "He shared to me why he got imprisoned in the vault. After experiencing some kind of emotional catharsis. Once free he decided to extinguish his flame, free from the burden that it wasn't all in vain.": "他向我坦承了自己被囚禁在地窖的原因。在经历了某种情感的宣泄后，一旦获得自由，他决定熄灭自己的火焰，终于卸下了“一切并非徒劳”的沉重负担。",
     "Well, he's probably glad he doesn't have to suffer anymore. Let’s move on from this topic please. He always brings up bad memories for me.": "好吧，他大概很庆幸不必再受苦了。请让我们换个话题吧，他总是会勾起我的痛苦回忆。",
     "I hope I was helping you. Tell me, what did I do in there?": "希望我能帮到了你。告诉我，我在那里做了什么？",
     "You planted a Bramble seed to try and get home, and I made it inside. You built a base inside one of the dimensions.": "你种下了一颗荆棘种子，试图返回家园，而我成功进入了其中。你在其中一个次元空间里建造了一座基地。",
@@ -539,33 +587,33 @@
     //SignElevTopArchive
     "Elevator to Top Archives: Historical Slide Reels": "前往顶部档案馆的电梯：历史幻灯片卷轴",
     "They may think these archives are forbidden, but our history must be preserved. Although I wanted the archives to be freely accessible, our leader in his yellow clothing wanted me to attach it to the back of the coma house so that it could be guarded. No big loss, as long as they're preserved.": "他们或许视这些档案为禁忌，但我们的历史必须得到传承。尽管我本希望这些档案能让所有人自由查阅，但身着黄袍的领袖坚持要我将档案馆建在永眠殿后方，以便看守。无妨，只要它们能被保存下来，其他都是小事。",
-    "It doesn't matter what they do in this simulation, they will never forget what happened, they will always feel guilty for their past, and things will never be the same. Why suffer with these feelings for all eternity? So I built a place where they can stay in \"sleep mode\" forever, their code disabled for as long as they wish. Once it was finished, most of the clan, even our leader came over to achieve a coma-like state! I did what I could do to set things right in this simulation, but I must remember, I am still of my kind.": "无论他们在这个模拟世界里做什么，他们永远无法忘却过往，永远背负着内疚，一切已不可能回到从前。为何要让他们在永恒中承受这份折磨？于是我建造了一处可以让他们永远处于'休眠状态'的场所，他们的代码可以按照自己的意愿被无限期地禁用。当工程完工后，大多数族人，甚至包括我们的领袖，都来此寻求类似昏迷的状态！我已尽我所能在这个模拟世界中拨乱反正，但我必须记住，我终究还是我族的一员。",
+    "It doesn't matter what they do in this simulation, they will never forget what happened, they will always feel guilty for their past, and things will never be the same. Why suffer with these feelings for all eternity? So I built a place where they can stay in \"sleep mode\" forever, their code disabled for as long as they wish. Once it was finished, most of the clan, even our leader came over to achieve a coma-like state! I did what I could do to set things right in this simulation, but I must remember, I am still of my kind.": "无论他们在这个虚拟世界里做什么，他们永远无法忘却过往，永远背负着内疚，一切已不可能回到从前。为何要让他们在永恒中承受这份折磨？于是我建造了一处可以让他们永远处于“休眠状态”的场所，他们的代码可以按照自己的意愿被无限期地禁用。当工程完工后，大多数族人，甚至包括我们的领袖，都来此寻求类似昏迷的状态！我已尽我所能在这个虚拟世界中拨乱反正，但我必须记住，我终究还是我族的一员。",
 
-    //TopReelShelf category
+    //TopReelShelf1
     "Historical": "历史",
 
-    //R&D House
-    "Day 53: I arrived at my kin's ship yesterday, and everyone here is dead. All they left behind is this simulation of our home moon, in which I have coded this new area. Had they listened to me before, this wouldn't have happened.": "第53天：昨日抵达族人的飞船，这里所有人都已死去。他们只留下了这个家园卫星的模拟世界，我在其中编写了这处新区域。若他们当初肯听我劝告，这一切本可避免。",
-    "Day 53: I just ran into a few of my friends, and surprisingly, they're still alive here! This simulation must preserve an organism after it dies! I...I don't know how to feel about this...": "第53天：刚刚遇见几位故友，令人震惊的是，他们在这里仍然'活着'！这个模拟世界竟能在生命消逝后保存其意识！我……真不知该作何感想……",
-    "Day 54: There's nothing I can do to help my kin. So many of them know that life in the simulation is not the same as life in our moon, but it's too late for them to terraform it with me now.": "第54天：我无力再帮助族人们了。许多人都明白模拟中的生活与我们卫星上的真实生活截然不同，但现在与我一同重返家园进行地球化改造已为时已晚。",
+    //TopReelShelf2
+
+    //TopReelShelf3
+    "Day 53: I arrived at my kin's ship yesterday, and everyone here is dead. All they left behind is this simulation of our home moon, in which I have coded this new area. Had they listened to me before, this wouldn't have happened.": "第53天：昨日抵达族人的飞船，这里所有人都已死去。他们只留下了这个家园卫星的虚拟世界，我在其中编写了这处新区域。若他们当初肯听我劝告，这一切本可避免。",
+    "Day 53: I just ran into a few of my friends, and surprisingly, they're still alive here! This simulation must preserve an organism after it dies! I...I don't know how to feel about this...": "第53天：刚刚遇见几位故友，令人震惊的是，他们在这里仍然“活着”！这个虚拟世界竟能在生命消逝后保存其意识！我……真不知该作何感想……",
+    "Day 54: There's nothing I can do to help my kin. So many of them know that life in the simulation is not the same as life in our moon, but it's too late for them to terraform it with me now.": "第54天：我无力再帮助族人们了。许多人都明白虚拟中的生活与我们卫星上的真实生活截然不同，但现在与我一同重返家园进行地球化改造已为时已晚。",
+
+    //2F_Memorial
     "This memorial is in place in honor of my family. My two children have passed due to lack of nutrients on my kin's ship. And in case my wife and I die, I put a memorial in place for her and myself as well.": "这座纪念碑，以铭记我的家人。我的两个孩子因飞船上营养不足而离我而去。以防我和妻子也不幸遭遇不测，我同样为我们二人立此纪念。",
-
-    //Slide House
     "Some idiot tried to steal some of my slide reels to try and burn them, but I managed to get them back from him. He ran off to the left when you walk out the door.": "有个蠢货试图偷走我的几卷幻灯片并烧毁它们，幸好我设法夺了回来。从这扇门出去往左看，他就是往那个方向跑掉的。",
-    "Day 53: I spoke with some of the remaining scientists in the simulation about the solar sails today. Seems like activation may affect the power and the simulation too. With the changes I made, it will hopefully stabilize about 6 minutes later.": "第53天：今日我与模拟世界中剩余的几位科学家讨论了太阳帆机制。似乎启动太阳帆会同时影响电力供应和模拟世界的稳定性。通过我实施的一系列改动，希望系统能在约6分钟后恢复稳定。",
+    "Day 53: I spoke with some of the remaining scientists in the simulation about the solar sails today. Seems like activation may affect the power and the simulation too. With the changes I made, it will hopefully stabilize about 6 minutes later.": "第53天：今日我与虚拟世界中剩余的几位科学家讨论了太阳帆机制。似乎启动太阳帆会同时影响电力供应和虚拟世界的稳定性。通过我实施的一系列改动，希望系统能在约6分钟后恢复稳定。",
 
-    //New Travelers
-
-    //Crimson Traveler
-    "Surfing really brings me at peace...": "冲浪真的让我心境平和...",
+    //Crimson
+    "Surfing really brings me at peace...": "冲浪真的让我心境平和……",
     "Is there anything else to explore here?": "这里还有什么值得探索的地方吗？",
     "Do you know anything about this planet's moon?": "你了解这颗行星的卫星吗？",
-    "You remind me of my friend Gabbro who's always calm and zen.": "你让我想起了我的朋友加布罗，他总是那么冷静禅意。",
+    "You remind me of my friend Gabbro who's always calm and zen.": "你让我想起了我的朋友加布罗，他总是那么冷静和有禅意。",
     "Just saying hi.": "只是来打个招呼。",
     "You going to get off my raft yet?": "你打算什么时候从我的木筏上下去？",
     "There's quite a few things actually, other than myself.": "实际上，除了我之外，这里还有不少东西。",
     "The water here's not safe to swim in, because it can shock you.": "这里的水不适合游泳，它会电击你。",
-    "There's the tornadoes, which throw small objects in the air. They're annoying, but if you down thurst, you can actually fight back against its pull.": "那些龙卷风会将小物体抛向空中。虽然令人烦扰，但若你向下猛推，实际上能够对抗它的拉力。",
+    "There's the tornadoes, which throw small objects in the air. They're annoying, but if you down thurst, you can actually fight back against its pull.": "那些龙卷风会将小物体抛向空中。虽然令人烦扰，但若你向下推进，实际上能够对抗它的拉力。",
     "Aside from the dangers, there's my camp. There are two bases, one of which is next to my camp. I've never bothered to check either of them, though.": "除了这些危险外，这里还有我的营地。附近有两个基地，其中一个就在我营地旁边，不过我从未费心去检查它们。",
     "Alright, thanks!": "好的，谢谢！",
     "That crazy inferno? Never been, although I did hear there was another old base up there...": "那个疯狂的火海？我从没去过，不过确实听说那里还有另一个旧基地……",
@@ -577,7 +625,7 @@
     "Time loop? What kind of nonsense are you talking about?": "时间循环？你在胡说八道些什么？",
     "Next time, don't bother me on my raft! I'm already mad about our star dying soon!": "下次别来我的木筏上打扰我！我已经因为恒星即将消亡而够烦的了！",
 
-    //Desert Traveler
+    //Desert
     "Hey, on the bright side, that crash wasn't cool enough...": "嘿，从好的方面看，那次坠毁还不够酷……",
     "What can I do here?": "我能在这里做什么？",
     "The atmosphere of this planet will be stripped off in just 23 minutes!": "这颗行星的大气层将在短短23分钟内被剥离！",
@@ -605,20 +653,21 @@
     "I want to be alone, but this place still gives me the creeps!": "我想一个人待着，但这个地方仍然让我毛骨悚然！",
     "OK, don't let me find you dead on the equator!": "好吧，别让我在赤道线上发现你的尸体！",
     "(I can't promise that)": "（这我可不敢保证）",
-    "This \"Feldspar\" you speak of actually says that all the time? Haha! That's quite a coincidence.": "你说的这个'费尔德斯巴'真的总爱这么说？哈哈！真是太巧了。",
+    "This \"Feldspar\" you speak of actually says that all the time? Haha! That's quite a coincidence.": "你说的这个“费尔德斯巴”真的总爱这么说？哈哈！真是太巧了。",
     "Honestly, I just said that as a coping mechanism, despite those never work for me.": "老实说，我只是把这当作一种应对机制，尽管这套对我来说从来都不管用。",
 
-    //Enigma Traveler
+    //Enigma
     "C-c-cold....s-s-star death....m-m-must nnot...die...": "好-好-好冷……恒-恒星死亡……绝-绝不能……死……",
     "Do you need me to take you home?": "你需要我带你回家吗？",
     "Do you know anything about this planet?": "你了解这颗行星的情况吗？",
     "You remind me of my friend Chert who was afraid of our star dying.": "你让我想起了我的朋友切特，他很害怕我们的恒星会熄灭。",
+    "Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things i found, and a campfire.": "不，地表上面或下面都没什么东西。我在南边确实有个基地，不过那里只有一个帐篷、一堆篝火，以及我找到的一些东西。",
     "Do you know how to find the scratch?": "你知道怎么找到那道划痕吗？",
     "Do you know how to find the crack?": "你知道怎么找到那条裂缝吗？",
     "C-c-cold....a-anything else?": "冷-冷冷……还-还有什么？",
     "C-c-can't! Am st-stuck here...": "不-不能！我被-被困在这里了……",
     "Well, if you say so...": "好吧，既然你这么说……",
-    "You remind me of my friend Solanum, who was trapped on a quantum body like this.": "你让我想起了我的朋友所莱内姆，她也被困在一个像这样的量子体上。",
+    "You remind me of my friend Solanum, who was trapped on a quantum body like this.": "你让我想起了我的朋友所莱内姆，她也被困在一个像这样的量子实体上。",
     "Th-th-three states. I am one of th-third. All three c-c-connected.": "三-三种状态。我是第-第三种。所有三种状-状态都相互连接。",
     "OK then....": "好吧，那就这样……",
     "Sol-solanum? N-not like S-s-solanum either...I c-c-can leave if I want, b-b-but I'm f-f-frozen so it's hard to m-move.": "所-所莱内姆？我也不-不像所莱内姆……我想-想走就能走，但-但我冻僵了，很-很难移动。",
@@ -629,7 +678,7 @@
     "Ch-ch-Chert? Do n-n-not fear s-s-star death, b-but can't move. I'm not Ch-chert.": "切-切特？不-不要害怕恒-恒星死亡，但-但动不了。我不-不是切特。",
     "F-f-f-f-farewell!!!": "再-再-再-再见！！！",
 
-    //Ringed Traveler
+    //Ringed
     "This technology is fascinating...": "这项技术真是令人着迷……",
     "Do you know what it does?": "你知道它是做什么的吗？",
     "You remind me of my friend Riebeck who loves ancient architecture.": "你让我想起了我的朋友瑞拜克，他对古代建筑情有独钟。",
@@ -638,7 +687,7 @@
     "I've been there, that's where I came from.": "我去过那里，我就是从那里来的。",
     "You have? What was in there? How did you get in? I thought the place was sealed off!": "你去过？那里面有什么？你是怎么进去的？我以为那个地方已经被封锁了！",
     "I went through a few of those treacherous Bramble Dimensions after discovering it in my home system.": "在我的母星系统中发现它后，我穿越了几个危险的荆棘次元空间。",
-    "Hmmm...so the only way in is to go through those \"Bramble Dimensions\" you say?": "嗯……所以唯一的进入方式就是通过你所说的那些‘荆棘次元’？",
+    "Hmmm...so the only way in is to go through those \"Bramble Dimensions\" you say?": "嗯……所以唯一的进入方式就是通过你所说的那些“荆棘次元”？",
     "Yes, and watch out for Quantum Anglerfish!": "是的，当心量子安康鱼！",
     "Alright. I'll give it a shot! I fear no fish!": "好吧，我会试一试！我才不怕什么鱼！",
     "Good luck...": "祝你好运……",
@@ -659,20 +708,20 @@
     "I will!": "我会的！",
     "Oh yeah? Well I know and I don't care!": "哦是吗？那我可知道了，但我根本不在乎！",
 
-    //Others
-
-    //Cypress OWSystem
+    //CypressOWSystem
     "Is this The Vortex? It sure doesn't look like what I was told.": "这是漩涡吗？看起来和我听说的不一样。",
+    "No, we're at my home system. I want you to meet your distant grandfather.": "不，我们在我的家园星系。我想让你见见你的远房祖父。",
     "How is that possible? He's been long gone!": "这怎么可能？他早就不在了！",
-    "Well, if you say so. I'll let you lead the way.": "好吧，如果你这么说。我会让你带路。",
+    "The simulation on your kind's ship has a data clone of him. Let's go!": "你们族人舰船上的虚拟空间里有一个他的数据克隆。我们走！",
+    "Well, if you say so. I'll let you lead the way.": "好吧，如果你这么说的话。我会让你带路。",
 
-    //Cypress Reunion
+    //CypressReunion
     "Oh hey, Hatchling! I'm just catching my Greatest Granddad up to date with everything!": "嘿，小家伙！我正在向我的太曾祖父讲述这些年发生的一切！",
     "The Terraform Plan, The Aliens, The War, Me, You...all the works.": "地球化计划、外星人、战争、我、你……所有这些事情。",
     "He's told me about his family and what life was like before and during the days we were aboard this ship.": "他也向我讲述了他的家人，以及在登上这艘船之前和期间的生活是什么样子。",
     "It's crazy how rich our kind's history has become, and now I've been face-to-face with a peaceful alien!": "真是难以置信，我们族群的历史变得如此丰富多彩，而现在我居然能与一位和平的外星人面对面交谈！",
     "The Universe is about to blow, so it's a shame no one will get to read the history books up to this point.": "宇宙即将毁灭，真遗憾没有人能读到记载至今的历史书了。",
-    "But I'm still overly grateful to meet THE Scientist, my distant grandfather.": "但我依然无比感激能够见到科学家本人，我的远祖父。",
+    "But I'm still overly grateful to meet THE Scientist, my distant grandfather.": "但我依然无比感激能够见到科学家本人，我的远房祖父。",
     "Thank you, friend. You've made my dreams a reality.": "谢谢你，朋友。你让我的梦想成为了现实。",
     "Say, is there anyone else here you want me to meet?": "对了，这里还有其他你想让我见见的人吗？",
     "Phyllo, Xylo....those are your names?": "费洛，赛洛……那就是你们的名字？",
@@ -685,35 +734,28 @@
     "I don't even want to imagine the pain and insanity you had to go through.": "我甚至不敢想象你曾经历的痛苦与疯狂。",
     "It's no wonder you did what you did, you wanted it all to end.": "难怪你做出了那样的选择，你只是想结束这一切苦痛。",
     "It's wonderful to meet all of you. I'm grateful to be apart of this wonderful family.": "能与你们相见是如此美妙。我无比感激能成为这个非凡家族的一员。",
-    "And Hatchling, once again, I thank you. For everything. As for everyone else.": "还有，小家伙，我再次感谢你。感谢你所做的一切。至于其他人...",
+    "And Hatchling, once again, I thank you. For everything. As for everyone else.": "还有，小家伙，我再次感谢你。感谢你为我所做的一切，以及为其他人。",
     "Hatchling, once again, I thank you. For everything.": "小家伙，我再一次感谢你。感谢你所做的一切。",
 
-    //ErnestoWarning
-    "Hey it's me Ernesto, the magic talking anglerfish.": "嘿，我是厄内斯托，一只有魔法的会说话的安康鱼。",
-    "Now this isn't the time for fun and games, OK? I have something very important to tell you.": "好了，现在可不是嬉闹的时候，明白吗？我有件非常非常重要的事要告诉你。",
-    "Some ominous creature in a trench coat that dubbed itself as \"Anonymous\" came up to me, and it wanted me to pass on a warning.": "一个身披风衣的不祥之物找上了我，它自称为‘匿名者’，要我代为传达一条警告。",
-    "And the warning? It goes a little something like this.": "至于那条警告？内容大概是这样的——",
-    "<size=20>*ahem*</size>": "<size=20>*咳咳*</size>",
-    "<size=72>DO NOT SHOOT YOUR SCOUT INTO THE EYE</size>": "<size=72>千万别把侦察兵往宇宙之眼打！</size>",
-    "Yeah, a certain section has an elevator and an instrument that both don't work unless you launch your scout once when you find it.": "是这样的，某个区域的电梯和仪器会同时失灵——除非你在发现它们时，先朝那儿发射一次侦察兵。",
-    "I know it's tempting, but you can just launch your scout right before you jump into the orb. Got it?": "我知道这很诱人，不过你大可在跳进那个球体前的最后一刻发射侦察兵。记住了吗？",
-    "Don't screw this up, or you'll have to restart the mod!": "别搞砸了，否则你就得重新启动这个mod！",
-
     //PrisonerNew
-    "...": "...",
+    "...": "……",
     "There's someone I'd like you to meet.": "我想让你见见一个人。",
-    "...?": "...?",
+    "...?": "……?",
     "How do you understand my language?": "你怎么能听懂我的语言？",
-    "Xylo....": "赛洛....",
-    "He didn't like his name much, sounded too much like \"xylophone\".": "他不太喜欢自己的名字，听起来太像\"赛洛风\"了。",
-    "Mother named him Xylo because it meant \"wood\". It fits, because he was hearty, strong, and determined. Like a bundle of wood.": "母亲给他起名赛洛是因为它意为\"木头\"。很贴切，因为他坚韧、强壮且意志坚定。就如一束坚实的木材。",
-    "Then came me, the younger brother, Phyllo. Meaning \"leaf\", they named me that because I was soft, but had a big heart.": "然后是我，弟弟费洛。名字意为\"叶子\"，他们这么称呼我是因为我性格柔软，却有一颗宽广的心。",
+    "Your brother taught me.": "你兄弟教会了我。",
+    "Xylo....": "赛洛……",
+    "He didn't like his name much, sounded too much like \"xylophone\".": "他不太喜欢自己的名字，听起来太“赛洛风”了。",
+    "Mother named him Xylo because it meant \"wood\". It fits, because he was hearty, strong, and determined. Like a bundle of wood.": "母亲给他起名赛洛是因为它意为“木头”。很贴切，因为他坚韧、强壮且意志坚定。就如一束坚实的木材。",
+    "Then came me, the younger brother, Phyllo. Meaning \"leaf\", they named me that because I was soft, but had a big heart.": "然后是我，弟弟费洛。名字意为“叶子”，他们这么称呼我是因为我性格柔软，却有一颗宽广的心。",
     "When I found out he crashed on that planet, I was devastated. I was lost without him.": "当我得知他在那颗行星上坠毁时，我心都碎了。没有他，我就像迷失了方向。",
     "And now here I am, locked up for eternity hoping the atoms of our terror turned into a bustling, new universe.": "而如今我被永远囚禁于此，只能希望我们恐惧的原子能化作一个繁荣的新宇宙。",
     "Say, there's someone you want me to meet?": "所以，你想让我见见某个人？",
-    "I'm an uncle again? Did Xylo....": "我又当叔叔了？赛洛他....",
-    "If only I could see our home again...*sniff*": "要是能再见到我们的家园...*抽泣*",
+    "You have a distant grandnephew waiting for you.": "你的远房孙侄子正在等你。",
+    "I'm an uncle again? Did Xylo....": "我又当叔叔了？赛洛他……",
+    "Yep, he terraformed home. It's as good as new.": "是的，他地球化改造了家园。它现在焕然如初。",
+    "If only I could see our home again...*sniff*": "要是能再见到我们的家园……*抽泣*",
     "Where is my distant grandnephew?": "我那远房孙侄子在哪里？",
+    "I'll take you to him. Follow me!": "我会带你去见他。跟我来！",
     "Alright, blue friend. Lead the way!": "好吧，蓝色的朋友。请带路吧！",
 
     //PrisonerReunion
@@ -744,8 +786,8 @@
     "After they stormed out, you and I were the only ones left in the hangar.": "在他们冲出后，只剩下你和我还留在机库里。",
     "As soon as I looked back, I saw the vision torch in your hand, scanning it for yourself.": "我一回头，就看到你手中的火把视野，正为自己扫描着。",
     "After scanning the vortex, you looked at me with a smile, and tears.": "扫描完漩涡后，你带着笑容与泪水看着我。",
-    "\"What did you see?\" I asked.": "'你看到了什么？'我问道。",
-    "\"It doesn't want to destroy us...\" you said. \"It wants to create a new universe from the ashes of old\".": "'它不想毁灭我们……' 你说，'它想从旧世界的灰烬中创造一个新宇宙'。",
+    "\"What did you see?\" I asked.": "“你看到了什么？”我问道。",
+    "\"It doesn't want to destroy us...\" you said. \"It wants to create a new universe from the ashes of old\".": "“它不想毁灭我们……”你说，“它想从旧世界的灰烬中创造一个新宇宙”。",
     "But The Universe was still healthy, it was not time to make such a bold sacrifice yet.": "但是，宇宙依旧健康，现在还不是做出如此大胆牺牲的时候。",
     "Yet you let the signal out, risky as it was. However, Cypress says it allowed for our reunion to happen.": "然而，你还是放出了那个信号，尽管风险极大，但塞普雷斯说，这促成了我们的重聚。",
     "But now, the universe is dying. I can tell because the glitched tiles appearing, dams breaking...that means the star is going to go supernova.": "但现在，宇宙正在衰亡。我能看出来——故障的砖块不断出现，堤坝崩溃……这意味着恒星即将爆发超新星。",
@@ -754,15 +796,19 @@
     "Little blue friend, I may have just met you, but I already see you as apart of our family.": "小蓝朋友，虽然我刚刚认识你，但我已经把你当作我们家族的一员。",
     "Your crave for knowledge is what brought us all together. You fit right in!": "正是你对知识的渴望将我们聚集在一起。你完全融入了我们的大家庭！",
     "So take a seat, get comfortable. This is your new home now. We'll be here until the end of time!": "所以请坐下，放松一下。这就是你的新家。我们会一直在这里，直到时间的尽头！",
+    "I'm not ready yet.": "我还没准备好。",
+    "Well said, Xylo!": "说得好，赛洛！",
+    "Well, okay then. Take your time. We have all the time in the universe now.": "嗯，好的。不用急，我们现在拥有整个宇宙里的所有时间。",
+    "Well then, Hatchling. Welcome to your new home.": "好啊，小家伙。欢迎来到你的新家。",
 
     //SolanumNew
     "Kind traveler, you have bestowed upon me such wonderful wisdom.": "善良的旅行者，你赐予了我如此奇妙的智慧。",
     "An owl-like species hidden beneath a cloak above the plane of the Solar System...it is no wonder we Nomai have not discovered it yet.": "一种似猫头鹰的物种隐匿于太阳系平面之上的幕帐之下……难怪我们挪麦人至今未能发现它。",
     "Is it true that The Eye of the Universe is really just a tool of universal destruction? No wonder why they tried to hide it from us.": "宇宙之眼真的只是一个毁灭万物的工具吗？难怪他们试图将它隐藏起来。。",
     "Even then so, our curiosity would still pull us further if we found out such a thing, no matter what risk is to come.": "即便如此，若我们真有所发现，好奇心依然会驱使我们前行，无论前路有何风险。",
-    "After all, look at us. We crashed our Vessel into Dark Bramble. My family and friends have died to those ghastly fumes.": "毕竟，看看我们的遭遇。我们的飞船坠入黑棘星。我的亲友都在那些可怖的烟雾中逝去。",
+    "After all, look at us. We crashed our Vessel into Dark Bramble. My family and friends have died to those ghastly fumes.": "毕竟，看看我们的遭遇。我们的飞船坠入黑棘星。我的亲友都在那些可怖的迷雾中逝去。",
     "And this ancient species, their technology is fascinating, especially this torch-like device you have projected onto me.": "而这个古老种族的科技令人叹为观止，尤其是你投射在我身上的这个火炬般的装置。",
-    "Imagine how many other species we could have talked to. This would have been a wonderful little tool to bring to The Festival!": "想象一下，我们本可以与多少其他物种交谈。这本会是带到节日上的一个奇妙小工具！",
+    "Imagine how many other species we could have talked to. This would have been a wonderful little tool to bring to The Festival!": "想象一下，我们本可以与多少其他物种交谈。这本会是带到发现节上的一个奇妙小工具！",
     "And that prisoner of theirs? He must have seen something in The Eye that no one else has seen.": "而他们的那个囚徒？他一定在宇宙之眼中见到了别人未曾见过的东西。",
     "Fellow traveler, if you wish to enter The Eye, do not be as fearful as they were.": "同路人，如果你想进入宇宙之眼，不要像他们那样恐惧。",
     "If you wish to converse more, I would be grateful to.": "如果你愿意多聊聊，我将不胜感激。",
@@ -781,99 +827,124 @@
     "The clouds are peaceful, the rocks are as beautiful as ever, I do not feel pain, hunger, thirst, or even time...": "云彩宁静，岩石依旧美丽，我不感到疼痛、饥饿、口渴，甚至不觉得时间存在……",
     "And even then, what does it matter? I sense the Solar System and The Universe itself are at their ends.": "即便如此，又有何意义？我感觉太阳系乃至整个宇宙都快走到尽头了。",
     "All my friends and family have died, and so will yours soon. Your connection to the Ash Twin Project does not benefit anyone else but you and whoever else is attached to it.": "我所有的朋友和家人都已经死去，你们的也很快会如此。你与灰烬双星计划的连接只对你和与你相关的人有利。",
-    "However, maybe I will think about it, but I doubt I will be able to think of it before the death of your star.": "不过，也许我会考虑，但我怀疑在你们的恒星熄灭前我能想到什么。",
-    "Farewell, traveler.": "再见，旅行者.",
+    "However, maybe I will think about it, but I doubt I will be able to think of it before the death of your star.": "虽然也许我会好好思索一下，但我很怀疑在你们的恒星熄灭前我能想到些什么。",
+    "Farewell, traveler.": "再见，旅行者。",
 
-    // Preserved Bramble
+    //DarkSide
+    "Dark Side Entrance": "背阳面入口",
+
+    //DoNotEnter
+    "DO NOT ENTER!": "<![CDATA[<i>禁止进入！</i>]]>",
+
+    //LightSide
+    "Light Side Entrance": "向阳面入口",
+
+    //PrisonerLock
+    "Here lies Phyllo the traitor, locked up in eternal solitude. Do NOT open or consequenses will be dire.": "叛徒费洛长眠于此，被禁锢于永恒孤寂之中。切勿开启，否则后果不堪设想。",
+
+    //Zone1
+    "River Lowlands": "河流洼地",
+
+    //Zone2
+    "Cinder Isles": "余烬群岛",
+
+    //Zone3
+    "Hidden Gorge": "隐藏峡谷",
+
+    //Zone4
+    "Dam": "水坝",
 
     //Exit
     "Exit to Angler's Eye (WARNING: You will have to walk the way back here when you leave!)": "退出至安康鱼之眼（警告：离开后你需步行返回此处！）",
-    "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.": "现在，所有人都在永眠殿中酣然入梦，但仅仅依靠专注偷偷潜行还不足以避开唤醒痕迹。看来，不仅噪音会惊醒他们，连文物之光也同样具有唤醒作用。",
+
+    //MineralCode
+    "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.": "现在，所有人都在永眠殿中酣然入梦，但仅仅依靠聚焦偷偷潜行还不足以避开他们。看来，不仅噪音会惊醒他们，连文物之光也同样具有唤醒作用。",
     "Anglerfish 101: Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.": "安康鱼101：如果不乘船，安康鱼更容易保持沉睡。我们认为这是由于噪声引起的。如果遇到紧急情况，从飞船中弹射出去会非常有用。",
     "Anglerfish 101: To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just coast right past you instead of chase you.": "安康鱼101：为了躲避安康鱼，使用对角推力。当你看到它开始移动或听到它发出咕噜声时，若立刻停止推力，也可避免被追逐。它<i>可能</i>只是直接从你旁边滑过，而不是追赶你。",
+    "Enter the two codes and access to the Mineral will be unlocked.": "输入两组密码即可解锁该矿物的访问权限。",
 
     //Ernesto
     "Originating from the mesa planet, Anglerfish are some of this star system's toughest organisms. In this tank is a male Anglerfish, which are ten times smaller than a female. Males are always very hungry, and are always looking for a female to latch onto.": "起源于高原行星，安康鱼是该恒星系统中最坚韧的生物之一。在这个水槽中有一只雄性安康鱼，其体型比雌性小十倍。雄性总是非常饥饿，并且总是在寻找可依附的雌性。",
 
     //Geswaldo
     "Jellyfish are native to this planet, and typically swim on the top layers of its subsurface ocean, while the anglerfish lurk at the bottom. They are typically peaceful, but don't touch them anywhere but the cap of their head.": "水母是这颗星球的原生生物，通常在其地下海洋的上层游弋，而安康鱼则潜伏在海底。它们通常性情温和，但请不要触碰它们除头顶部位以外的其它地方。",
-
-    //Bramble Research
     "Day 70: Eureka! I've done it! I can harness the Bramble's space-bending powers using the cloaked moon's minerals! With its help, I can neutralize it and stop it from growing.": "第70天：尤里卡！我成功了！我可以利用隐形卫星上的矿物驾驭荆棘次元空间的力量！借助它，我能够中和并阻止荆棘的生长。",
-    "I never knew reflection was coded into the simulation framework. Seems like you can shine your light on a piece of ice and it will bounce off and hit the door.": "我从未想到反射机制被写入了模拟框架里。看来你可以将光照射在一块冰上，它会反射后击中门。",
 
-    //Directons
+    //Wall
+    "I never knew reflection was coded into the simulation framework. Seems like you can shine your light on a piece of ice and it will bounce off and hit the door.": "我从未想到反射机制被写入了虚拟空间程序框架里。看来你可以将光照射在一块冰上，它会在反射后击中门。",
 
+    //CavesSign
+    "To the South Pole, take a stroll. Retrace your steps, to the North Pole.": "漫步向南极，细数曾经印记。循着旧日足迹，重返那北极之境。",
+
+    //Left
     "Biology Research Deck": "生物研究甲板",
+
+    //Right
     "Path to Projection House": "通往投影屋的路径",
-    "Way Back to Fireplace": "返回壁炉的道路",
-    "Path to Biology Research Deck": "通往生物研究甲板的路径",
 
     //Sign
     "Tread the path of the lit candles. With wind opens the seed of bramble.": "踏上点燃的蜡烛之路，随风开启荆棘之种。",
+
+    //Sign2
     "At extremely rare conditions throughout its infestation, the Bramble may form an eerie forest just like this one.": "在极为罕见的蔓延条件下，荆棘可能会形成一个就像这样诡异的森林。",
 
-    //Hidden
-    "Hey it's me Ernesto the simulated talking anglerfish.": "嘿，我是厄内斯托，一条被模拟出来的会说话的安康鱼。",
+    //Left2
+    "Way Back to Fireplace": "返回壁炉的道路",
+
+    //Right2
+
+    //Up
+    "Path to Biology Research Deck": "通往生物研究甲板的路径",
+    "Hey it's me Ernesto the simulated talking anglerfish.": "嘿，我是厄内斯托，一条被虚拟出来的会说话的安康鱼。",
     "Do you know the owl-like being that made this place?": "你知道创造这个地方的那个猫头鹰样的生物吗？",
-    "Oh no...ANOTHER ERNESTO REFERENCE IN AN OUTER WILDS MOD!?": "哦，不……又一个《星际拓荒》模组中的厄内斯托引用！？",
+    "Oh no...ANOTHER ERNESTO REFERENCE IN AN OUTER WILDS MOD!?": "哦，不……<![CDATA[<i>又一个《星际拓荒》模组中的厄内斯托彩蛋！？</i>]]>",
     "Bye bye!": "再见！",
     "An owl guy? Nope, never seen anything like him.": "猫头鹰型的人？不，从没见过这样的。",
     "I honestly think he had nothing to do with my existence here.": "说真的，我认为我出现在这里跟他一点关系都没有。",
     "Oh ok then.": "哦，好吧。",
     "Trust me, it's all hardcoded and I'm stuck in here forever. You'll never bail me out.": "相信我，这一切都是硬编码，我将永远被困在这里。你永远无法把我救出去。",
-    "It's even worse because Geswaldo is also stuck in one next to me. I miss him very much.": "更糟的是，杰斯瓦尔多也被困在我旁边的水箱里。我非常想念他。",
+    "It's even worse because Geswaldo is also stuck in one next to me. I miss him very much.": "更糟的是，格茨瓦尔多也被困在我旁边的水箱里。我非常想念他。",
     "Truly a fate worse than death.": "真是比死亡更糟的命运。",
     "Hey! It's not my fault they love me so much!": "嘿！他们这么爱我可不是我的错！",
     "OK then, sorry.": "好吧，对不起。",
-    "SILENCE YOU PATHEITC LOPHIIFORM": "闭嘴，你这悲惨的琵琶鱼类！",
+    "SILENCE YOU PATHEITC LOPHIIFORM": "<![CDATA[<i>闭嘴，你这悲惨的琵琶鱼类！</i>]]>",
     "Bye bye.": "再见。",
     "*sad anglerfish noises*": "*悲伤的安康鱼声*",
-    "Hey it's me Geswaldo the simulated talking jellyfish.": "嘿，我是杰斯瓦尔多，一个被模拟的会说话的水母。",
-    "GESWALDO I DESPISE YOU!": "杰斯瓦尔多，我鄙视你！",
+    "Hey it's me Geswaldo the simulated talking jellyfish.": "嘿，我是格茨瓦尔多，一个被虚拟的会说话的水母。",
+    "GESWALDO I DESPISE YOU!": "<![CDATA[<i>格茨瓦尔多我鄙视你！</i>]]>",
     "An owl-like creature? Never seen anything like that.": "一个猫头鹰般的生物？从未见过如此的存在。",
-    "It almost seems like the purpose of our simulated selves is just to sit here and swim in place.": "看起来我们被模拟出来的唯一目的就是坐在这里原地游泳。",
+    "It almost seems like the purpose of our simulated selves is just to sit here and swim in place.": "看起来我们被虚拟出来的唯一目的就是坐在这里原地游泳。",
     "It's very cruel if you ask me, especially because Ernesto is right there and I can't reach him!": "问我的话，这简直太残忍了，尤其是厄内斯托就在那儿，而我却碰不到他！",
     "Thank you for the kind compliment!": "谢谢你的赞美！",
     "No problem!": "没问题！",
-    "JUST KIDDING I LOVE YOU VERY MUCH": "只是开个玩笑，其实我非常爱你",
+    "JUST KIDDING I LOVE YOU VERY MUCH": "<![CDATA[<i>只是开个玩笑，其实我非常爱你</i>]]>",
     "See ya later. Say hi to Ernesto for me!": "回头见，替我向厄内斯托问好！",
     "Whoa buddy, that's crossing the line! Not nice!": "哇，伙计，这已经过分了！太不友好了！",
+    "During my time on my kind's ship, I have discovered a bug where the renderer changes to low-poly once you walk too far away from your lantern. Coincidentally, glitching tiles may also appear when the solar sails activate, disappearing 7 minutes later.": "在我待在族人飞船上的这段时间里，我发现了一个漏洞：当你离提灯走远后，渲染画质会自动变成低多边形模式。巧合的是，太阳帆启动时还可能出现贴图错乱的异常，这些异常会在7分钟后自行消失。",
+    "Apparently, the artifact's focus ability makes you slower in the simulation, and can even keep you from falling off edges! Very helpful for stealthy situations where being quiet is necessary.": "显然，这件文物的聚焦能力会让你在虚拟空间里行动变慢，甚至还能防止从边缘跌落。在需要隐蔽潜行、保持安静的场景里特别好用。",
 
-    //Research House
-    "During my time on my kind's ship, I have discovered a bug where the renderer changes to low-poly once you walk too far away from your lantern. Coincidentally, glitching tiles may also appear when the solar sails activate, disappearing 7 minutes later.": "在我族人的飞船上，我发现了一个奇特的漏洞：当你离手中的灯笼太远时，画面会突然切换成低多边形风格；而在太阳帆启动时，还可能出现一些闪烁故障的瓷砖，约7分钟后便悄然消失。",
-    "Apparently, the artifact's focus ability makes you slower in the simulation, and can even keep you from falling off edges! Very helpful for stealthy situations where being quiet is necessary.": "显然，文物的聚焦效果不仅会让你在模拟中行走缓慢，还能防止你意外跌落边缘！在需要保持安静隐蔽的情境下，这一点尤其有用。",
+    //Wall3
     "Interesting, seems like the invasive Bramble's growth starts at the North Pole...": "有趣，看起来外来荆棘的生长正是从北极开始……",
-
-    //QuantumPlanet
-
-    //Base
     "We know that this enemy is not of our kind, so we can protect our most important bases from enemy espionage using biometric scanners.": "我们知道这敌人与我族迥异，因此可用生物识别扫描器保护我们最重要的基地，防止敌方间谍入侵。",
     "Our biometrics system makes no distinction between a living face and a deceased skull. Unfortunately, this flaw cannot be fixed, so we must take extra care to avoid being captured, dead or alive.": "我们的生物识别系统无法分辨活人面部与亡者头骨。不幸的是，这一缺陷无法修复，所以无论生死，我们都必须格外小心，避免被俘。",
-
-    //Lab State 1
     "We've discovered that this planet is actually a convergence point where three timelines meet. As such, the three versions of this planet are not just states, but fragments of entirely different relities. After changing states using the stalls we built, we found alternate versions of this very laboratory. Could our actions here have affected these alternate timelines?": "我们发现这颗行星实则是三条时间线的汇聚点。因此，这颗行星的三种形态并非仅是状态变化，而是完全不同现实的碎片。通过我们建造的切换站改变状态后，我们发现了同一实验室的多个异世版本。我们在此的行动是否已经影响了这些平行时间线？",
     "Orders from HQ: Do not interfere with the peculiar machine inside the lab on the planet's bright ice state. Our engineers believe it can be powered by a mineral with special properties, but its effects are unknown. The machine has been deemed harzardous until we can be fully certain it is safe.": "总部命令：禁止干扰行星明亮冰态中实验室内的奇特机器。我们的工程师认为它可由特殊矿物驱动，但其效果尚不明确。在完全确认安全前，该机器被视为危险装置。",
     "A submerged light sensor on the poison lake state is key to entering the lab on the thin-ice state. It is annoying to locate the sensor in its native state, but we cannot risk leaving the lab open all the time. Instead, we left scratches in the ice at the equivalent location in the current state. Placing a light-emitting marker there before changing states should make finding the sensor significantly easier.": "毒湖状态下的水下光传感器是进入薄冰状态实验室的关键。在原状态下定位传感器确实令人烦恼，但我们不能冒险让实验室一直开放。因此，我们在当前状态的对应位置在冰面上留下了划痕。在切换状态前在此处放置发光标记将大大简化寻找传感器的过程。",
+
+    //Wall4
     "There is a crack in the ice not far from the lab, caused by a heavy object. The ice on this state is too thick to break, but we predict that shattering the ice on a different state may be possible due to the interconnected nature of the states, provided enough weight is added.": "实验室不远处的冰面上有一道裂缝，由重物引起。此状态下的冰层过厚难以破坏，但我们预测，由于各状态间的相互联系，若添加足够重量，或许能在不同状态下击碎冰层。",
 
-    //Lab State 2
-    "ALERT! ALERT! WE'VE BEEN SPOTTED! DESTROY IT! MOVE ALL OPERATIONS TO THE VOLCANIC MOON!": "警报！警报！我们暴露了！摧毁一切！立即将所有行动转移至火山卫星！",
+    //Rubble
+    "ALERT! ALERT! WE'VE BEEN SPOTTED! DESTROY IT! MOVE ALL OPERATIONS TO THE VOLCANIC MOON!": "<![CDATA[<i>警报！警报！我们暴露了！摧毁一切！立即将所有行动转移至火山卫星！</i>]]>",
     "According to our research, taking a photo of a quantum object has the potential to increase the object's weight. Interestingly, this phenomenon is completely disconnected from observation, and persists even after the object ceases to be observed or the photo is destroyed.": "根据我们的研究，拍摄量子物体的照片可能增加该物体的质量。有趣的是，这种现象与观测行为完全无关，即使物体不再被观测或照片被销毁，效果仍然持续。",
-
-    //Lab State 3
     "We’ve finally identified this machine’s function! It is a quantum field manipulator, tuned to decrease the range of nearby quantum objects by increasing their quantum weight. It is unclear to us what purpose that might serve.": "我们终于确认了这台机器的功能！它是一个量子场操控器，通过增加附近量子物体的量子质量来缩减其范围。我们尚不清楚此功能究竟有何用途。",
-    "Now that we know what this machine is capable of, we can let HQ know it's safe to interact with.": "既然我们已了解这台机器的能力，可以向总部通报它与之交互是安全的。",
-
-    //Ringed Labatory
+    "Now that we know what this machine is capable of, we can let HQ know it's safe to interact with.": "既然我们已了解这台机器的能力，可以向总部通报与之交互是安全的。",
 
     //Memorial
-    "My children, may you forever be remembered. The oldest passed on that cloaked moon. My youngest, only an infant, passed away on my kind's ship. Both died due to lack of nutrients that our kin's ship lacked.": "我的孩子们，愿你们永垂不朽。长子在那颗隐形卫星上离我而去，幼子——尚在襁褓之中——在族人的飞船上夭折。两个孩子都因飞船上养分匮乏而长眠于星间。",
-    "Day 271: Everything that I've thought of, everything that I've dreamed of, it's all come to reality. Despite all the losses and sorrow, I pushed on and even pulled it off. The terraforming process is now complete, and our home is now good as new!": "第271天：我所设想的一切、梦想的一切，如今皆已成真。尽管失去了那么多，历经无尽悲伤，我依然坚持下来并最终成功了。地球化进程已经完成，我们的家园焕然新生！",
-    "If only my children and the rest of my kind were around to see this, especially my imprisoned brother. Had you left with me instead of obsessing over <![CDATA[<color=blue>that vortex</color>]]>, you would be free and back home with me.": "但愿我的孩子们和族人能亲眼见证这一切，尤其是我那被囚禁的兄弟。若你当初选择与我同行，而非痴迷于<![CDATA[<color=blue>那个漩涡</color>]]>，如今你本可自由自在，与我同反家园。",
+    "My children, may you forever be remembered. The oldest passed on that cloaked moon. My youngest, only an infant, passed away on my kind's ship. Both died due to lack of nutrients that our kin's ship lacked.": "我的孩子们，愿你们永垂不朽。长子在那颗隐形卫星上离我而去，幼子——尚在襁褓之中——在族人的飞船上夭折。两个孩子都因飞船上养分匮乏而长眠于星际间。",
+    "Day 271: Everything that I've thought of, everything that I've dreamed of, it's all come to reality. Despite all the losses and sorrow, I pushed on and even pulled it off. The terraforming process is now complete, and our home is now good as new!": "第271天：我所设想的一切、梦想的一切，如今皆已成真。尽管失去了那么多，历经无尽悲伤，我依然坚持下来并最终成功了。地球化进程已经完成，我们的家园重焕新生！",
+    "If only my children and the rest of my kind were around to see this, especially my imprisoned brother. Had you left with me instead of obsessing over <![CDATA[<color=blue>that vortex</color>]]>, you would be free and back home with me.": "但愿我的孩子们和族人能亲眼见证这一切，尤其是我那被囚禁的兄弟。若你当初选择与我同行，而非痴迷于<![CDATA[<color=blue>那个漩涡</color>]]>，如今你本可自由自在，与我同返家园。",
     "Day 230: Good news! Our trees are healthy and ready to be planted! The terraforming process is going smoothly now!": "第230天：好消息！我们的树木生长健康，已准备好栽植！地球化进程正在顺利进行!",
-
-    //Stranded Vessel
 
     //NOM_IncomingMsg
     "FUCHSIA: Hello? Agapanthus? Ixora? Are you guys okay?": "弗丘夏: 喂？阿加潘瑟斯？伊克索拉？你们那边情况如何？",
@@ -883,27 +954,25 @@
     "FUCHSIA: Of course it does! Escall's Clan might as well be dead too!": "弗丘夏: 我们别无选择！艾斯科尔的族人恐怕也已经凶多吉少了！",
 
     //NOM_OutgoingMsg
-    "<![CDATA[<color=green>DO NOT WARP TO OUR SYSTEM AGAIN!</color>]]>": "<![CDATA[<color=green>警告：别再次跃迁至我方星域！</color>]]>",
-    "<![CDATA[<color=green>IF YOU DO, YOU WILL SUFFER THE SAME FATE AS THESE ALIENS HAVE!</color>]]>": "<![CDATA[<color=green>若执意如此，你们的下场将与这些异族无异！</color>]]>",
+    "<![CDATA[<color=green>DO NOT WARP TO OUR SYSTEM AGAIN!</color>]]>": "<![CDATA[<color=green><i>警告：别再次跃迁至我方星域！</i></color>]]>",
+    "<![CDATA[<color=green>IF YOU DO, YOU WILL SUFFER THE SAME FATE AS THESE ALIENS HAVE!</color>]]>": "<![CDATA[<color=green><i>若执意如此，你们的下场将与这些异族无异！</i></color>]]>",
 
     //NOM_Recorder
     "AGAPANTHUS: We have been able to get approximate coordinates to where Escall may have warped to.": "阿加潘瑟斯：我们已经锁定了艾斯科尔可能跃迁前往的大致坐标。",
-    "IXORA: Hopefully we don't \"disappear\" like Escall did. Are you sure looking for Escall is worth it?": "伊克索拉：但愿我们不会像艾斯科尔那样'人间蒸发'。你确定为了寻找艾斯科尔值得冒这个险？",
-    "AGAPANTHUS: And leave our friends behind? Never! It is definitely worth the risk. The festivals won't be the same without Escall's Clan!": "阿加潘瑟斯：难道要抛弃我们的朋友不管？绝对不行！这风险值得承担。没有艾斯科尔的家族，节日庆典将失去往日光彩！",
-    "IXORA: Well, if you say so. Initiating warp!": "伊克索拉：既然你这么坚持。启动跃迁！",
-
-    //TimberHearth
+    "IXORA: Hopefully we don't \"disappear\" like Escall did. Are you sure looking for Escall is worth it?": "伊克索拉：但愿我们不会像艾斯科尔那样“人间蒸发”。你确定为了寻找艾斯科尔值得冒这个险？",
+    "AGAPANTHUS: And leave our friends behind? Never! It is definitely worth the risk. The festivals won't be the same without Escall's Clan!": "阿加潘瑟斯：难道要抛弃我们的朋友不管？绝对不行！这风险值得承担。没有艾斯科尔的家族，发现节将失去往日光彩！",
+    "IXORA: Well, if you say so. Initiating warp!": "伊克索拉：既然你这么坚持的话。启动跃迁！",
 
     //SlateNEW
-    "I saw some messed up things, Slate! An alien species landed on Timber Hearth and ate our primitive ancestors! The aliens then took off for Dark Bramble before it overgrew.": "斯雷特，我发现了一个可怕的真相！有个外星种族曾降临木炉星，将我们尚处鱼形阶段的祖先当成食物！在这之后便飞往了未被完全侵蚀前的黑棘星！！！",
+    "I saw some messed up things, Slate! An alien species landed on Timber Hearth and ate our primitive ancestors! The aliens then took off for Dark Bramble before it overgrew.": "斯雷特，我发现了一个可怕的真相！有个外星种族曾降临木炉星，将我们尚处鱼形阶段的祖先当成食物！在这之后便飞往了被完全侵蚀前的黑棘星！",
     "Son of a Beachum! That makes me sick to my stomach, I'll never eat fish again!": "靠！这让我恶心，我再也不会吃鱼了！",
     "If I were as courageous as you, I'd go to Dark Bramble and see if they left anything behind.": "如果我像你一样勇敢，我会去黑棘星看看他们是否留下了什么。",
-    "...was that...": "...那是...",
-    "...but you didn't even...": "...但你甚至没有...",
-    "H-Hatchling...": "小家伙...",
-    "The Nomai....The Eye...this new bird species...": "挪麦人....宇宙之眼...这个新的鸟类物种...",
+    "...was that...": "……那是……",
+    "...but you didn't even...": "……但你甚至没有……",
+    "H-Hatchling...": "小家伙……",
+    "The Nomai....The Eye...this new bird species...": "挪麦人……宇宙之眼……这个新的鸟类物种……",
     "It all makes sense now! I am going to tell Hornfels Right away!": "现在一切都说得通了！我要立刻告诉霍恩费斯！",
-    "...but I have to finish my lunch first. I'm starving!": "...但我得先吃完午饭。我饿坏了！",
+    "...but I have to finish my lunch first. I'm starving!": "……但我得先吃完午饭。我饿坏了！",
     "Don't bother me right now! I have a lot to think about. Plus, I'm on lunch for another 30 minutes.": "现在别打扰我！我有很多事情要想。而且，我还有30分钟的午餐时间。",
 
     //SlateRemote
@@ -916,31 +985,23 @@
     "Nevermind I'll find it.": "别在意，我会去找的。",
     "I think it might have something to do with the rush of the falls being louder than it, plus we just upgraded our signal scopes for your adventure yesterday. So will you find it for me Hatchling?": "我觉得这可能和瀑布的轰鸣声比它更响有关，而且我们昨天才为你的冒险升级了信号探测器。那么，你愿意为我去找找看吗，小家伙？",
 
-    // SlateRemote2
+    //SlateRemote2
     "Wait Hatchling! Before you go!": "嘿，等等！小家伙，先别急着走！",
     "Yeah, I've got the launch codes.": "没问题，我已经拿到发射密码了。",
     "I already know about the HUD Marker, Slate.": "斯雷特，抬头显示能够标记地点的事我早就知道了。",
+    "Slate, I already checked the waterfall.": "斯雷特，我已经检查过瀑布了。",
     "No, that's not what I was going to say at all!": "不不不，我想说的根本不是这些！",
-    "I can already tell by the look on your face, but you seem annoyed about something.": "看看你这副愁眉苦脸的样子，我猜你遇到什么烦心事了吧？",
-    "I don't know why, but my gut senses you're struggling to see where you're landing your ship.": "说不上来为什么，但老飞行员的第六感告诉我，你在寻找飞船降落点时遇到麻烦了。",
+    "I can already tell by the look on your face, but you seem annoyed about something.": "看看你这副愁眉苦脸的样子，我猜你是遇到了什么烦心事吧？",
+    "I don't know why, but my gut senses you're struggling to see where you're landing your ship.": "说不上来为什么，但第六感告诉我，你在寻找飞船降落点时遇到麻烦了。",
     "H-How did you know?": "你...你怎么知道的？",
-    "I've been training pilots since we founded Outer Wilds Ventures. I know that face when I see it.": "自打创建星际拓荒探险队以来，我培训过的飞行员没有一百也有八十了。那种表情，我一眼就能认出来。",
-    "You should have seen Riebeck's when we were training them! They had no idea where they were going at first.": "你要是看见瑞拜克当初训练的样子就知道了！刚开始时他简直是晕头转向，连东南西北都分不清。",
-    "And do you know what I always told them? Just use your Little Scout to sense out the way! Shoot it at any surface and you can see where to land safely.": "知道我当时怎么教他们的吗？就是利用小侦察来探路！朝着你想降落的地方发射一下，马上就能看清哪里适合安全着陆了。",
+    "I've been training pilots since we founded Outer Wilds Ventures. I know that face when I see it.": "自打星际拓荒探险队创建以来，我就一直在培训飞行员。那种表情，我一眼就能认出来。",
+    "You should have seen Riebeck's when we were training them! They had no idea where they were going at first.": "你要是看见过瑞拜克当初训练的样子就好了！刚开始时他简直是晕头转向，连东南西北都分不清。",
+    "And do you know what I always told them? Just use your Little Scout to sense out the way! Shoot it at any surface and you can see where to land safely.": "知道我当时怎么教他们的吗？就是利用小侦察兵来探路！朝着你想降落的地方发射一下，马上就能看清哪里适合安全着陆了。",
     "Hopefully that helped, Hatchling. I know you can do this.": "希望这对你有所帮助，小家伙。我相信你能行的。",
     "Thanks, Slate! I'll put it to good use.": "多谢指点，斯雷特！我这就去试试看。",
     "Anytime. Now say hi to the others for me, OK?": "不用客气，这点小事。替我向其他人问个好，行吗？",
 
-    // ANGLERS_EYE_ALIENTEXT_E2
-    "To the South Pole, take a stroll. Retrace your steps, to the North Pole.": "漫步向南极，细数曾经印记。循着旧日足迹，重返那北极之境。",
-
-    // DBMuseum_1F_Wall1 and Wall2
-    "These are the planets of our star system! First we have the hot, desert planet, and after that lies a stormy, crimson giant with a violent, volcanic moon.": "这就是我们恒星系中的行星！首先是那颗炙热的沙漠行星，其后是一颗风暴肆虐、血红如焰的巨星，其卫星则是一颗火山极盛的天体。",
-    "Then comes our beloved Ringed Giant where our home moon resides. And beyond our homeworld is a planet like no other, one with a strange orbit and a transforming surface.": "紧接着便是我们钟爱的环界星——那是我们家园卫星的归宿；而在家园之外，还有一颗独特的行星，其轨道怪异，表面不断变幻。",
-
-    // 2.0 new
-    "Why must I go with you, Hatchling? Is it really that urgent?": "为什么我必须跟着你走呢，小家伙？真有那么紧急吗？",
-
+    "Slate": "斯雷特",
     "Twig": "特威格",
     "The Scientist": "科学家",
     "Cypress": "塞普雷斯",
@@ -959,18 +1020,36 @@
     "Elm": "埃尔姆",
     "Holly": "霍利",
     "Sycamore": "西卡莫尔",
+    "Mineral": "矿物",
 
-    "Mineral": "矿物"
+    //以下文本的原文在上版翻译中存在，但在该版翻译中消失。标记为备用。
+    // DBMuseum_1F_Wall1 and Wall2
+    "These are the planets of our star system! First we have the hot, desert planet, and after that lies a stormy, crimson giant with a violent, volcanic moon.": "这就是我们恒星系中的行星！首先是那颗炙热的沙漠行星，其后是一颗风暴肆虐、血红如焰的巨星，其卫星则是一颗火山极盛的天体。",
+    "Then comes our beloved Ringed Giant where our home moon resides. And beyond our homeworld is a planet like no other, one with a strange orbit and a transforming surface.": "紧接着便是我们钟爱的环界星——那是我们家园卫星的归宿；而在家园之外，还有一颗独特的行星，其轨道怪异，表面不断变幻。",
+    //ErnestoWarning
+    "Hey it's me Ernesto, the magic talking anglerfish.": "嘿，我是厄内斯托，一只有魔法的会说话的安康鱼。",
+    "Now this isn't the time for fun and games, OK? I have something very important to tell you.": "好了，现在可不是嬉闹的时候，明白吗？我有件非常非常重要的事要告诉你。",
+    "Some ominous creature in a trench coat that dubbed itself as \"Anonymous\" came up to me, and it wanted me to pass on a warning.": "一个身披风衣的不祥之物找上了我，它自称为“匿名者”，要我代为传达一条警告。",
+    "And the warning? It goes a little something like this.": "至于那条警告？内容大概是这样的——",
+    "<size=20>*ahem*</size>": "<size=20>*咳咳*</size>",
+    "<size=72>DO NOT SHOOT YOUR SCOUT INTO THE EYE</size>": "<size=72>千万别把小侦察兵往宇宙之眼打！</size>",
+    "Yeah, a certain section has an elevator and an instrument that both don't work unless you launch your scout once when you find it.": "是这样的，某个区域的电梯和仪器会同时失灵——除非你在发现它们时，先朝那儿发射一次小侦察兵。",
+    "I know it's tempting, but you can just launch your scout right before you jump into the orb. Got it?": "我知道这很诱人，不过你大可在跳进那个球体前的最后一刻发射小侦察兵。记住了吗？",
+    "Don't screw this up, or you'll have to restart the mod!": "别搞砸了，否则你就得重新启动这个mod！",
+    //
+    "The machine is tuned to increase the quantum weight of nearby quantum objects, thus decreasing their range.": "这台机器被调校为增加附近量子物体的量子质量，从而减小它们的波函数范围。",
+    "The engineers determined that the machine is safe to interact with.": "工程师们已确认与该机器交互是安全的。"
   },
 
   "ShipLogDictionary": {
     //anglerseye
-
     "Angler's Eye": "安康鱼之眼",
+    "UFO Destination": "不明飞行物的目的地",
     "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.": "根据我在木炉星所见的异象，那艘神秘飞船飞向了现今的黑棘星。斯雷特嘱咐我前去调查那片区域。",
     "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.": "安康鱼之眼是黑棘星的隐秘卫星，它拥有天然的隐形屏障和数座外星站风格的建筑。",
 
     "Hurricane": "飓风",
+    "undefined": "未定义",
     "I found a hurricane on the south pole of Angler's Eye. It looks dangerous, so I probably shouldn't enter it.": "我在安康鱼之眼南极区域发现了一处剧烈的飓风。它看起来极为危险，我最好不要冒然进入。",
     "According to a message written in the basement of the Bramble Museum, there is a Bramble Seed located in the South Pole, likely within the hurricane.": "荆棘博物馆地下室的记录显示，南极区域藏有一颗荆棘种子，很可能就在那飓风中心。",
     "I was able to enter the tornado safely with the Cloaked Mineral.": "借助隐形矿物的力量，我成功安全地穿越了飓风屏障。",
@@ -980,29 +1059,30 @@
     "An alien language is used throughout the planet that is identical the writings seen on The Stranger.": "这颗星球各处的文字与外星站上的完全一致。",
     "With the help of the Vision Torch, I can now read the language of The Strangers' Inhabitants!": "借助火把视野，我终于能解读外星站居民的神秘文字了！",
 
-    "Simulation Secret Path Reel": "模拟秘密路径卷轴",
+    "Simulation Secret Path Reel": "虚拟空间秘密路径卷轴",
     "Signal House Slide Reel": "信号屋幻灯片卷轴",
     "I found a slide reel in the locked room in the Signal House.": "我在信号屋的锁闭房间里找到了一卷幻灯片。",
-    "This slide reel shows how to get to a hidden area in the simulation on The Stranger. It seems to be by the balcony outside the prison entrance.": "这卷幻灯片展示了如何在外星站的模拟世界中到达一处隐秘区域。看起来是通过监狱入口外的阳台附近。",
+    "This slide reel shows how to get to a hidden area in the simulation on The Stranger. It seems to be by the balcony outside the prison entrance.": "这卷幻灯片展示了如何在外星站的虚拟世界中到达一处隐秘区域。看起来是通过监狱入口外的阳台附近。",
 
     "Angler's Eye Story Reel": "安康鱼之眼故事卷轴",
-    "The slide reel shows an inhabitant using a vision torch to project some sort of terraform plan. He and two other inhabitants leave The Stranger and ended up crashing by Dark Bramble.": "这卷幻灯片展示了一位居民使用火把视野投影某种地球化改造计划。他和另外两位居民离开了外星站，最终在黑棘星附近坠毁。",
-
+    "The slide reel shows an inhabitant using a vision torch to project some sort of terraform plan. He and two other inhabitants leave The Stranger and ended up crashing by Dark Bramble.": "这卷幻灯片展示了一位外星站居民使用火把视野投影某种地球化改造计划。他和另外两位居民离开了外星站，最终在黑棘星附近坠毁。",
     "Vision Torch Text Reel": "火把视野文本卷轴",
     "Research House Slide Reel": "研究所幻灯片卷轴",
     "I found a slide reel on the second floor of the Research and Development House.": "我在研究开发所的二楼找到了一卷幻灯片。",
-    "The slide reel shows an older inhabitant teaching a younger one how to read with a vision torch.": "这卷幻灯片展示了一位年长的居民教一位小家伙如何使用火把视野阅读。",
+    "The slide reel shows an older inhabitant teaching a younger one how to read with a vision torch.": "这卷幻灯片展示了一位年长的外星站居民教一位小家伙如何使用火把视野阅读。",
 
     "Crash Site": "坠毁地点",
+    "Crash Site?": "坠毁地点？",
+    "The group of inhabitants on the slide reel crashed on Angler's Eye somewhere. Could there be a crash site somewhere?": "幻灯片里的那群外星站居民坠毁在了安康鱼之眼的某处。那里会不会留有一处坠毁地点？",
+
     "Lone Plank": "孤独的木板",
     "I found a plank near the Research and Development House with some text on it.": "我在研究开发所附近找到了一块带有文字的木板。",
-    "The text says this is a crash site, but strangely, the ship is missing. It mentions the temperatures here are bearable, allowing the three inhabitants seen in the reels to survive for quite a while, with the help of emergency trees.": "文本表明这里是一处坠毁地点，奇怪的是，飞船却不见踪影。根据文本所说，这里气温还在承受范围内，使幻灯片中看到的三位居民在应急树木的帮助下得以在此生存相当长的时间。",
+    "The text says this is a crash site, but strangely, the ship is missing. It mentions the temperatures here are bearable, allowing the three inhabitants seen in the reels to survive for quite a while, with the help of emergency trees.": "文本表明这里是一处坠毁地点，奇怪的是，飞船却不见踪影。根据文本所说，这里气温还在承受范围内，使幻灯片中看到的三位外星站居民在应急树木的帮助下得以在此生存相当长的时间。",
 
     "Signal House": "信号屋",
     "A signal is being emitted by some sort of signal tower on the north pole of Angler's Eye.": "安康鱼之眼北极区域有一座信号塔，正不断发射着某种信号。",
     "On the first floor of the signal house, there are several wires and a projection in the middle.": "信号屋一层布满了错综复杂的线缆，中央区域则设有一台投影装置。",
     "One of the texts on the wall reveals that the purpose of this station was to locate and contact The Stranger.": "墙上的一处文字记载揭示，这座站点建造的目的是为了定位并与外星站建立联系。",
-
     "Signal House Second Floor": "信号屋二楼",
     "Secret Code": "秘密代码",
     "I can't get into the second floor of the Signal House! The entrance requires some sort of code for entry.": "我无法进入信号屋二楼！入口处需要输入某种代码才能通行。",
@@ -1016,54 +1096,65 @@
     "The exhibit straight ahead is a model of an Anglerfish. Their habitat is normally in the deep sea, but when the Bramble Plant grew, they were sent to the pocket dimensions within Dark Bramble.": "正前方展示的是安康鱼模型。这种生物本应栖息于深海，但随着荆棘植物的蔓延，它们被转移到了黑棘星内部的次元空间中。",
     "The exhibit to the right contains the minerals abundant on Angler's Eye preventing a Bramble Vine from growing any further. It's the only way to halt its growth, but there are mentions of effects on the pocket dimensions within it.": "右侧展品展示了安康鱼之眼上丰富的特殊矿物，这些矿物能有效抑制荆棘藤蔓的进一步生长。这是目前已知唯一阻止荆棘蔓延的方法，但据记载也会对其内部次元空间产生某些影响。",
     "An eerie, green fire and some beds lie in the basement of the Dark Bramble Museum.": "黑棘星博物馆的地下室内，诡异的绿色火焰静静燃烧，周围散落着几张简易床铺。",
-    "According to some text, this is a simulation meant to preserve the fifth planet before it became Dark Bramble. Some archived slides have also been sent there.": "根据墙上的文字记录，这是一个模拟环境，目的是保存第五行星变成黑棘星前的原貌。一些珍贵的历史幻灯片资料也被传送到了此处。",
+    "According to some text, this is a simulation meant to preserve the fifth planet before it became Dark Bramble. Some archived slides have also been sent there.": "根据墙上的文字记录，这是一个虚拟环境，目的是保存第五行星变成黑棘星前的原貌。一些珍贵的历史幻灯片资料也被传送到了此处。",
+
+    "Mineral Display Case": "矿物展示柜",
+    "There is a mineral inside a glass display, which is directly connected to the green fire nearby.": "玻璃展柜内存放着一块矿石，展柜与一旁的绿色火焰相连。",
+    "I was able to unlock the glass display by entering a series of codes in the Preserved Planet's Archives.": "我在隐藏星球的档案馆输入了一组密码，成功解锁了这个玻璃展柜。",
+    "The mineral inside the display can be picked up.": "展示柜中的矿物可以被拾取。",
 
     "Angler's Eye Theater": "安康鱼之眼剧院",
     "There is a Theater House on Angler's Eye for the purpose of watching slide reels.": "在安康鱼之眼上有一个剧院屋，用于观看幻灯片卷轴。",
+    "The text on the left of the table reads out some sort of poem stanza...": "桌子左侧的文字记述着某种诗文短句……",
 
     "Poem": "诗",
     "I found a poem in one of the houses in Angler's Eye. It seemed unfinished.": "我在安康鱼之眼的一所房子里发现了一首诗。它似乎未完成。",
-    "The first stanza in the Research House is \"For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need\".": "研究所中的第一节诗是\"要让我们的旧世界复苏，需要收集一些物品。首先是种子，然后是它最需要的阳光。\"",
-    "The second stanza in the Conservatory is \"Next you shall let the water flow, only then will our trees regrow. Obtain the water above the sky, from the Ringed Giant way up high\".": "温室中的第二节诗是\"接下来，需要让水流动起来，树木才能重新生长。去高悬于天际的环形巨物那里获取水源。\"",
-    "The third stanza in the Theater House is \"With those two things, fresh air will flourish, so plants and animals can thrive and nourish. But best beware the spreading flames, the air might spark it all ablaze\".": "剧院屋中的第三节诗是\"有了这两样东西，新鲜空气会兴旺，植物和动物才能繁荣。但要小心蔓延的火焰，空气可能会助燃一切。\"",
-    "The fourth stanza in the Bramble Museum is \"Fourth, keep out a watchful eye. Make sure our offspring does not die\".": "荆棘博物馆中的第四节诗是\"第四，请保持警惕的目光。务求确保我们的后代不会死亡殆尽。\"",
-    "The fifth and final stanza in the Signal House is \"That is the order it shall follow; else it will stay dead and hollow. Input these words as a secret code, but put a star in the fifth node\".": "信号屋中的第五节也是最后一节诗是\"将这些诗句作为密码输入，但在第五个节点放一颗星。\"",
+    "The first stanza in the Research House is \"For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need\".": "研究所中的第一节诗是“要让我们的旧世界复苏，需要收集一些物品。首先是种子，然后是它最需要的阳光。”",
+    "The second stanza in the Conservatory is \"Next you shall let the water flow, only then will our trees regrow. Obtain the water above the sky, from the Ringed Giant way up high\".": "温室中的第二节诗是“接下来，需要让水流动起来，树木才能重新生长。去高悬于天际的环形巨物那里获取水源。”",
+    "The third stanza in the Theater House is \"With those two things, fresh air will flourish, so plants and animals can thrive and nourish. But best beware the spreading flames, the air might spark it all ablaze\".": "剧院屋中的第三节诗是“有了这两样东西，新鲜空气会兴旺，植物和动物才能繁荣。但要小心蔓延的火焰，空气可能会助燃一切。”",
+    "The fourth stanza in the Bramble Museum is \"Fourth, keep out a watchful eye. Make sure our offspring does not die\".": "荆棘博物馆中的第四节诗是“第四，请保持警惕的目光。务求确保我们的后代不会死亡殆尽。”",
+    "The fifth and final stanza in the Signal House is \"That is the order it shall follow; else it will stay dead and hollow. Input these words as a secret code, but put a star in the fifth node\".": "信号屋中的第五节也是最后一节诗是“将这些诗句作为密码输入，但在第五个节点放一颗星。”",
 
     "Conservatory": "温室",
     "The Conservatory building consists of a few empty fish tanks and a handful of trees.": "温室建筑内设有几个空置的养鱼池，周围散布着少量树木。",
-    "Just like I saw on the Timber Hearth slide reel, the inhabitants on this planet survived off of eating primitive Hearthians.": "正如我在木炉星的幻灯片卷轴上所见，这颗星球上的居民竟以捕食那些尚处鱼形阶段的早期木炉人为食，场面既离奇又充满原始的残酷。",
-    "According to a message written on the Conservatory's desk, they found out about the Hearthian future, and knew that I would come here.": "温室工作台上留下的笔记透露，他们已经预见了木炉星人的未来发展，甚至预知我会来到这里。",
+    "Just like I saw on the Timber Hearth slide reel, the inhabitants on this planet survived off of eating primitive Hearthians.": "正如我在木炉星的幻灯片卷轴上所见，这颗星球上的外星站居民竟以那些尚处鱼形阶段的早期哈斯人为食，场面既离奇又充满原始的残酷。",
+    "According to a message written on the Conservatory's desk, they found out about the Hearthian future, and knew that I would come here.": "温室工作台上留下的笔记透露，他们已经预见了哈斯人的未来发展，甚至预知我会来到这里。",
     "According to a message on the second floor, the purpose of the Conservatory is meant to produce healthy seeds for the terraform plan.": "二楼的记录揭示，这座温室的设立目的是为地球化改造计划培育健康的种子。",
 
     "Mining Hole": "采矿洞",
     "There is a mining hole not far from the south pole. A pickaxe and several rocks are seen there.": "南极不远处开凿着一处采矿坑洞，坑边散落着一把矿镐和几块开采出的岩石。",
-    "There is a mineral atop the table in the Bramble Museum's basement that can be picked up.": "在荆棘博物馆地下室的桌子上放着一块可以拾取的矿物。",
     "The text at the bottom of the hole says that it was to get resources for The Stranger's cloaking device. It can also be used as fuel.": "坑底刻着的文字记载，此处开采的矿物是为外星站的隐形装置提供原料，同时它也可作为高效燃料使用。",
+
+    "Observation Deck": "观景台",
+    "An observation deck can be found not far from the Signal House.": "在信号屋附近可以找到一个观景台。",
+    "According to an observation, The Hourglass Twins once had water flowing on their surfaces, and that all planets in our star system once had some form of water on them.": "据观测记录所示，沙漏双星的地表曾有液态水流动，而本恒星系的所有行星都曾有过不同形态的水体。",
+    "According to another observation, the author knew of the Quantum Moon, its sixth location, and that it appeared to be similar in nature to Angler's Eye.": "据另一则观测记录记载，记录者知晓量子卫星及其第六个位置，且发现其特质与安康鱼之眼十分相似。",
+    "The author of the writings observed Dark Bramble and saw something groundbreaking. Said author mentioned taking this observation to the archives.": "这些文献的记录者曾观测过黑棘星，并有了颠覆性的重大发现。记录者还提到要将这份观测资料归档留存。",
 
     "Research House": "研究所",
     "A picture on the first floor's table shows the home moon of the Stranger's Inhabitants. The Stranger is X'd out, and other icons are sketched out.": "一楼桌上的图片展示了外星站居民的家园卫星。图中外星站被划去，旁边则勾画了其他几个标志性图标。",
     "A picture on the second floor shows the orbit of Angler's Eye.": "二楼的一张星图详细标注了安康鱼之眼的运行轨道。",
     "50 days after arriving, the author of the writing returned to The Stranger.": "抵达此地50天后，这些文字的作者返回了外星站。",
-    "Disturbed at what they found, this inhabitant returned to Angler's Eye after finding their kind dead, trapped in the simulation.": "当发现同族已在模拟世界中死去，被永远困在其中时，这位居民心绪不宁，选择返回安康鱼之眼。",
+    "Disturbed at what they found, this inhabitant returned to Angler's Eye after finding their kind dead, trapped in the simulation.": "当发现同族已在虚拟世界中死去，被永远困在其中时，这位外星站居民心绪不宁，选择返回安康鱼之眼。",
     "To the left of the picture, the text says that the picture was a plan to terraform their home moon, and that doing so isn't impossible.": "图片左侧的笔记解释道，这幅图展示的是一项地球化改造家园卫星的计划，并且强调这个计划并非不可实现。",
-    "To the right of the picture, the text says that for whatever reason, The Stranger cannot be used. Water can be extracted from the Teal-Ringed Giant, and trees and transport are necessary.": "图片右侧的记录表明，无论出于何种原因，外星站已不再适合使用。计划中提到可从青环巨星提取水资源，同时还需要树木和运输工具。",
+    "To the right of the picture, the text says that for whatever reason, The Stranger cannot be used. Water can be extracted from the Teal-Ringed Giant, and trees and transport are necessary.": "图片右侧的记录表明，无论出于何种原因，外星站已不再适合使用。计划中提到可从青绿色环状纹路巨星提取水资源，同时还需要树木和运输工具。",
     "Angler's Eye is in orbit around Dark Bramble. The Nomai must have never found it because they were too afraid of Dark Bramble.": "安康鱼之眼实际上环绕着黑棘星运行。挪麦人之所以从未发现它，想必是因为他们太过畏惧那充满危险与恐怖的黑棘星。",
     "The minerals on Angler's Eye were used to gain resources for The Stranger.": "安康鱼之眼上的特殊矿藏曾被用作外星站的重要资源来源。",
     "Most of this settlement is located on the north pole. It's possible to enter the south pole hurricane in some way.": "这片聚居地主要分布于北极区域。而南极那处风暴，似乎存在某种进入方法。",
-    "70 days after arriving, this inhabitant discovered that Angler's Eye may have originated from a collision with The Eye.": "抵达第70天，该居民发现安康鱼之眼可能源自与宇宙之眼的某次碰撞，如今同时环绕着宇宙之眼与黑棘星运行。由于其轨道运行极度缓慢，我最好寻找其他途径前往宇宙之眼。",
+    "70 days after arriving, this inhabitant discovered that Angler's Eye may have originated from a collision with The Eye.": "在抵达的第70天，该外星站居民发现安康鱼之眼可能源自与宇宙之眼的某次碰撞。", //原翻译：在抵达的第70天，该居民发现安康鱼之眼可能源自与宇宙之眼的某次碰撞，如今同时环绕着宇宙之眼与黑棘星运行。由于其轨道运行极度缓慢，我最好寻找其他途径前往宇宙之眼。
+    "The text on the second floor desk reads out some sort of poem stanza...": "二楼桌上的文本记述着某种诗文短句……",
 
     "Mysterious Starfield": "神秘星空",
     "I found a mysterious area with torches, a starfield, and a ominous teal light in the center.": "我发现了一处神秘区域，四周燃烧着幽暗火炬，头顶繁星点点，中央闪烁着一团令人不安的青碧色光芒。",
-    "The teal-lighted pedestal warps me between the Preserved Planet and the Simulation on the Stranger.": "那座沐浴在青碧光辉中的基座能将我在保存行星与外星站模拟世界之间来回传送。",
+    "The teal-lighted pedestal warps me between the Preserved Planet and the Simulation on the Stranger.": "那座沐浴在青碧光辉中的基座能将我在保存行星与外星站虚拟世界之间来回传送。",
 
     "Preserved Planet": "保存行星",
-    "Angler's Eye Archives?": "安康鱼之眼档案？",
-    "I found a new simulation built to preserve the life of Dark Bramble's former self.": "我发现了一个全新的模拟系统，专门保留黑棘星昔日生机盎然的本真状态！",
+    "I found a new simulation built to preserve the life of Dark Bramble's former self.": "我发现了一个全新的虚拟系统，专门保留黑棘星昔日生机盎然的本真状态！",
     "When the solar sails deploy about 6 minutes into the loop, some tiles glitch out and become solid and walkable.": "在循环大约6分钟后，当太阳帆展开时，一些瓷砖会出现故障，变得坚固且可行走。",
     "When the flood happens 13 minutes into the loop, the glitched walkways disappear.": "在循环大约13分钟后，当洪水发生时，故障的走道会消失。",
     "I found a cave system beneath the Preserved Planet's Crust. There's water below, so I should probably watch my step.": "我在保存行星的地壳下发现了一个洞穴系统。下面有水，所以我应该小心行走。",
     "A vine from the Bramble Seed blocking the ocean also appears to be reaching out and blocking something.": "一根来自荆棘种子的藤蔓阻挡了海洋，似乎还在伸展并阻挡某些东西。",
-    "On the South Pole in the caves is a sign. It says a poem \"To the South Pole, take a stroll. Retrace your steps, to the North Pole.\"": "在南极的洞穴深处，悬挂着一块斑驳的告示牌，上面题写着一首诗：‘漫步向南极，细数曾经印记。循着旧日足迹，重返那北极之境。’",
+    "On the South Pole in the caves is a sign. It says a poem \"To the South Pole, take a stroll. Retrace your steps, to the North Pole.\"": "在南极的洞穴深处，悬挂着一块斑驳的告示牌，上面题写着一首诗：“漫步向南极，细数曾经印记。循着旧日足迹，重返那北极之境。”",
 
     "Code Totem House": "代码图腾屋",
     "There is a mysterious house to the left of the green campfire. It has a set of code totems, each with a unique emblem.": "在绿色篝火的左边有一座神秘的房子。它有一组代码图腾，每个图腾都有一个独特的徽章。",
@@ -1082,51 +1173,77 @@
     "The projection on the left shows me an exploit about The Artifact.": "左边的投影展示了一个关于文物的利用方法。",
     "The text on the left explains how to perform an exploit, which involves walking away from The Artifact.": "左边的文字解释了如何进行利用，涉及远离文物。",
     "The projection in the middle shows The Artifact repeatedly toggling its focus.": "中间的投影展示了文物反复聚焦能够达到的效果。",
-    "The text in the middle reveals that using focus in the simulation can cause you to sneak, and even prevent from falling off edges. This will help me in cautious scenarios, and stealthy scenarios where one would need to be quiet.": "中间的文字表明，在模拟中运用聚焦不仅能让你悄然移动，还可以防止你从边缘跌落。这在需要谨慎行事以及保持隐蔽的情况下非常有用。",
+    "The text in the middle reveals that using focus in the simulation can cause you to sneak, and even prevent from falling off edges. This will help me in cautious scenarios, and stealthy scenarios where one would need to be quiet.": "中间的文字表明，在虚拟空间中运用聚焦不仅能让你悄然移动，还可以防止你从边缘跌落。这在需要谨慎行事以及保持隐蔽的情况下非常有用。",
     "The projection on the right shows how Dark Bramble outgrew the frozen planet that was once there.": "右边的投影展示了黑棘星是如何从曾经的冰冻行星变成现在如此。",
     "The text on the right points out that the Bramble Plant started its growth from the North Pole": "右边的文字指出荆棘植物从北极开始生长。",
 
     "Bio Experiments": "生物实验",
     "I found a tank containing an Anglerfish and a Jellyfish.": "我发现了一个水槽，里面有一条安康鱼和一只水母。",
-    "The observations made by the inhabitants reveal that Anglerfish were once part of Ember Twin, and that the small ones are typically males looking for mates. No wonder why it latched onto one of our ships!": "居民的观察显示，安康鱼曾是灰烬双星的一部分，而体型较小的通常是寻找配偶的雄性。难怪它会附着在我们的飞船上！",
+    "The observations made by the inhabitants reveal that Anglerfish were once part of Ember Twin, and that the small ones are typically males looking for mates. No wonder why it latched onto one of our ships!": "外星站居民的观察显示，安康鱼曾是余烬双星的一部分，而体型较小的通常是寻找配偶的雄性。难怪它会附着在我们的飞船上！",
     "It also appears that Jellyfish are actually native to the frozen planet that became Dark Bramble, and eventually both species lived together in its subsurface ocean.": "此外，水母似乎实际上是原生于那颗后变成黑棘星的冰冻行星，最终这两种生物共同生活在其地下海洋中。",
 
     "Bramble Research Lab": "荆棘研究实验室",
     "Locked Building": "锁闭建筑",
     "There is a building north of the forest that I can't seem to get into. There has to be another way!": "在森林北边有一座建筑，我似乎无法进入。肯定还有其他办法！",
     "I made it into the lab with the Bramble Seed in the Bramble Forest!": "我在荆棘森林里拿着荆棘种子进入了实验室！",
-    "The inhabitant who left this place behind discovered the Angler's Eye minerals to stop the Bramble from growing!": "离开这个地方的居民发现了安康鱼之眼的矿物，可以阻止荆棘的生长！",
-    "I discovered I can reflect my artifact light off of ice shards!": "我发现我可以通过冰块碎片反射我的文物之光！",
+    "The inhabitant who left this place behind discovered the Angler's Eye minerals to stop the Bramble from growing!": "离开这个地方的外星站居民发现了安康鱼之眼的矿物，可以阻止荆棘的生长！",
+    "I discovered I can reflect my artifact light off of ice shards!": "我发现我可以通过冰块碎片反射我文物的光！",
 
     "Bramble Forest": "荆棘森林",
-    "I found a forest made of Bramble Vines.": "我发现了一个由荆棘藤组成的森林。",
+    "I found a forest made of Bramble Vines.": "我发现了一个由荆棘藤蔓组成的森林。",
     "There is a Bramble Node that appears to be blocked.": "有一个荆棘节点似乎被阻塞了。",
     "It appears that this forest is preserving some awkward stage in the infestation of the Bramble Plant where the vines formed forest biomes such as these.": "这片森林似乎保存了荆棘植物侵染演变中的一个特殊过渡阶段，正是在这个阶段，那些藤蔓构建起了如今所见的这种森林生态系统。",
-    "A poem is written on one of the signs in the forest. \"Tread the path of the lit candles. With wind opens the seed of bramble.\"": "森林中一块标牌上写着一首诗：'踏上点燃蜡烛的道路，随风开启荆棘之种。'",
+    "A poem is written on one of the signs in the forest. \"Tread the path of the lit candles. With wind opens the seed of bramble.\"": "森林中一块标牌上写着一首诗：“踏上点燃蜡烛的道路，随风开启荆棘之种。”",
 
     "North Pole": "北极",
     "There is what appears to be a Bramble Infestation on the North Pole.": "北极上似乎有一片荆棘侵袭。",
     "There is an elevator on the edge of the North Pole.": "北极边缘处有一部电梯。",
-    "Growing atop the planet's North Pole at the bottom of the ocean was a Bramble Node, and within that node are this area's archives!": "在海底、长在行星北极之巅的地方，有一个荆棘节点，节点中存放着该区域的档案！",
 
-    "Bramble Archives": "荆棘档案",
-    "Bramble Signal": "荆棘信号",
-    "A strange signal similar to that of the Signal House can be heard from the South Pole of Angler's Eye.": "从安康鱼之眼的南极可以听到类似于信号屋的奇异信号。",
-    "Blackout Bramble Slide Reel?": "失控荆棘幻灯片卷轴？",
-    "I found a slide reel inside the Bramble Base.": "我在荆棘基地内找到了一个幻灯片卷轴。",
-    "The Scientist mentioned the fact that members of his kind are asleep in a \"Coma Hall\", and that both noise and artifact light disturb their slumber.": "科学家提到，他族中有不少成员正沉睡在被称为'永眠殿'的地方，而不仅仅是噪音，连文物所发出的微光也能扰乱他们的睡眠。在需要悄无声息、保持绝对隐蔽的情况下，这一特性显得尤为重要。",
-    "Some advice for evading Anglerfish is written on the wall! \"Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.\"": "墙上写着一些躲避安康鱼的建议：'如果不乘船，安康鱼更容易保持沉睡。我们认为这与噪音有关。如果遇到紧急情况，从飞船中弹射出去会非常有用。'",
-    "Some advice for evading Anglerfish is written on the wall! \"To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just cast right past you instead of chase you.\"": "墙上还写着另一条躲避安康鱼的建议：'要躲避安康鱼，使用对角线推力。当你看到它开始移动或听到它发出咕哝声时，立即停止推进也可以避免被追赶。它可能就只是从你旁边滑过，而不是追逐你。' ",
+    "Warp House": "传送屋",
+    "Bramble Archives Code Switch": "荆棘档案密码开关",
+    "Mineral Display Connection?": "矿物展示连接？",
+    "The glass display appears to be connected to the Angler's Eye Green Fire in some way.": "玻璃展示柜似乎以某种方式与安康鱼之眼的绿色火焰相连。",
+    "Inside the archives are two code totems and a mural of the mineral.": "档案馆内有两个密码图腾和一幅矿物壁画。",
+    "Inputting the codes seemed to play a sound and change the mural on the wall. It's likely that something changed in the real world.": "输入密码似乎会播放声音并改变墙上的壁画。现实世界中很可能发生了某些变化。",
+    "The two totems are the key to opening the mineral's display case.": "这两个图腾是打开矿物展示柜的关键。",
 
+    "Archives Left Vision Torch": "档案馆左侧火把视野",
+    "A vision torch can be seen kneeling on the left totem.": "可以看到一个火把视野放在左侧图腾上。",
+    "A vision torch on the left showed me where I can find a code for the totem.": "左侧的火把视野向我展示了在哪里可以找到图腾的密码。",
+    "Archives Right Vision Torch": "档案馆右侧火把视野",
+    "A vision torch can be seen kneeling on the right totem.": "可以看到一个火把视野放在右侧图腾上。",
+    "A vision torch on the right showed me where I can find a code for the totem.": "右侧的火把视野向我展示了在哪里可以找到图腾的密码。",
+
+    "Isolated Swamp Code": "孤立沼泽密码",
+    "Right Code Location": "右侧密码位置",
+    "I found the codes in the Isolated Swamp Archives near the topmost elevator.": "我在孤立沼泽档案馆最顶层电梯附近找到了密码。",
+    "Preserved Planet Code": "保存行星密码",
+    "Left Code Location": "左侧密码位置",
+    "I found the codes in the Preserved Planet's caves near the elevator.": "我在保存行星洞穴的电梯附近找到了密码。",
     "Dark Bramble Reel": "黑棘星卷轴",
-    "This slide reel shows The Scientist using a Vision Telescope to unravel the mysteries of the frozen planet, only for him to find out that it would become Dark Bramble. However, this vision gave him an idea...": "这卷幻灯片展示了科学家使用视觉望远镜揭开冰冻星球的奥秘，却发现它将变成黑棘星。不过，这个异象给了他一个主意……",
+    "This slide reel shows The Scientist using a Vision Telescope to unravel the mysteries of the frozen planet, only for him to find out that it would become Dark Bramble. However, this vision gave him an idea...": "这卷幻灯片展示了科学家使用光学望远镜揭开冰冻星球的奥秘，却发现它将变成黑棘星。不过，这个异象给了他一个主意……",
+    "Archives Shortcut Reel": "档案馆捷径卷轴",
+    "A slide reel shows how to access a shortcut to the Bramble Archives involving a gear interface not far from the starting fire.": "一卷幻灯片展示了如何通过距离起始火焰不远的齿轮界面进入荆棘档案馆的捷径。",
+    "Archives Shortcut": "档案馆捷径",
+    "Shortcut Location": "捷径位置",
+    "There is a shortcut to the Bramble Archives involving a gear interface not far from the starting fire.": "距离起始火焰不远处有一个通往荆棘档案馆的捷径，需要使用齿轮界面。",
+    "I found the shortcut to the Bramble Archives not far from the starting fire.": "我在距离起始火焰不远的地方找到了通往荆棘档案馆的捷径。",
+    "Bramble Archives": "荆棘档案",
+    "Angler's Eye Archives?": "安康鱼之眼档案？",
+    "There was mention about an archive somewhere on Angler's Eye.": "有人提到过在安康鱼之眼的某处有一个档案馆。",
+    "Growing atop the planet's North Pole at the bottom of the ocean was a Bramble Node, and within that node are this area's archives!": "在海底、长在行星北极之巅的地方，有一个荆棘节点，节点中存放着该区域的档案！",
+    "The Scientist mentioned the fact that members of his kind are asleep in a \"Coma Hall\", and that both noise and artifact light disturb their slumber.": "科学家提到了他们种族成员在“永眠殿”中沉睡的事，噪音和文物之光都会打扰他们的安宁。",
+    "Some advice for evading Anglerfish is written on the wall! \"Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.\"": "墙上写着一条躲避安康鱼的建议：“如果不乘船，安康鱼更容易保持沉睡。我们认为这与噪音有关。如果遇到紧急情况，从飞船中弹射出去会非常有用。”",
+    "Some advice for evading Anglerfish is written on the wall! \"To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just cast right past you instead of chase you.\"": "墙上还写着另一条躲避安康鱼的建议：“要躲避安康鱼，使用对角线推进。当你看到它开始移动或听到它发出咕哝声时，立即停止推进也可以避免被追赶。它可能就只是从你旁边滑过，而不是追逐你。”",
 
     "Blackout Bramble": "失控荆棘",
     "Bramble Seed on Angler's Eye": "安康鱼之眼上的荆棘种子",
-    "According to a message in the basement of the Dark Bramble Museum, there's a Bramble Seed planted likely inside the hurricane.": "根据黑棘星博物馆地下室的一条信息，很可能在飓风中种下了一颗荆棘种子。",
+    "According to a message in the basement of the Dark Bramble Museum, there's a Bramble Seed planted likely inside the hurricane.": "根据黑棘星博物馆地下室的一条信息，飓风中很可能种了一颗荆棘种子。",
     "The dimensions connected to the Angler's Eye Bramble Seed are similar to Dark Bramble, but incredibly dark.": "与安康鱼之眼上的荆棘种子相连的维度类似于黑棘星，但极为黑暗。",
 
     "Bramble Base": "荆棘基地",
+    "Bramble Signal": "荆棘信号",
+    "A strange signal similar to that of the Signal House can be heard from the South Pole of Angler's Eye.": "从安康鱼之眼的南极可以听到类似于信号屋的奇异信号。",
     "The source of the strange signal is from a base inside the Bramble Seed!": "奇异信号的来源来自荆棘种子内的一个基地！",
     "There appears to be a map showing the Bramble Dimensions. It seems that they may connect to the Ringed Giant in the Strangers' Home System.": "基地内绘有一张荆棘次元空间的详细地图，显示这些空间似乎与外星站居民星系中的环界星存在某种连接。",
     "The text to the left of the map warns not to go into the light, but to instead use it as guidance.": "地图左侧的文字警告不要直接进入亮光区域，而应将其作为前行的指引。",
@@ -1134,33 +1251,30 @@
     "The text to on the table says that they were able to feel their way through with the Vision Torch.": "桌面上的笔记记载，他们曾借助火把视野的特殊能力，成功摸索着穿越了这片危险区域。",
 
     "Blackout Bramble Slide Reel": "失控荆棘幻灯片卷轴",
-    "The slide reel shows me instructions on how to navigate the dimensions ahead.": "这卷幻灯片向我展示了如何穿越前方维度的详细指引。",
-
-    "UFO Destination": "不明飞行物目的地",
-
-    "Crash Site?": "坠毁地点？",
-    "The group of inhabitants on the slide reel crashed on Angler's Eye somewhere. Could there be a crash site somewhere?": "幻灯片中那群居民在某处于安康鱼之眼坠毁。是否可能存在一个坠毁地点？",
+    "Blackout Bramble Slide Reel?": "失控荆棘幻灯片卷轴？",
+    "I found a slide reel inside the Bramble Base.": "我在荆棘基地内找到了一个幻灯片卷轴。",
+    "The slide reel shows me instructions on how to navigate the dimensions ahead.": "这卷幻灯片向我展示了穿越前方维度的详细指引。",
 
     //crimson
-
     "Velvet Vortex": "绯旋星",
 
     "A Crimson Gas Giant?": "一颗绯红的气态巨星？",
-    "On the Strangers' Homeworld, I can see a crimson gas giant orbitng the host star.": "在外星站居民的星系中，我能看到一颗绕着主星运行的绯红气态巨星。",
-    "Velvet Vortex is the third planet in the Strangers' Home System. It has tornadoes like Giant's Deep, but the ocean is not safe to swim in.": "绯旋星是外星站居民的星系中的第三颗行星。这里拥有与深巨星相似的猛烈龙卷风，但其海域危机四伏，绝非适宜游泳之地。",
+    "On the Strangers' Homeworld, I can see a crimson gas giant orbitng the host star.": "在外星站居民的母星系中，我能看到一颗绕着主星运行的绯红气态巨星。",
+    "Velvet Vortex is the third planet in the Strangers' Home System. It has tornadoes like Giant's Deep, but the ocean is not safe to swim in.": "绯旋星是外星站居民的母星系中的第三颗行星。这里拥有与深巨星相似的猛烈龙卷风，但其海域危机四伏，绝非适宜游泳之地。",
 
     "Crimson Giant Traveler?": "绯红巨星旅行者？",
     "Pine": "派恩",
-    "According to Twig, the head of the Inhabitants' Space Program, there are other travelers, each carrying a signal. I hear one coming from the crimson gas giant.": "据居民太空计划负责人特威格说，还有其他旅行者，每人都携带着一个信号。我听到有一个信号来自那颗绯红气态巨星。",
-    "I met a travelling inhabitant named Pine!": "我遇到了一位名叫派恩的旅行居民！",
+    "According to Twig, the head of the Inhabitants' Space Program, there are other travelers, each carrying a signal. I hear one coming from the crimson gas giant.": "据居民太空计划负责人特威格所说，还有其他旅行者，每人都携带着一个信号。我听到有一个信号来自那颗绯红气态巨星。",
+    "I met a travelling inhabitant named Pine!": "我遇到了一位名叫派恩的旅行者！",
 
     "Velvet Vortex Base": "绯旋星基地",
+    "Base on Velvet Vortex?": "绯旋星上的基地？",
     "Base on Burning Bombardier?": "烈焰卫星上的基地？",
     "Pine said there was a base somewhere on Velvet Vortex.": "派恩说在绯旋星的某处有一个基地。",
     "Pine said there was a lab near his camp on Velvet Vortex.": "派恩说在他在绯旋星营地附近有一个实验室。",
     "There is a base on the edge of one of the islands in Velvet Vortex.": "在绯旋星的一座岛屿边缘建有一处隐蔽基地。",
     "The inhabitants that wrote this say they were ordered to obtain electricity from the oceans for weaponry. They also doubt they were in danger at all.": "留下这些记录的居民表示，他们奉命从海洋中提取电力用于武器制造。不少人甚至质疑是否真的面临什么危险。",
-    "One inhabitant suggests that the threat is classified to prevent panic.": "一位居民认为，这个威胁被列为机密以防引起恐慌。",
+    "One inhabitant suggests that the threat is classified to prevent panic.": "一位居民认为，这个威胁应当被列为机密以防引起恐慌。",
     "The text on the bottom of the base says you can use the Cloaked Mineral to go under the electric fluid without getting hurt, and also be able to set it down and walk away from it a decent amount of meters.": "基地底部的笔记记载，使用隐形矿物可以安全穿越带电液体而不受伤害，且能在放下矿物后依然保持一定距离的保护效果。",
     "I can't get up past the giant wall.": "我无法翻越那堵巨墙。",
     "I made it past the giant wall with the aid of a tornado.": "我借助龙卷风的力量翻过了那堵巨墙。",
@@ -1169,7 +1283,7 @@
     "Velvet Vortex Seal": "绯旋星封印",
     "Crimson Giant Socket?": "绯红巨星插槽？",
     "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a crimson gas giant.": "在环界星上，我看到了一个废弃的结构。其中一个插槽上有一颗绯红气态巨星的图片。",
-    "I found a square piece of metal under the ocean. It looks like it fits in the structure...": "我在海底找到了一块方形金属片。它看起来可以装进那个结构中...",
+    "I found a square piece of metal under the ocean. It looks like it fits in the structure...": "我在海底找到了一块方形金属片。它看起来可以装进那个结构中……",
     "When I put the seal in the structure, it gave me a symbol.": "当我把封印放入结构中时，它给了我一个符号。",
 
     "Velvet Vortex Campsite": "绯旋星营地",
@@ -1181,7 +1295,7 @@
     "Lab by the Campsite": "营地旁的实验室",
     "There is a spinning laboratory on the island next to Pine's Camp on Velvet Vortex. It has a biometric security measure at the front.": "在绯旋星派恩营地旁的岛屿上矗立着一座不断旋转的实验室。其入口处设有生物识别安全装置。",
     "I cracked into the biometrics system by using Bark's dead skull.": "我利用巴克的头骨成功破解了生物识别系统。",
-    "The Strangers' Inhabitants saw The Vessel warp into their home system. Feeling threatened, they were not afraid to call The Nomai their enemy.": "外星站居民目睹挪麦飞船跃迁入侵他们的星系后，感到威胁之余，立刻将挪麦人视为敌人。",
+    "The Strangers' Inhabitants saw The Vessel warp into their home system. Feeling threatened, they were not afraid to call The Nomai their enemy.": "居民目睹挪麦飞船跃迁入侵他们的星系后，感到威胁之余，立刻将挪麦人视为敌人。",
     "After quickly gathering reconnisance, they became well aware that The Vessel was unarmed. Despite the Nomai coming in peace, The Strangers' Inhabitants proceeded with their attack plan.": "经过迅速侦察，他们清楚地知道这艘飞船并无武装。然而，尽管挪麦人是带着和平意图而来，外星站居民依然执行了他们的攻击计划。",
     "Some text claims that if the attack is successful, they will put a cloak around The Vessel so no others could find it.": "部分记录声称，若攻击成功，他们将对飞船施加隐形屏障，使其他来访者再也无法找到它。",
     "A set of text by the gear interface states that to find The Vessel, you have to turn on the signal with the interface and follow the signal.": "齿轮界面旁的文字记载，若要寻找这艘飞船，必须通过界面激活信号装置，然后跟随信号指引前行。",
@@ -1191,20 +1305,20 @@
     "Sizzling Sands": "炙热沙海",
 
     "Desert Planet?": "沙漠行星？",
-    "On the Strangers' Homeworld, I can see a desert planet orbitng the host star.": "在外星站居民的星系中，我能看到一颗绕着主星运行的沙漠行星。",
-    "Sizzling Sands is the first planet in the Strangers' Home System. It's a tidally locked desert.": "炙热沙海是外星站居民的星系中的第一颗行星。它是一颗被潮汐锁定的沙漠行星。",
+    "On the Strangers' Homeworld, I can see a desert planet orbitng the host star.": "在外星站居民的母星系中，我能看到一颗绕着主星运行的沙漠行星。",
+    "Sizzling Sands is the first planet in the Strangers' Home System. It's a tidally locked desert.": "炙热沙海是外星站居民的母星系中的第一颗行星。它是一颗被潮汐锁定的沙漠行星。",
     "23 minutes into the loop, Sizzling Sands can no longer handle the growing sun and loses its atmosphere.": "循环进行到23分钟时，炙热沙海无法再承受不断膨胀的太阳，失去了大气层。",
 
     "Desert Planet Traveler?": "沙漠行星旅行者？",
     "Arcadia": "阿卡迪亚",
     "According to Twig, the head of the Inhabitants' Space Program, there are other travelers, each carrying a signal. I hear one coming from the desert planet.": "根据太空计划负责人特威格说，还有其他旅行者，每人都携带着一个信号。我听到有一个信号来自沙漠行星。",
-    "I met a travelling inhabitant named Arcadia!": "我遇到了一位名叫阿卡迪亚的旅行居民！",
-    "Arcadia says there's nothing much to do on Sizzling Sands, but that the sun-facing side is fatal to those who enter.": "阿卡迪亚说炙热沙海上乏善可陈，但提醒道那向阳面对任何胆敢踏入的人都是致命的。",
+    "I met a travelling inhabitant named Arcadia!": "我遇到了一位名叫阿卡迪亚的旅行者！",
+    "Arcadia says there's nothing much to do on Sizzling Sands, but that the sun-facing side is fatal to those who enter.": "阿卡迪亚说炙热沙海上乏善可陈，但他提醒说那向阳面对任何胆敢踏入的人都是致命的。",
 
     "Sizzling Sands Seal": "炙热沙海封印",
     "Desert Planet Socket?": "沙漠行星插槽？",
     "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a desert planet.": "在环界星上，我看到了一个废弃的结构。其中一个插槽上有一颗沙漠行星的图片。",
-    "I found a square piece of metal on the sun-side of Sizzling Sands. It looks like it fits in the structure...": "我在炙热沙海的向阳面找到了一块方形金属片。它看起来可以装进那个结构中...",
+    "I found a square piece of metal on the sun-side of Sizzling Sands. It looks like it fits in the structure...": "我在炙热沙海的向阳面找到了一块方形金属片。它看起来可以装进那个结构中……",
 
     "Sun-Facing Side": "向阳面",
     "I've heard that the sun-facing side is fatal to those who enter.": "据说炙热沙海的向阳面对任何贸然进入的生物都是致命的。",
@@ -1218,10 +1332,10 @@
     "Home Moon?": "家园卫星？",
     "If the Scientist's terraform is complete and I made it to the Ringed Giant, The Strangers' Home Moon is not far off!": "如果科学家的地球化改造完成，并且我到达了环界星，那么离外星站居民的家园卫星就不远了！",
     "I found the Homeworld of the Strangers Inhabitants!": "我找到了外星站居民的故乡！",
-    "I used The Vessel to warp to The Stranger System! Now let's end this!": "我用飞船跃迁到了外星站居民的星系！现在结束这一切吧！",
+    "I used The Vessel to warp to The Stranger System! Now let's end this!": "我用飞船跃迁到了外星站居民的母星系！现在结束这一切吧！",
 
     "Party House?": "聚会屋？",
-    "I see a building similar to the \"Party House\" in the Simulation.": "我看到一座类似于模拟中的'聚会屋'的建筑。",
+    "I see a building similar to the \"Party House\" in the Simulation.": "我看到一座类似于虚拟空间中的“聚会屋”的建筑。",
 
     "Leader's Corridor": "领袖走廊",
     "Cypress": "塞普雷斯",
@@ -1229,13 +1343,13 @@
     "A vision torch appears to be hung right next to the Leader.": "一盏火把视野似乎就挂在领袖旁边。",
 
     "Memorial Tower": "纪念塔",
-    "Cinder Isles Tower?": "灰烬群岛塔？",
-    "I see a building similar to the Cinder Isles Tower on The Stranger.": "我看到一座类似于外星站上的灰烬群岛塔的建筑。",
+    "Cinder Isles Tower?": "余烬群岛塔楼？",
+    "I see a building similar to the Cinder Isles Tower on The Stranger.": "我看到一座类似于外星站上余烬群岛的塔楼的建筑。",
     "I found a memorial with the Eye Symbol and an Artifact.": "我发现了一个带有宇宙之眼符号和一件文物的纪念碑。",
     "It says here that this memorial is dedicated to all those who died on The Stranger.": "这里写着这座纪念碑是为了纪念所有在外星站上死去的人。",
     "A memorial for The Prisoner explains some more details about why he did what he did.": "一座为幽禁者设立的纪念碑解释了更多关于他所作所为的细节。",
     "I found a memorial upstairs with four containers of ashes.": "我在楼上发现了一座纪念碑，上面有四个骨灰容器。",
-    "The memorial updstairs is dedicated to The Scientist and his family. His last words were, \"Keep our home safe, by any means necessary\".": "楼上的纪念碑是为了纪念科学家和他的家人。他的遗言是：'不惜一切代价，保护我们的家园安全。'",
+    "The memorial updstairs is dedicated to The Scientist and his family. His last words were, \"Keep our home safe, by any means necessary\".": "楼上的纪念碑是为了纪念科学家和他的家人。他的遗言是：“不惜一切代价，保护我们的家园安全。”",
 
     "Stubborn Leader": "顽固的领袖",
     "I tried to speak to the leader, but they told me to go back home. What now?": "我试图和领袖交谈，但他让我回家。现在该怎么办？",
@@ -1244,9 +1358,9 @@
     "I was able to convince Cypress to come with me aboard The Vessel! Let's get going!": "我说服了塞普雷斯和我一起登上飞船！我们出发吧！",
 
     "Giant Building?": "巨型建筑？",
-    "Space Center": "太空中心",
+    "Space Center": "航天中心",
     "I see a giant building with three inhabitant ships on its ceiling.": "我看到一座巨大的建筑，天花板上有三艘居民的飞船。",
-    "I found what looks to be a Space Center.": "我找到了一个看起来像是太空中心的地方。",
+    "I found what looks to be a Space Center.": "我找到了一个看起来像是航天中心的地方。",
     "I met an inhabitant named Twig, who runs his kind's space program!": "我遇到了一位名叫特威格的居民，他负责管理他们种族的太空计划！",
     "Twig's mission is to send out a probe into the dying universe.": "特威格的任务是向垂死的宇宙发射探测器。",
     "Twig said the best way to explore the system is to reach out to the other travelers.": "特威格说，探索这个星系最好的方法是与其他旅行者联系。",
@@ -1260,10 +1374,9 @@
     "An extra exhibit downstairs has one of those Cloak Minerals on display.": "博物馆下层还设有专门展区，展出了一块珍贵的隐形矿物。",
     "A model of the star system is in the basement of the museum. There are four planets, just like the slide reels have shown. Some text also provides details on the system.": "博物馆地下室中央摆放着一个完整的恒星系统模型，展示了与幻灯片卷轴中相同的四颗行星。周围还附有详尽的文字资料，介绍了这个星系的各种特性。",
 
-    "Observation Deck": "观景台",
     "I found an observation deck similar to the one on Angler's Eye.": "我找到了一个类似于安康鱼之眼上的观景台。",
     "I met an inhabitant astronomer. He seems pretty content about the world dying.": "我遇到了一位居民天文学家。他似乎对世界末日感到非常满意。",
-    "Some observations show that the Desert Planet is deadly on its sun-facing side and a shows the fourth planet is known to \"change appearance\".": "一些观测表明，沙漠行星在向阳面是致命的，并且第四颗行星以'改变外观'而闻名。",
+    "Some observations show that the Desert Planet is deadly on its sun-facing side and a shows the fourth planet is known to \"change appearance\".": "一些观测表明，沙漠行星在向阳面是致命的，并且第四颗行星以“改变外观”而闻名。",
     "Some observations show that there is a base on the volcanic moon.": "一些观测表明，在火山卫星上有一个基地。",
 
     //newsim
@@ -1272,20 +1385,20 @@
 
     "Scientist Data Clone": "科学家数据克隆",
 
-    "Hidden Path in Simulation": "模拟中的隐藏路径",
-    "According to a slide reel I found inside the Signal House on Angler's Eye, there is a secret path near the peephole in the fourth sector of the simulation.": "根据我在安康鱼之眼信号屋发现的幻灯片记载，模拟世界第四区域的窥视孔附近隐藏着一条秘密通道。",
-    "There is a fourth sector in the simulation I have never noticed before. It has a few houses built on top of the lake.": "我在模拟世界中发现了一个此前从未注意到的第四区域，那里有几座建在湖面上的房屋。",
+    "Hidden Path in Simulation": "虚拟空间中的隐藏路径",
+    "According to a slide reel I found inside the Signal House on Angler's Eye, there is a secret path near the peephole in the fourth sector of the simulation.": "根据我在安康鱼之眼信号屋发现的幻灯片记载，虚拟世界第四区域的窥视孔附近隐藏着一条秘密通道。",
+    "There is a fourth sector in the simulation I have never noticed before. It has a few houses built on top of the lake.": "我在虚拟世界中发现了一个此前从未注意到的第四区域，那里有几座建在湖面上的房屋。",
     "I saw some glitched tiles wrapping around the buildings in the area.": "我注意到区域内的建筑周围漂浮着一些出现故障的数字化砖块。",
 
-    "Simulated Research House": "模拟研究所",
-    "In the new simulation area, there is a fixed-up version of the Research and Development House on Angler's Eye.": "在这个新模拟区域中，我发现了安康鱼之眼研究所的一个经过修复的复制版本。",
+    "Simulated Research House": "虚拟空间研究所",
+    "In the new simulation area, there is a fixed-up version of the Research and Development House on Angler's Eye.": "在这个新虚拟区域中，我发现了安康鱼之眼研究所的一个经过修复的复制版本。",
     "This new area was coded in by the Scientist on Angler's Eye when he visited The Stranger.": "这片新区域是科学家在造访外星站期间亲手编入系统的。",
-    "The Scientist did not feel comfortable about the simulation's life preserving abilities.": "科学家对模拟系统保存生命意识的方式深感不安。",
-    "According to the Scientist, his kind were still homesick in the simulation of their homeland and realized the only thing he could do to help was to put them in a permanant coma.": "据科学家所述，即使身处家园的模拟环境中，他的族人仍深受思乡之苦。他最终意识到，让他们进入永久沉眠是能为他们做的唯一慈悲之举。",
+    "The Scientist did not feel comfortable about the simulation's life preserving abilities.": "科学家对虚拟系统保存生命意识的方式深感不安。",
+    "According to the Scientist, his kind were still homesick in the simulation of their homeland and realized the only thing he could do to help was to put them in a permanant coma.": "据科学家所述，即使身处家园的虚拟环境中，他的族人仍深受思乡之苦。他最终意识到，让他们进入永久沉眠是能为他们做的唯一慈悲之举。",
     "A memorial dedicated to The Scientist and his family are on the second floor. Both his children died by lack of nutrients from The Stranger.": "二楼设有一座纪念科学家及其家人的纪念碑。他的两个孩子都因外星站上缺乏必要营养而不幸夭折。",
 
-    "Simulated Theater": "模拟剧院",
-    "In the new simulation area, there is a fixed-up version of the Theater House on Angler's Eye.": "在这个新模拟区域中，我发现了一座与安康鱼之眼上剧院屋相似但经过修复的建筑。",
+    "Simulated Theater": "虚拟空间剧院",
+    "In the new simulation area, there is a fixed-up version of the Theater House on Angler's Eye.": "在这个新虚拟区域中，我发现了一座与安康鱼之眼上剧院屋相似但经过修复的建筑。",
     "A thief stole some of the slides to burn them! According to the text I found in the Theater House, he ran to the left after running out the front door.": "有个窃贼偷走了一些幻灯片准备销毁！根据我在剧院屋里发现的记录，他逃出前门后向左方向逃窜了。",
     "I went to the left of the entrance and I see nothing there... Something's not right.": "我前往入口左侧查探，却空无一物……这里面一定有什么蹊跷。",
 
@@ -1294,26 +1407,26 @@
 
     "Isolated Swamp Archives": "孤立沼泽档案",
     "Coma Hall?": "永眠殿？",
-    "Text in the Research and Development Building in the Isolated Swamp says a \"Coma Hall\" was built.": "孤立沼泽研究开发大楼中的文字显示，已建造了一个'永眠殿'。",
+    "Text in the Research and Development Building in the Isolated Swamp says a \"Coma Hall\" was built.": "孤立沼泽研究开发大楼中的文字显示，已建造了一个“永眠殿”。",
     "I found a long hallway with several strangers sleeping, with an elevator at the end. I was wondering where the rest went!": "我发现了一条长长的走廊，里面有几位外星站居民在沉睡，尽头处设有一部电梯。我不禁好奇，其他居民都去了哪里！",
-    "In the Bramble Archives, a note by The Scientist warns that any use of light in the \"Coma Hall\" can wake up those sleeping in it.": "在荆棘档案中，科学家的一张便条警告说，在'永眠殿'中使用任何光线都可能唤醒其中沉睡的人。",
+    "In the Bramble Archives, a note by The Scientist warns that any use of light in the \"Coma Hall\" can wake up those sleeping in it.": "在荆棘档案中，科学家的一张便条警告说，在“永眠殿”中使用任何光线都可能唤醒其中沉睡的人。",
     "The elevator at the end of the hall takes me down to another forbidden archive!": "大厅尽头的电梯将我带到另一个禁忌档案库！",
-    "In the archive, the elevator to the left takes me to a library filled with slide reels involving the history of the inhabitants.": "在档案中，左边的电梯将我带到一个图书馆，里面堆满了关于居民历史的幻灯片卷轴。",
+    "In the archive, the elevator to the left takes me to a library filled with slide reels involving the history of the inhabitants.": "在档案中，左边的电梯将我带到一个图书馆，里面堆满了关于外星站居民历史的幻灯片卷轴。",
     "In the archive, the elevator in the middle takes me to a library filled with slide reels filled with information.": "在档案中，中间的电梯将我带到一个图书馆，里面堆满了包含信息的幻灯片卷轴。",
     "In the archive, the elevator to the right takes me down to the theater. It also contains a table and some data transferring totems.": "在档案中，右边的电梯将我带到剧院。它还包含一张桌子和一些数据传输图腾。",
-    "According to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "根据桌子上的一条消息，科学家制作了这个档案是为了保存所有幻灯片卷轴，但这位'领袖'命令他派人看守。",
+    "According to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "根据桌子上的一条消息，科学家制作了这个档案是为了保存所有幻灯片卷轴，但这位“领袖”命令他派人看守。",
     "According to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "根据桌子上的一条消息，科学家解释了永眠殿的工作原理，但也提到了它有多受欢迎。这解释了我在其他区域没有看到的所有其他人去了哪里。",
 
     "Prisoner's Breakdown Reel": "幽禁者崩溃卷轴",
-    "This slide reel shows The Prisoner among others breaking down in tears after watching The Scientist crash into Angler's Eye. The Prisoner almost jumped off the Eye Shrine, but seeing The Eye Symbol sparked something in him to stop...": "这卷幻灯片记录了一个令人心碎的场景——当目睹科学家坠毁于安康鱼之眼时，幽禁者与其他居民痛哭崩溃。幽禁者几乎从宇宙之眼神殿跃下，但在最后一刻，那宇宙之眼的符号唤醒了他内心深处的某种感悟……",
+    "This slide reel shows The Prisoner among others breaking down in tears after watching The Scientist crash into Angler's Eye. The Prisoner almost jumped off the Eye Shrine, but seeing The Eye Symbol sparked something in him to stop...": "这卷幻灯片记录了一个令人心碎的场景——当目睹科学家坠毁于安康鱼之眼时，幽禁者与其他外星站居民痛哭崩溃。幽禁者几乎从宇宙之眼神殿跃下，但在最后一刻，那宇宙之眼的符号唤醒了他内心深处的某种感悟……",
     "I met a data clone of The Scientist in the Isolated Swamp Archives!": "我在孤立沼泽档案库中遇见了科学家的数据克隆体！",
     "An inhabitant in the Archives used the Vision Torch to learn my language.": "档案库中的这位居民通过火把视野学会了我的语言。",
     "This is a data clone of The Scientist before he left The Stranger, so he has no idea about what happened to him afterwards.": "这是科学家离开外星站前留下的数据克隆，因此对于之后发生的一切，他一无所知。",
-    "The Scientist was the head of the scientific committee, and even invented the Vision Torch and discovered green fire technology. Against his will, he was forced to help destroy the planet. He also would have never approved of the simulation if he was still on the ship at that time.": "科学家曾是科学委员会的首席研究员，是他发明了火把视野并发现了绿色火焰技术。违背自己的意愿，他被迫参与了毁灭家园的计划。若当时他依然在飞船上，他绝不会允许那模拟世界的存在。",
+    "The Scientist was the head of the scientific committee, and even invented the Vision Torch and discovered green fire technology. Against his will, he was forced to help destroy the planet. He also would have never approved of the simulation if he was still on the ship at that time.": "科学家曾是科学委员会的首席研究员，是他发明了火把视野并发现了绿色火焰技术。违背自己的意愿，他被迫参与了毁灭家园的计划。若当时他依然在飞船上，他绝不会允许那虚拟世界的存在。",
     "The Scientist explains more about his family and how they died due to poor enviromnmental factors on The Stranger.": "科学家详述了他的家人，以及他们如何在外星站恶劣的环境条件下逐一离世。",
     "The Scientist describes life before his kind found The Eye. They were connected with nature, were very spiritual, and lived in happiness under the Ringed Giant. It was their superstition which caused them to destroy their home planet, just to reach The Eye. He also mentions that all animals from their old planet went extinct faster than they could preserve them.": "科学家描述了发现宇宙之眼前的生活图景。那时，他们与自然和谐共生，心灵虔诚澄澈，在环界星照拂下过着幸福安宁的日子。正是对宇宙之眼的迷信与执念，最终导致他们不惜摧毁家园也要追寻它的踪迹。他还提到，家园星球上的生物灭绝速度，远超过他们能够保存的能力。",
     "The Scientist got very uncomfortable when I brought up The Prisoner, but he did tell me that some of them miss him deep down. The Scientist also thinks it was too early for The Eye's signal to be let out.": "当我提及幽禁者时，科学家明显变得不安，但他确实透露，有些同族在内心深处依然思念着对方。科学家还认为，释放宇宙之眼的信号为时尚早。",
-    "The Scientist explained how terrifying life was on The Stranger. Many Strangers got so insane, they took their own lives. And if not, they starved to death due to lack of food. There were 55 crew members. 20 died, and 33 more got trapped in the simulation.": "科学家描述了外星站上那段噩梦般的岁月。许多居民在绝望中失去理智，选择了自我了断；幸存者则在食物短缺中缓慢走向死亡。飞船上共有55名船员，其中20人已死，另外33人被永远囚禁在那虚幻的模拟世界中。",
+    "The Scientist explained how terrifying life was on The Stranger. Many Strangers got so insane, they took their own lives. And if not, they starved to death due to lack of food. There were 55 crew members. 20 died, and 33 more got trapped in the simulation.": "科学家描述了外星站上那段噩梦般的岁月。许多外星站居民在绝望中失去理智，选择了自我了断；幸存者则在食物短缺中缓慢走向死亡。飞船上共有55名船员，其中20人已死，另外33人被永远囚禁在那虚幻的虚拟世界中。",
     "The Scientist also explains cloaked techonolgy. It can work on your ship without any customizations.": "科学家还解释了隐形技术的原理。它可以直接应用于你的飞船，无需任何改装。",
     "The Scientist describes leadership of his kind. It's made up of a council, but one leader ends up being more powerful than others. The leader they had was a tyrant, leaving people who refused to board The Stranger at home to die.": "科学家描述了他们种族的领导体制。名义上是由议会组成，但实际上总有一位领导者掌握着超出他人的权力。他们那时的领导者是个暴君，将所有拒绝登上外星站的人遗弃在家园等死。",
     "The Scientist tells me more about Angler's Eye. When travelling to check on their home moon, The Scientist and his family crashed into it because they miscalculated its orbit, which actually orbited both Dark Bramble and The Eye. It's also an \"evil twin\" of the Quantum Moon. The Scientist also mentions that the mineral on Angler's Eye will get you through the Hurricane unharmed.": "科学家向我详细讲述了安康鱼之眼的秘密。当年他带着家人前往考察家园卫星时，因为错误计算了它的轨道——这颗卫星实际同时环绕着黑棘星和宇宙之眼运行——导致他们坠毁于此。有趣的是，它被视为量子卫星的'邪恶双胞胎'。科学家还提到，安康鱼之眼上的特殊矿物能让你安然穿越那致命的飓风。",
@@ -1324,38 +1437,40 @@
 
     "Fourth Planet?": "第四颗行星？",
     "I've heard rumors of a fourth planet with a transforming surface.": "据传，在星系边缘处还存在着一颗表面不断变幻的神秘行星。",
-    "The Distant Enigma is the fourth planet of the Strangers' Homeworld.": "深域幻星是外星站居民星系的第四颗行星。",
+    "The Distant Enigma is the fourth planet of the Strangers' Homeworld.": "深域幻星是外星站居民母星系的第四颗行星。",
     "Bark hinted that this planet is quantum, and has three states.": "巴克曾暗示这颗行星具有量子特性，存在着三种不同的形态状态。",
-    "The first state has hard, dark ice, but seem to have some dents in them.": "第一种形态呈现为坚硬的暗色冰层，表面却布满了奇特的凹痕。",
-    "The second state has lakes of poisonous water.": "第二种形态则是一片片致命的剧毒湖泊。",
+    "The first state has hard, dark ice, but seem to have some dents in them.": "第一种形态拥有坚硬的暗色冰层，其表面却布满了奇特的凹痕。",
+    "The second state has lakes of poisonous water.": "第二种形态则有一片片致命的剧毒湖泊。",
     "The third state has thin, bright ice.": "第三种形态覆盖着一层薄而透亮的冰面。",
 
-    "Fourth Planet Traveler?": "第四颗行星旅行者？",
+    "Fourth Planet Traveler?": "第四颗行星的旅行者？",
     "Bark": "巴克",
     "According to Twig, the head of the Inhabitants' Space Program, there are other travelers, each carrying a signal. I sometimes hear one coming from the distance, of what could be a fourth planet.": "据太空计划负责人特威格所言，还有其他携带信号的旅行者散布在各处。我偶尔能捕捉到一个来自遥远星域的微弱信号，可能源自传说中的第四颗行星。",
-    "I met a travelling inhabitant named Bark, but he's only alive on the first state.": "我终于见到了一位名叫巴克的旅行居民，奇怪的是，他似乎只在这颗星球的第一种量子状态中存在。",
+    "I met a travelling inhabitant named Bark, but he's only alive on the first state.": "我终于见到了一位名叫巴克的旅行者，奇怪的是，他似乎只在这颗星球的第一种量子状态中存在。",
 
-    "Distant Enigma Lab": "深域幻星实验室",
+    "Distant Enigma Lab": "深域幻星的实验室",
     "I found a lab on Distant Enigma's First State.": "我在深域幻星的第一量子态中发现了一座实验室。",
     "Researchers found that Distant Enigma exists at the intersection of three timelines. They also mention the lab changes each state.": "研究人员发现深域幻星存在于三条时间线的交汇点。他们还提到实验室会随状态而变化。",
     "On the third state, they discovered a machine powered by a mineral. It was deemed too risky to interact with.": "在第三状态中，他们发现了一台由矿物驱动的机器。与之交互被认为风险过高。",
     "Shown in a picture on one of the tables is a scratch in the ice of the current state. The researchers say it marks the location of a light sensor submerged in the poison state. The sensor will be easier to find if an object that can emit light is placed near the scratch before changing states.": "桌上的一张图片显示了当前状态冰面上的划痕。研究人员称它标记了毒液状态中水下光传感器的位置。如果在切换状态前在划痕附近放置能发光的物体，将更容易找到传感器。",
     "Shown in a picture on one of the tables is a crack in the ice of the current state. The researchers say a heavy object here may shatter the ice in a different state.": "桌上的另一张图片显示了当前状态冰面上的裂缝。研究人员表示，在此处放置重物或许能在不同状态下击碎冰层。",
 
-    "Distant Enigma Broken Lab": "深域幻星破损实验室",
+    "Distant Enigma Broken Lab": "深域幻星的破损实验室",
     "I found a lab on Distant Enigma's Second State....but it's all broken.": "我在深域幻星的第二量子态中找到了一个实验室……但整个设施已经严重损毁。",
     "It seems the lab was broken and all operations in it were moved to the volcanic moon.": "看来这座实验室被毁后，所有研究活动都转移到了火山卫星上。",
     "According to some text I saw lying near the shores of the second state, research has proven photography the most effective way to increase the weight of a quantum object. It also states you only need to take a picture once, so you can remove the picture and change states once taken.": "根据我在第二状态海岸边发现的文献记载，研究证实摄影是增加量子物体重量最有效的方法。文中特别指出，只需拍摄一次照片，即使随后销毁照片，也能成功改变物体状态。",
 
-    "Distant Enigma Blocked Lab": "深域幻星封锁实验室",
+    "Distant Enigma Blocked Lab": "深域幻星的封锁实验室",
     "I found a lab on Distant Enigma's Third State, but it seems blocked...": "我在深域幻星的第三量子态中发现了一座实验室，但入口似乎被封锁了……",
     "I made my way into the blocked lab with the door interface hidden beneath the liquid on the second state! Behind the door is an odd machine...": "我通过第二状态中隐藏在液体下的控制界面成功进入了这座封锁实验室！门后是一台奇特的装置……",
+    "It seems the lab was torn down and all operations within were moved to the volcanic moon.": "看起来实验室已被关闭，所有的研究行动都被转移到火山卫星上。",
+    "According to some text I saw lying near the shores of the second state, taking a photo of a quantum object increases that object's weight. This effect persists, so a photo can be taken once and then put away.": "根据我在第二量子态的海岸边看到的文献记载，给量子物体拍照即可增加它的质量。这一效果永久生效，只需拍摄一次便无需再管。",
     "Studies show that something natural on the planet once caused the ice on this state to break.": "研究显示，这颗行星上的某种自然现象曾导致这一状态下的冰层自然破裂。",
     "Some text next to the machine explains its capabilities of weakening quantum objects. This decreases their range, which causes their weight to increase.": "机器旁的说明文字详细解释了该设备削弱量子物体的原理——通过减小量子叠加态的波函数范围，从而使其物质重量增加。",
 
     "Distant Enigma Base": "深域幻星基地",
     "I found a base on Distant Enigma's First State. It doesn't seem to appear on the second or third states.": "我在深域幻星的第一量子态中发现了一处隐秘基地，奇怪的是，它在其他两种量子态中完全消失不见。",
-    "The Strangers' Inhabitants set up a biometric authentication system to prevent alien espionage.": "外星站居民设置了生物识别认证系统，以防范外星间谍活动。",
+    "The Strangers' Inhabitants set up a biometric authentication system to prevent alien espionage.": "居民设置了生物识别认证系统，以防范外星间谍活动。",
     "The biometrics are flawed, and will unlock in the presence of a deceased inhabitant skull.": "然而，这套生物识别系统存在致命缺陷——只要持有一具居民的头骨，任何人都能轻易通行。",
 
     "Fourth Planet Socket?": "第四颗行星插槽？",
@@ -1363,21 +1478,22 @@
     "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a rocky, magenta planet. Could this be the fourth planet?": "在环界星上，我看到一处废弃的结构，其中一个插槽上镶嵌着一颗岩质品红色行星的图案。这会是传说中的第四颗行星吗？",
     "I found a square piece of metal under the ice of the third state. It looks like it fits somewhere...": "我在第三量子态的冰层下发现了一块方形金属片，看起来恰好能嵌入那个结构中……",
 
-    "Distant Enigma Stalls?": "深域幻星摊位？",
-    "Quantum Stalls": "量子摊位",
-    "A few inhabitant-sized stalls are found throughout Distant Enigma. What is their purpose?": "在整个深域幻星中发现了几处居民大小的摊位，它们的用途是什么？",
-    "The stalls change the state of Distant Enigma!": "这些摊位能改变深域幻星的状态！",
+    "Distant Enigma Stalls?": "深域幻星设施？",
+    "Quantum Stalls": "量子设施",
+    "A few inhabitant-sized stalls are found throughout Distant Enigma. What is their purpose?": "在整个深域幻星中发现了几处居民大小的设施，它们的用途是什么？",
+    "The stalls change the state of Distant Enigma!": "这些设施能改变深域幻星的状态！",
 
     "Hidden Interface": "隐藏界面",
     "Hidden Light Sensor": "隐藏光传感器",
-    "There's a light sensor that will open the way to the lab on the thin-ice state. I need to use something that emits light and takes pictures.": "在薄冰量子态的实验室入口处有一个光传感器，只需使用既能发光又能拍照的物品，它便能开启通路。",
-    "I found an interface with my scout using the scratch marks and changing states.": "我利用划痕标记和量子态切换，成功用侦察探针激活了隐藏的界面。",
+    "Hidden Light Sensor?": "隐藏光传感器？",
+    "There's a light sensor that will open the way to the lab on the thin-ice state. I need to use something that emits light and takes pictures.": "在薄冰量子态的实验室入口处有一个光传感器，只需使用既能发光又能拍照的物品，它便能开启通道。",
+    "I found an interface with my scout using the scratch marks and changing states.": "我利用划痕标记和不同的量子态，成功用小侦察兵激活了隐藏的界面。",
 
     "Surface Crack?": "表面裂缝？",
     "Surface Crack": "表面裂缝",
     "There's a picture showing cracks on the dark-ice state. Some text says it's diagonally to the right of the lab from where you exit.": "有一张图片显示了暗冰量子态下的裂缝。文字说明它位于你离开实验室时右上方的对角线方向。",
     "Bark says he found the crack by his ship near the lab.": "巴克说他在实验室附近的飞船旁发现了这处裂缝。",
-    "I found a crack on Distant Enigma's first state, by Bark's Ship.": "我在深域幻星第一量子态中，就在巴克飞船旁边，找到了那处神秘裂缝。",
+    "I found a crack on Distant Enigma's first state, by Bark's Ship.": "我在深域幻星第一量子态中，在巴克飞船旁边找到了那处神秘裂缝。",
 
     "Surface Scratch?": "表面划痕？",
     "Surface Scratch Marks": "表面划痕标记",
@@ -1401,7 +1517,7 @@
     "Ringed Giant Traveler?": "环界星旅行者？",
     "Bush": "布什",
     "According to Twig, the head of the Inhabitants' Space Program, there are other travelers, each carrying a signal. I hear one coming from the Ringed Giant.": "据特威格——居民太空计划负责人说，还有其他旅行者，每人都携带着一个信号。我听到有一个信号来自环界星。",
-    "I met a travelling inhabitant named Bush!": "我遇到了一位名叫布什的流浪居民！",
+    "I met a travelling inhabitant named Bush!": "我遇到了一位名叫布什的旅行者！",
     "Bush says there's not much else to do here other than find the campground.": "布什说，这里除了找露营地之外没什么可做的。",
 
     "Campsite?": "露营地？",
@@ -1419,7 +1535,7 @@
     "I have entered a mysterious structure left by The Scientist.": "我已进入科学家留下的神秘建筑。",
     "This laboratory is orbiting around the Ringed Giant! It must be a station used for terraforming!": "这个实验室正环绕着环界星运行！它一定是一座用于地球化改造的空间站！",
 
-    "Tree Room": "树屋",
+    "Tree Room": "植树房间",
     "There is a room with a single tree in it.": "里面有一个只有一棵树的房间。",
     "A piece of text on the wall says the trees are healthy and are ready to be planted.": "墙上的一段文字写着：这些树木生长健康，已准备好栽种。",
 
@@ -1431,13 +1547,13 @@
     "A piece of text on the table reveals The Scientist and The Prisoner are brothers!": "桌上的文字揭示：科学家和幽禁者是兄弟！",
 
     //strandedvessel
-    "Stranded Vessel": "搁浅飞船",
+    "Stranded Vessel": "搁浅的飞船",
     "There is a beaten up Nomai Vessel on the outskirts of this star system.": "在该恒星系统的边缘，有一艘破旧的挪麦飞船。",
     "Communication Boards": "通讯板",
-    "On the Vessel's incoming message board, other Nomai clans try to check in with this Vessel's clan. Due to a threatening message, the Nomai placed a no-warp zone around our solar neighborhood!": "在飞船的接收留言板上，其他挪麦氏族试图与这艘飞船所属氏族取得联系。由于一则威胁性消息，挪麦人已在我们太阳系邻域设置了禁跃区。",
-    "On the Vessel's outgoing message board, there is some poorly written Nomai message. The message threatens Nomai and other travelers not to warp to this system.": "在飞船的发送留言板上，有一则写得拙劣的挪麦信息。该信息威胁挪麦人及其他旅行者不要跃迁至此系统。",
+    "On the Vessel's incoming message board, other Nomai clans try to check in with this Vessel's clan. Due to a threatening message, the Nomai placed a no-warp zone around our solar neighborhood!": "在飞船的接收留言板上，其他挪麦家族试图与这艘飞船所属家族取得联系。由于一则威胁性消息，挪麦人已在我们太阳系周围设置了禁止跃迁区！",
+    "On the Vessel's outgoing message board, there is some poorly written Nomai message. The message threatens Nomai and other travelers not to warp to this system.": "在飞船的发送留言板上，有一则写得拙劣的挪麦信息。该信息威胁挪麦人及其他旅行者不要跃迁至此星系。",
     "Vessel Vision": "飞船异象",
-    "According to a vision I saw on the Stranded Vessel, the Strangers burnt all the Nomai in the Vessel alive! They also wrote that outgoing threat message with the vision torch and one of the Nomai staffs.": "根据我在搁浅飞船上看到的异象，外星站居民将飞船内所有挪麦人活活烧死！他们还用火把视野和一根挪麦权杖写下了那则发送的威胁信息。",
+    "According to a vision I saw on the Stranded Vessel, the Strangers burnt all the Nomai in the Vessel alive! They also wrote that outgoing threat message with the vision torch and one of the Nomai staffs.": "根据我在搁浅飞船上看到的异象，居民们将飞船内所有挪麦人活活烧死！他们还用火把视野和一根挪麦手杖写下了那则被发送的威胁信息。",
     "Stranded Vessel Coordinates": "搁浅飞船坐标",
     "The Stranded Vessel's hologram shows a set of coordinates.": "搁浅飞船的全息影像显示了一组坐标。",
     "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.": "根据一段挪麦录音，显示的坐标就是用于跃迁至此的坐标。显然，这些坐标本应大致估算出艾斯科尔的位置。",
@@ -1450,95 +1566,42 @@
     "The vision torch contained a vision of three inhabitants of the Stranger landing on Timber Hearth where they ate some of our primitive ancestors as food! They flew back to what looks to be Dark Bramble before it overgrew.": "火把视野展示了一幅异象：三位外星站居民降落在木炉星，将我们尚处鱼形阶段的祖先当成食物！在这之后便飞往了未被完全侵蚀前的黑棘星。",
     "Slate's Request": "斯雷特的请求",
     "Slate wants me to investigate a strange signal.": "斯雷特希望我调查这个奇异信号。",
-    "Slate sounded horrified when I told them about our kind being eaten by the three inhabitants that visited. I think they've gone vegan!": "当我告诉斯雷特有三位来访者吃掉了我们种族的部分成员时，他听起来惊恐不已。我想他们可能已经转为纯素食者了！",
+    "Slate sounded horrified when I told them about our kind being eaten by the three inhabitants that visited. I think they've gone vegan!": "当我告诉斯雷特三位来访者曾以我们种族为食时，他听起来惊恐不已。我想他可能已经变为纯素食者了！",
 
     //volcano
-
     "Volcano Moon?": "火山卫星？",
     "Burning Bombardier": "烈焰卫星",
     "Orbiting the crimson gas giant is a volcanic moon. Could there perhaps be something on it?": "围绕着绯红气态巨星运行的是一颗火山卫星。或许上面有什么东西？",
     "Burning Bombardier is Velvet Vortex's volcanic moon.": "烈焰卫星是绯旋星的火山卫星。",
-    "If you reach a low enough elevation, you will start taking heat damage.": "如果你到达足够低的海拔，就会开始受到热伤害。",
+    "If you reach a low enough elevation, you will start taking heat damage.": "如果你到达的海拔足够低，就会开始受到热伤害。",
 
     "Burning Bombardier Base": "烈焰卫星基地",
     "Pine said there was a base somewhere on Velvet Vortex's Moon.": "派恩曾提到，绯旋星的卫星上藏有一座秘密基地。",
     "There is a base wedged in between two volcanoes on Burning Bombardier.": "烈焰卫星上有一座基地，巧妙地隐匿于两座活火山之间。",
-    "The Strangers' Inhabitants founded a Ministry of Defense in response to \"anomalies\" like one that just happened.": "外星站居民为应对近期发生的一系列'异常现象'，特意成立了国防部。",
-    "The Inhabitants claimed they have made several nuclear warheads for \"Operation Phoenix\".": "居民文献中声称，他们已为'凤凰行动'研制了多枚核弹头。",
+    "The Strangers' Inhabitants founded a Ministry of Defense in response to \"anomalies\" like one that just happened.": "居民们为应对近期发生的一系列“异常现象”，特意成立了国防部。",
+    "The Inhabitants claimed they have made several nuclear warheads for \"Operation Phoenix\".": "居民的文献中声称，他们已为“凤凰行动”研制了多枚核弹头。",
     "An anomaly from Dark Bramble caused panic within the system, several inhabitants fearing another loss of their homeworld.": "来自黑棘星的异常现象在整个星系引发恐慌，许多居民担忧他们将再度失去家园。",
     "A clock in the military base shows every 11 minutes with a symbol.": "军事基地内的特殊时钟每隔11分钟就会显示一个神秘符号。",
-    "The text here says the desert planet will lose its atmosphere at \"star time\".": "这里的记录表明，沙漠行星将在'恒星时刻'失去其大气层。",
-    "This text here mentions a \"seal\", and it will be burned by lava at \"ring time\".": "另一处记录则提到某个'封印'将在'环时'被熔岩彻底焚毁。",
+    "The text here says the desert planet will lose its atmosphere at \"star time\".": "这里的记录表明，沙漠行星将在“恒星时刻”失去其大气层。",
+    "This text here mentions a \"seal\", and it will be burned by lava at \"ring time\".": "另一处记录则提到某个“封印”将在“圆环时刻”被熔岩彻底焚毁。",
 
     "Volcano Moon Socket?": "火山卫星插槽？",
     "Burning Bombardier Seal": "烈焰卫星封印",
     "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.": "在环界星上，我看到一座废弃的建筑，其中一个插槽上有一张火山气态巨星的图片。",
     "I found a square piece of metal in one of the volcanoes. It looks like it fits in the structure...": "我在其中一座火山中发现了一块方形金属片，看起来正好能装入那座结构中……",
 
-    // ANGLERS_EYE_SIGNALHOUSE_POEMTEXT
-    "One of the texts on the wall reads out some sort of poem stanza...": "墙上有段文字，看似诗句的一部分……",
-    "The text on the left of the table reads out some sort of poem stanza...": "桌子左侧的文字似乎在默诵着几行残缺的诗句……",
-
-    // PREBRAMBLE_WARP_MAIN_E
-    "There is a mysterious house to the left of the green campfire. Each gateway has a unique emblem.": "在绿色篝火的左侧，有一座神秘的房子，每个出入口都镶嵌着独具匠心的徽章。",
-
-    // PREBRAMBLE_PROJ1_TEXT
-    "The text on the left explains how to perform an exploit, which involves walking away from The Artifact. Glitched tiles might also appear when the solar sails activate, but deactivates 7 minutes later.": "左侧文字说明了一种利用方法，即远离文物出现的数字化世界；当太阳帆激活时，还可能产生故障瓷砖，但这些现象在7分钟后会消失。",
-
-    // PREBRAMBLE_PROJ2_TEXT
-    "The text in the middle reveals that using focus in the simulation can cause you to sneak, and even prevent from falling off edges. This will help me in cautious and stealthy scenarios.": "中间的文字表明，在模拟世界中使用聚焦功能可以使你能够潜行，甚至防止从边缘坠落，这对我在需要谨慎和隐秘行动的场合十分有利。",
-
-    // some missing translations
-    "The machine is tuned to increase the quantum weight of nearby quantum objects, thus decreasing their range.": "这台机器被调校为增加附近量子物体的量子质量，从而减小它们的波函数范围。",
-    "The engineers determined that the machine is safe to interact with.": "工程师们已确认与该机器交互是安全的。",
-
-    "No, we're at my home system. I want you to meet your distant grandfather.": "不，我们在我的家园星系。我想让你见见你远方的祖父。",
-    "The simulation on your kind's ship has a data clone of him. Let's go!": "你们种族的飞船上有他的数据克隆。我们走吧！",
-    "Your brother taught me.": "你哥哥教过我。",
-    "You have a distant grandnephew waiting for you.": "你有一个远房侄子在等你。",
-    "Yep, he terraformed home. It's as good as new.": "没错，他对家园进行了地球化改造。现在和新的一样。",
-    "I'll take you to him. Follow me!": "我带你去见他。跟我来！",
-    "I'm not ready yet.": "我还没准备好。",
-    "Well said, Xylo!": "说得好，赛洛！",
-    "Well, okay then. Take your time. We have all the time in the universe now.": "好吧，那就慢慢来。我们现在有的是时间。",
-    "Well then, Hatchling. Welcome to your new home.": "那么，小家伙，欢迎来到你的新家。",
-
-    // v2.7.0: NEW PUZZLES AND SHORTCUT
+    //备用
+    "The text in the middle reveals that using focus in the simulation can cause you to sneak, and even prevent from falling off edges. This will help me in cautious and stealthy scenarios.": "中间的文字表明，在虚拟世界中使用聚焦功能可以使你能够潜行，甚至能防止从边缘坠落。这对我在需要谨慎和隐秘行动的场合十分有利。",
     "Enter the two codes and access to the Mineral will be unlocked.": "输入两个密码即可解锁矿物的访问权限。",
-    "Mineral Display Case": "矿物展示柜",
-    "There is a mineral inside a glass display, which is directly connected to the green fire nearby.": "玻璃展示柜内有一块矿物，它与附近的绿色火焰直接相连。",
-    "I was able to unlock the glass display by entering a series of codes in the Preserved Planet's Archives.": "我通过在保存行星档案馆中输入一系列密码成功解锁了玻璃展示柜。",
-    "The mineral inside the display can be picked up.": "展示柜内的矿物可以拾取。",
-    "An observation deck can be found not far from the Signal House.": "在信号屋不远处可以找到一个观景台。",
-    "According to an observation, The Hourglass Twins once had water flowing on their surfaces, and that all planets in our star system once had some form of water on them.": "根据一项观察记录，沙漏双星曾经表面有水流动，我们星系中的所有行星都曾经有某种形式的水。",
-    "According to another observation, the author knew of the Quantum Moon, its sixth location, and that it appeared to be similar in nature to Angler's Eye.": "另一项观察显示，作者知晓量子卫星及其第六个位置，并认为它在本质上似乎与安康鱼之眼相似。",
-    "The author of the writings observed Dark Bramble and saw something groundbreaking. Said author mentioned taking this observation to the archives.": "文字作者观察了黑棘星并看到了突破性的发现。该作者提到要将这一观察记录存入档案。",
-    "Warp House": "传送屋",
-    "There was mention about an archive somewhere on Angler's Eye.": "曾提到在安康鱼之眼的某处有一个档案馆。",
-    "Bramble Archives Code Switch": "荆棘档案密码开关",
-    "Mineral Display Connection?": "矿物展示连接？",
-    "The glass display appears to be connected to the Angler's Eye Green Fire in some way.": "玻璃展示柜似乎以某种方式与安康鱼之眼的绿色火焰相连。",
-    "Inside the archives are two code totems and a mural of the mineral.": "档案馆内有两个密码图腾和一幅矿物壁画。",
-    "Inputting the codes seemed to play a sound and change the mural on the wall. It's likely that something changed in the real world.": "输入密码似乎会播放声音并改变墙上的壁画。现实世界中很可能发生了某些变化。",
-    "The two totems are the key to opening the mineral's display case.": "这两个图腾是打开矿物展示柜的关键。",
-    "Archives Left Vision Torch": "档案馆左侧火把视野",
-    "A vision torch can be seen kneeling on the left totem.": "可以看到一个火把视野跪在左侧图腾上。",
-    "A vision torch on the left showed me where I can find a code for the totem.": "左侧的火把视野向我展示了在哪里可以找到图腾的密码。",
-    "Archives Right Vision Torch": "档案馆右侧火把视野",
-    "A vision torch can be seen kneeling on the right totem.": "可以看到一个火把视野跪在右侧图腾上。",
-    "A vision torch on the right showed me where I can find a code for the totem.": "右侧的火把视野向我展示了在哪里可以找到图腾的密码。",
-    "Isolated Swamp Code": "孤立沼泽密码",
-    "Right Code Location": "右侧密码位置",
-    "I found the codes in the Isolated Swamp Archives near the topmost elevator.": "我在孤立沼泽档案馆最顶层电梯附近找到了密码。",
-    "Preserved Planet Code": "保存行星密码",
-    "Left Code Location": "左侧密码位置",
-    "I found the codes in the Preserved Planet's caves near the elevator.": "我在保存行星洞穴的电梯附近找到了密码。",
-    "Archives Shortcut Reel": "档案馆捷径卷轴",
-    "A slide reel shows how to access a shortcut to the Bramble Archives involving a gear interface not far from the starting fire.": "一卷幻灯片展示了如何通过距离起始火焰不远的齿轮界面进入荆棘档案馆的捷径。",
-    "Archives Shortcut": "档案馆捷径",
-    "Shortcut Location": "捷径位置",
-    "There is a shortcut to the Bramble Archives involving a gear interface not far from the starting fire.": "距离起始火焰不远处有一个通往荆棘档案馆的捷径，需要使用齿轮界面。",
-    "I found the shortcut to the Bramble Archives not far from the starting fire.": "我在距离起始火焰不远的地方找到了通往荆棘档案馆的捷径。"
+
+    "One of the texts on the wall reads out some sort of poem stanza...": "墙上的一段文本记述着某种诗文短句……",
+
+    "There is a mysterious house to the left of the green campfire. Each gateway has a unique emblem.": "绿色篝火左侧有一座神秘小屋，每道传送门都带有专属标识。",
+
+    "The text on the left explains how to perform an exploit, which involves walking away from The Artifact. Glitched tiles might also appear when the solar sails activate, but deactivates 7 minutes later.": "左侧的文字讲解了一种利用漏洞的方法，操作方式是远离文物。太阳帆启动时也可能出现贴图异常，但这会在七分钟后自行消失。",
+
+    "The machine is tuned to increase the quantum weight of nearby quantum objects, thus decreasing their range.": "这台机器经过调校，能够提升周边量子物体的量子质量，从而缩小其波函数范围。",
+    "The engineers determined that the machine is safe to interact with.": "工程师们确认与这台机器交互是安全的。"
   },
 
   "UIDictionary": {
@@ -1564,7 +1627,7 @@
     "Distant Enigma": "深域幻星",
     "Distant Enigma Shard": "深域幻星碎片",
     "Homeworld Quantum Shard": "家园量子碎片",
-    "UNKNOWN": "未知",
+    "UNKNOWN": "<![CDATA[<i>未知</i>]]>",
     "The Scientist": "科学家",
     "Cypress": "塞普雷斯",
     "Pine": "派恩",
@@ -1585,7 +1648,8 @@
 
     "Angler's Eye": "安康鱼之眼",
     "Ringed Laboratory": "环状实验室",
-    "Nearest Neighbor": "Nearest Neighbor",
+    "Nearest Neighbor": "最近的邻居星系",
+    "NEAREST NEIGHBOR": "<![CDATA[<i>最近的邻居星系</i>]]>",
     "Strangers' Homeworld": "居民家园",
     "Burning Bombardier": "烈焰卫星",
     "Sizzling Sands": "炙热沙海",
@@ -1601,24 +1665,24 @@
 
   "AchievementTranslations": {
     "tsta_thevision": {
-      "Name": "视觉",
+      "Name": "The Vision",
       "Description": "对所莱内姆使用火把视野。"
     },
     "tsta_mindscapes": {
-      "Name": "心境",
+      "Name": "Mindscapes",
       "Description": "对斯雷特使用火把视野。"
     },
     "tsta_redpilled": {
-      "Name": "红色解药",
-      "Description": "永久激活模拟模式。"
+      "Name": "红色药丸",
+      "Description": "永久激活虚拟模式。"
     },
     "tsta_ghostbusters": {
-      "Name": "幽灵猎手",
-      "Description": "移除所有模拟中的居民。"
+      "Name": "捉鬼敢死队",
+      "Description": "移除所有虚拟空间中的居民。"
     },
     "tsta_sudormrf": {
       "Name": "sudo rm -rf /*",
-      "Description": "No such file or directory."
+      "Description": "无此文件或库。"
     },
     "tsta_followyourdreams": {
       "Name": "追随你的梦想",
@@ -1637,12 +1701,13 @@
       "Description": "让自己被戏弄一番。"
     },
     "tsta_gangnam": {
-      "Name": "外星站风格!",
-      "Description": "找到外星站款。"
+      "Name": "居民Style!",
+      "Description": "找到居民Style。"
     },
     "tsta_reunion": {
       "Name": "家庭团聚",
       "Description": "将赛普雷斯介绍给科学家和幽禁者。"
     }
   }
+
 }
