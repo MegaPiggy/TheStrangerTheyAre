@@ -105,14 +105,14 @@
 				"minDistance": 10,
 				"detectionRadius": 400,
 				"identificationRadius": 10,
-				"parentPath": "Sector/ENIGMA_TRAVELER",
+				"parentPath": "Sector/STATE1_TENT/ENIGMA_TRAVELER",
 				"isRelativeToParent": true
 			}
 		],
 		"dialogue": [
 			{
 				"xmlFile": "dialogue/NewTravelers/Enigma.xml",
-				"parentPath": "Sector/ENIGMA_TRAVELER",
+				"parentPath": "Sector/STATE1_TENT/ENIGMA_TRAVELER",
 				"isRelativeToParent": true,
 				"position": {
 					"y": 1
@@ -336,7 +336,7 @@
 			{
 				"assetBundle": "assets/AssetBundle/strangerbundle",
 				"path": "Assets/StrangerTravelers/Enigma/Enigma_T1.prefab",
-				"parentPath": "Sector/STATE1_Tent",
+				"parentPath": "Sector/STATE1_TENT",
 				"isRelativeToParent": true,
 				"rename": "ENIGMA_TRAVELER",
 				"position": {

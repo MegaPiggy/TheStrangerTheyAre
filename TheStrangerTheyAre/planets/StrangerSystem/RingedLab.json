@@ -109,19 +109,6 @@
 					"y": 7.3237,
 					"z": 2.0688
 				}
-			},
-			{
-				"type": "whiteHole",
-				"horizonRadius": 1,
-				"rename": "RingedLabWarp5_WH",
-				"uniqueID": "RingedLabWarp5_WH",
-				"pairedSingularity": "RingedLabWarp5_BH",
-				"hasWarpEffects": false,
-				"position": {
-					"x": 0.4192,
-					"y": 7.3237,
-					"z": 2.0688
-				}
 			}
 		],
 		"dialogue": [
@@ -232,7 +219,7 @@
 			},
 			{
 				"reveals": [ "LAB_MAIN_E" ],
-				"parentPath": "Sector/RingedLaboratory/Interactibles/GraVolumes/ZeroG",
+				"parentPath": "Sector/RingedLaboratory/Interactibles/GraVolumes/Gravity (2)",
 				"isRelativeToParent": true,
 				"radius": 12,
 				"revealOn": "enter",

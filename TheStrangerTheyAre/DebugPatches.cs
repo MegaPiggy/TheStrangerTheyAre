@@ -1,4 +1,9 @@
-﻿namespace TheStrangerTheyAre;
+﻿/*using HarmonyLib;
+using UnityEngine;
+using NewHorizons.Utility;
+using OWML.Common;
+
+namespace TheStrangerTheyAre;
 
 #if DEBUG
 [HarmonyPatch]
@@ -451,4 +456,4 @@ public class DebugPatches
         TheStrangerTheyAre.WriteLine($"AudioVolume.Deactivate called on instance of type: {__instance.GetType().FullName}", MessageType.Error);
     }
 }
-#endif
+#endif*/
