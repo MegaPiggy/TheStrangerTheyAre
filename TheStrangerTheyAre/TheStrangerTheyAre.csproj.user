@@ -6,8 +6,13 @@
     <OuterWildsModsDirectory>$(HOME)/.local/share/OuterWildsModManager/OWML/Mods</OuterWildsModsDirectory>
   </PropertyGroup>
   <PropertyGroup>
+    <CopyUnityBundles>true</CopyUnityBundles>
+    
     <OutputPath>$(OuterWildsModsDirectory)/AnonymousStrangerOW.TheStrangerTheyAre/</OutputPath>
+    <UnityPath>$(USERPROFILE)\Desktop\Apps\Gamerip\outer-wilds-unity-assets-main\</UnityPath>
+    <!--
     <UnityPath>D:/tsta-unity/</UnityPath>
+    -->
     <UnityDllsDir>$(UnityPath)Assets/</UnityDllsDir>
     <UnityBundlesDir>$(UnityPath)AssetBundles/StandaloneWindows/</UnityBundlesDir>
   </PropertyGroup>

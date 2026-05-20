@@ -75,22 +75,16 @@
 	<Target Name="BuildPdb" AfterTargets="Build">
 		<Copy SourceFiles="$(OutputPath)$(AssemblyName).pdb" DestinationFolder="$(UnityDllsDir)" />
 	</Target>
-	<Target Name="PreBuildPostCredits" BeforeTargets="Build">
-		<Copy SourceFiles="$(UnityBundlesDir)postcredits" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-	</Target>
-	<Target Name="PreBuildPostCreditsManifest" BeforeTargets="Build">
-		<Copy SourceFiles="$(UnityBundlesDir)postcredits.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-	</Target>
-	<Target Name="PreBuildMain" BeforeTargets="Build">
-		<Copy SourceFiles="$(UnityBundlesDir)strangerbundle" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-	</Target>
-	<Target Name="PreBuildMainManifest" BeforeTargets="Build">
-		<Copy SourceFiles="$(UnityBundlesDir)strangerbundle.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-	</Target>
-	<Target Name="PreBuildTitle" BeforeTargets="Build">
-		<Copy SourceFiles="$(UnityBundlesDir)title" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
-	</Target>
-	<Target Name="PreBuildTitleManifest" BeforeTargets="Build">
-		<Copy SourceFiles="$(UnityBundlesDir)title.manifest" DestinationFolder="$(OutputPath)/assets/AssetBundle" />
+	<Target Name="CopyUnityBundles" BeforeTargets="Build" Condition="'$(CopyUnityBundles)' == 'true'">
+		<ItemGroup>
+			<UnityBundleFiles Include="$(UnityBundlesDir)postcredits" />
+			<UnityBundleFiles Include="$(UnityBundlesDir)postcredits.manifest" />
+			<UnityBundleFiles Include="$(UnityBundlesDir)strangerbundle" />
+			<UnityBundleFiles Include="$(UnityBundlesDir)strangerbundle.manifest" />
+			<UnityBundleFiles Include="$(UnityBundlesDir)title" />
+			<UnityBundleFiles Include="$(UnityBundlesDir)title.manifest" />
+		</ItemGroup>
+
+		<Copy SourceFiles="@(UnityBundleFiles)" DestinationFolder="$(OutputPath)assets\AssetBundle" SkipUnchangedFiles="true" Condition="'@(UnityBundleFiles)' != ''" />
 	</Target>
 </Project>
