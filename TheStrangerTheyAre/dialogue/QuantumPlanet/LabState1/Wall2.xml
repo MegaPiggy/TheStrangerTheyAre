@@ -4,7 +4,7 @@
 		<Name>Wall2</Name>
 		<EntryCondition>DEFAULT</EntryCondition>
 		<Dialogue>
-			<Page>Orders from HQ: Do not interfere with the peculiar machine inside the lab on the planet's bright ice state. Our engineers believe it can be powered by a mineral with special properties, but its effects are unknown. The machine has been deemed harzardous until we can be fully certain it is safe.</Page>
+			<Page>Orders from HQ: Do not interfere with the peculiar machine inside the lab on the planet's bright ice state. Our engineers believe it can be powered by a mineral with special properties, but its effects are unknown. The machine has been deemed hazardous until we can be fully certain it is safe.</Page>
 		</Dialogue>
 		<RevealFacts>
 			<FactID>QUANTUM_S1_LAB_TEXT2</FactID>

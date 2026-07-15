@@ -348,7 +348,7 @@
       "Still, worth a shot, right?": "それでも、試す価値はあるだろう？&lt;i&gt;&lt;/i&gt;",
       "Alright, do whatever you want.": "わかった、好きにしてみるといい。&lt;i&gt;&lt;/i&gt;",
       "No, just give up and die.": "いや、諦めて死を受け入れるんだ。&lt;i&gt;&lt;/i&gt;",
-      "Well, I sent out a probe out to interstellar space with all of our information on it. When we're all dead, there's no alien invasion to worry about, right?": "私らの情報をすべて搭載した探査機を星間空間に送ったんだ。私らが皆死んでしまえば、異星人の侵略を心配する必要もなくなるからね？&lt;i&gt;&lt;/i&gt;",
+      "Well, I sent out a probe into interstellar space with all of our information on it. When we're all dead, there's no alien invasion to worry about, right?": "私らの情報をすべて搭載した探査機を星間空間に送ったんだ。私らが皆死んでしまえば、異星人の侵略を心配する必要もなくなるからね？&lt;i&gt;&lt;/i&gt;",
       "Can I find it?": "それは私にも見つけられる？&lt;i&gt;&lt;/i&gt;",
       "Yeah, true.": "ああ、わかった。",
       "No I will not! What else is there to do? Go bother someone else with that attitude!": "絶対にそんなことはしないぞ！他に何ができるというんだ？そんな態度で他の誰かを困らせに行け！&lt;i&gt;&lt;/i&gt;",
@@ -683,7 +683,7 @@
       "This technology is fascinating...": "この技術は魅力的だ…&lt;i&gt;&lt;/i&gt;",
       "Do you know what it does?": "これは何をするものか知ってる？&lt;i&gt;&lt;/i&gt;",
       "You remind me of my friend Riebeck who loves ancient architecture.": "あなたを見てると古代建築が大好きな友人のRiebeckを思い出す。&lt;i&gt;&lt;/i&gt;",
-      "Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things i found, and a campfire.": "表面やその下にはほとんど何もない。ここの南にキャンプがあるが、テントとちょっと私が見つけたもの、そして焚き火があるだけだ。&lt;i&gt;&lt;/i&gt;",
+      "Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things I found, and a campfire.": "表面やその下にはほとんど何もない。ここの南にキャンプがあるが、テントとちょっと私が見つけたもの、そして焚き火があるだけだ。&lt;i&gt;&lt;/i&gt;",
       "There is however a space station floating just above the planet. Since our home got terraformed, it's just been abandoned.": "あとは、惑星のすぐ上には宇宙ステーションが浮いてる。私たちの故郷がテラフォーミングされてから、それはただ放棄されたままになっている。&lt;i&gt;&lt;/i&gt;",
       "I've been there, that's where I came from.": "そこに行ったことがある。私はそこから来たんだ。&lt;i&gt;&lt;/i&gt;",
       "You have? What was in there? How did you get in? I thought the place was sealed off!": "行ったのか？中には何があったんだ？どうやって入ったんだ？その場所は封鎖されていると思ってた！&lt;i&gt;&lt;/i&gt;",
@@ -940,7 +940,7 @@
       "We know that this enemy is not of our kind, so we can protect our most important bases from enemy espionage using biometric scanners.": "この敵が私たちの同類でないことはわかっているので、生体認証スキャナーを使って最も重要な基地を敵のスパイ行為から保護することができる。&lt;i&gt;&lt;/i&gt;",
       "Our biometrics system makes no distinction between a living face and a deceased skull. Unfortunately, this flaw cannot be fixed, so we must take extra care to avoid being captured, dead or alive.": "私たちの生体認証システムは生きている顔と死んだ頭蓋骨を区別しない。残念ながらこの欠陥は修正できないため、死んでいようが生きていようが捕まらないように特別な注意を払わなければならない。&lt;i&gt;&lt;/i&gt;",
       "We've discovered that this planet is actually a convergence point where three timelines meet. As such, the three versions of this planet are not just states, but fragments of entirely different relities. After changing states using the stalls we built, we found alternate versions of this very laboratory. Could our actions here have affected these alternate timelines?": "この惑星は実際に3つの時間軸が交わる収束点であることがわかった。そのため、この惑星の3つのバージョンは単なる状態ではなく、全く異なる現実の断片だ。私たちが建設した小部屋を使って状態を変更した後、この研究所の代替版を発見した。ここでの私たちの行動がこれらの代替時間軸に影響を与えたのだろうか？&lt;i&gt;&lt;/i&gt;",
-      "Orders from HQ: Do not interfere with the peculiar machine inside the lab on the planet's bright ice state. Our engineers believe it can be powered by a mineral with special properties, but its effects are unknown. The machine has been deemed harzardous until we can be fully certain it is safe.": "本部からの命令：惑星の明るい氷の状態にある研究所内の特異な機械に干渉しないこと。私たちのエンジニアは、それが特殊な特性を持つミネラルによって動力を与えられる可能性があると考えているが、その効果は不明だ。完全に安全であることを確認できるまで、その機械は危険と見なされている。&lt;i&gt;&lt;/i&gt;",
+      "Orders from HQ: Do not interfere with the peculiar machine inside the lab on the planet's bright ice state. Our engineers believe it can be powered by a mineral with special properties, but its effects are unknown. The machine has been deemed hazardous until we can be fully certain it is safe.": "本部からの命令：惑星の明るい氷の状態にある研究所内の特異な機械に干渉しないこと。私たちのエンジニアは、それが特殊な特性を持つミネラルによって動力を与えられる可能性があると考えているが、その効果は不明だ。完全に安全であることを確認できるまで、その機械は危険と見なされている。&lt;i&gt;&lt;/i&gt;",
       "A submerged light sensor on the poison lake state is key to entering the lab on the thin-ice state. It is annoying to locate the sensor in its native state, but we cannot risk leaving the lab open all the time. Instead, we left scratches in the ice at the equivalent location in the current state. Placing a light-emitting marker there before changing states should make finding the sensor significantly easier.": "毒の湖の状態にある水中の光センサーは、薄い氷の状態にある研究所に入るための鍵である。元の状態でセンサーを見つけるのは面倒だが、研究所を常に開けておくリスクは負えないだろう。代わりに、現在の状態での同じ場所の氷に引っかき傷をつけた。状態を変更する前にそこに発光マーカーを置くと、センサーを見つけるのが大幅に簡単になるはずだ。&lt;i&gt;&lt;/i&gt;",
   
       //Wall4
@@ -1452,7 +1452,7 @@
       "According to a vision I saw on the Stranded Vessel, the Strangers burnt all the Nomai in the Vessel alive! They also wrote that outgoing threat message with the vision torch and one of the Nomai staffs.": "漂流船で見た幻影によると、流れ者の住人たちは船内のNomai全員を生きたまま焼いた！彼らはまた、ビジョントーチとNomaiのつえの一つを使ってあの威圧的な送信メッセージを書いた。",
       "Stranded Vessel Coordinates": "漂流船の座標",
       "The Stranded Vessel's hologram shows a set of coordinates.": "漂流船のホログラムは座標を示している。",
-      "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.": "Nomaiの記録によると、表示されている座標はここにワープするために使用された座標だ。どうやら、これらの座標はEscallの位置を大まかに推定したものだったようだ。",
+      "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough estimate of Escall's location.": "Nomaiの記録によると、表示されている座標はここにワープするために使用された座標だ。どうやら、これらの座標はEscallの位置を大まかに推定したものだったようだ。",
   
       //TIMBER_HEARTH
       "Timber Hearth Vision Torch": "木の炉辺のビジョントーチ",
