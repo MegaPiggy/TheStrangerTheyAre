@@ -346,7 +346,7 @@
     "Still, worth a shot, right?": "不过，还是值得一试，对吧？",
     "Alright, do whatever you want.": "好吧，想做什么就做什么吧。",
     "No, just give up and die.": "不，放弃然后等死吧。",
-    "Well, I sent out a probe out to interstellar space with all of our information on it. When we're all dead, there's no alien invasion to worry about, right?": "好吧，我向星际空间发射了一个探测器，上面有我们所有的信息。当我们都死了，就不用担心外星人入侵了，对吧？",
+    "Well, I sent out a probe into interstellar space with all of our information on it. When we're all dead, there's no alien invasion to worry about, right?": "好吧，我向星际空间发射了一个探测器，上面有我们所有的信息。当我们都死了，就不用担心外星人入侵了，对吧？",
     "Can I find it?": "我能找到它吗？",
     "Yeah, true.": "是啊，没错。",
     "No I will not! What else is there to do? Go bother someone else with that attitude!": "我不会的！还能做什么呢？带着这种态度去打扰别人吧！",
@@ -661,7 +661,7 @@
     "Do you need me to take you home?": "你需要我带你回家吗？",
     "Do you know anything about this planet?": "你了解这颗行星的情况吗？",
     "You remind me of my friend Chert who was afraid of our star dying.": "你让我想起了我的朋友切特，他很害怕我们的恒星会熄灭。",
-    "Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things i found, and a campfire.": "不，地表上面或下面都没什么东西。我在南边确实有个基地，不过那里只有一个帐篷、一堆篝火，以及我找到的一些东西。",
+    "Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things I found, and a campfire.": "不，地表上面或下面都没什么东西。我在南边确实有个基地，不过那里只有一个帐篷、一堆篝火，以及我找到的一些东西。",
     "Do you know how to find the scratch?": "你知道怎么找到那道划痕吗？",
     "Do you know how to find the crack?": "你知道怎么找到那条裂缝吗？",
     "C-c-cold....a-anything else?": "冷-冷冷……还-还有什么？",
@@ -928,7 +928,7 @@
     "We know that this enemy is not of our kind, so we can protect our most important bases from enemy espionage using biometric scanners.": "我们知道这敌人与我族迥异，因此可用生物识别扫描器保护我们最重要的基地，防止敌方间谍入侵。",
     "Our biometrics system makes no distinction between a living face and a deceased skull. Unfortunately, this flaw cannot be fixed, so we must take extra care to avoid being captured, dead or alive.": "我们的生物识别系统无法分辨活人面部与亡者头骨。不幸的是，这一缺陷无法修复，所以无论生死，我们都必须格外小心，避免被俘。",
     "We've discovered that this planet is actually a convergence point where three timelines meet. As such, the three versions of this planet are not just states, but fragments of entirely different relities. After changing states using the stalls we built, we found alternate versions of this very laboratory. Could our actions here have affected these alternate timelines?": "我们发现这颗行星实则是三条时间线的汇聚点。因此，这颗行星的三种形态并非仅是状态变化，而是完全不同现实的碎片。通过我们建造的切换站改变状态后，我们发现了同一实验室的多个异世版本。我们在此的行动是否已经影响了这些平行时间线？",
-    "Orders from HQ: Do not interfere with the peculiar machine inside the lab on the planet's bright ice state. Our engineers believe it can be powered by a mineral with special properties, but its effects are unknown. The machine has been deemed harzardous until we can be fully certain it is safe.": "总部命令：禁止干扰行星明亮冰态中实验室内的奇特机器。我们的工程师认为它可由特殊矿物驱动，但其效果尚不明确。在完全确认安全前，该机器被视为危险装置。",
+    "Orders from HQ: Do not interfere with the peculiar machine inside the lab on the planet's bright ice state. Our engineers believe it can be powered by a mineral with special properties, but its effects are unknown. The machine has been deemed hazardous until we can be fully certain it is safe.": "总部命令：禁止干扰行星明亮冰态中实验室内的奇特机器。我们的工程师认为它可由特殊矿物驱动，但其效果尚不明确。在完全确认安全前，该机器被视为危险装置。",
     "A submerged light sensor on the poison lake state is key to entering the lab on the thin-ice state. It is annoying to locate the sensor in its native state, but we cannot risk leaving the lab open all the time. Instead, we left scratches in the ice at the equivalent location in the current state. Placing a light-emitting marker there before changing states should make finding the sensor significantly easier.": "毒湖状态下的水下光传感器是进入薄冰状态实验室的关键。在原状态下定位传感器确实令人烦恼，但我们不能冒险让实验室一直开放。因此，我们在当前状态的对应位置在冰面上留下了划痕。在切换状态前在此处放置发光标记将大大简化寻找传感器的过程。",
 
     //Wall4
@@ -1556,7 +1556,7 @@
     "According to a vision I saw on the Stranded Vessel, the Strangers burnt all the Nomai in the Vessel alive! They also wrote that outgoing threat message with the vision torch and one of the Nomai staffs.": "根据我在搁浅飞船上看到的异象，居民们将飞船内所有挪麦人活活烧死！他们还用火把视野和一根挪麦手杖写下了那则被发送的威胁信息。",
     "Stranded Vessel Coordinates": "搁浅飞船坐标",
     "The Stranded Vessel's hologram shows a set of coordinates.": "搁浅飞船的全息影像显示了一组坐标。",
-    "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.": "根据一段挪麦录音，显示的坐标就是用于跃迁至此的坐标。显然，这些坐标本应大致估算出艾斯科尔的位置。",
+    "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough estimate of Escall's location.": "根据一段挪麦录音，显示的坐标就是用于跃迁至此的坐标。显然，这些坐标本应大致估算出艾斯科尔的位置。",
 
     //TIMBER_HEARTH
     "Timber Hearth Vision Torch": "木炉星火把视野",
