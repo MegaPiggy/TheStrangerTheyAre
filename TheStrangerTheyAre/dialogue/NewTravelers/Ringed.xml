@@ -62,7 +62,7 @@
 <DialogueNode> <!-- Another node why not -->
   <Name>1</Name>
   <Dialogue>
-   <Page>Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things i found, and a campfire.</Page>
+   <Page>Not much on or below the surface, no. I do have a camp south of here, but it's just a tent, some things I found, and a campfire.</Page>
    <Page>There is however a space station floating just above the planet. Since our home got terraformed, it's just been abandoned.</Page>
   </Dialogue>
 	<RevealFacts>

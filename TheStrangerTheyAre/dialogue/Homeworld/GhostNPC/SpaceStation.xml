@@ -108,7 +108,7 @@
 	<DialogueNode>
 		<Name>2B</Name>
 		<Dialogue>
-			<Page>Well, I sent out a probe out to interstellar space with all of our information on it. When we're all dead, there's no alien invasion to worry about, right?</Page>
+			<Page>Well, I sent out a probe into interstellar space with all of our information on it. When we're all dead, there's no alien invasion to worry about, right?</Page>
 		</Dialogue>
 		<DialogueOptionsList>
 			<DialogueOption>

@@ -53,7 +53,7 @@
 
             <ExploreFact> <!-- An explore fact that belongs to this entry -->
                 <ID>VESSEL_NOMWARP</ID> <!-- The ID of this fact -->
-                <Text>According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.</Text> <!-- The Text to display for this fact, notice how you can use color just like in dialogue -->
+                <Text>According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough estimate of Escall's location.</Text> <!-- The Text to display for this fact, notice how you can use color just like in dialogue -->
             </ExploreFact>
         </Entry>
     </Entry>
