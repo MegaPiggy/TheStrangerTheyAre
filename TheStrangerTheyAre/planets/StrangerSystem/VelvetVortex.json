@@ -843,5 +843,34 @@
 				}
 			]
 		}
-	]
+	],
+	"Spawn": {
+		"playerSpawnPoints": [
+			{
+				"rename": "SpawnPlayer_VelvetVortex_SpinLab",
+				"makeDefaultIfPersistentCondition": "TSTA_DEBUG",
+				"parentPath": "Sector/SpinLab",
+				"isRelativeToParent": true,
+				"offset": { "y": 0 },
+				"position": {
+					"x": 38,
+					"y": -13.25,
+					"z": 0
+				},
+				"alignRadial": true
+			},
+			{
+				"rename": "SpawnPlayer_VelvetVortex_Base",
+				"makeDefaultIfPersistentCondition": "TSTA_DEBUG",
+				"parentPath": "Sector/CG_ISLAND_LAB",
+				"isRelativeToParent": true,
+				"position": {
+					"x": -115.7868,
+					"y": 18.1351,
+					"z": -19.0698
+				},
+				"alignRadial": true
+			}
+		]
+	}
 }

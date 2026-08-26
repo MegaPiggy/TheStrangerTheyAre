@@ -393,5 +393,24 @@
 				}
 			]
 		}
-	]
+	],
+	"Spawn": {
+		"playerSpawnPoints": [
+			{
+				"rename": "SpawnPlayer_SizzlingSands",
+				"makeDefaultIfPersistentCondition": "TSTA_DEBUG",
+				"offset": { "y": 0 },
+				"position": {
+					"x": -73.2144,
+					"y": 144.5769,
+					"z": -7.875191
+				},
+				"rotation": {
+					"x": 19.81287,
+					"y": 300.1239,
+					"z": 10.72167
+				}
+			}
+		]
+	}
 }
