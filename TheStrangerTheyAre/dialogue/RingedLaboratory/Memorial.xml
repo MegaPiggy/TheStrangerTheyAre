@@ -7,7 +7,7 @@
 			<Page>My children, may you forever be remembered. The oldest passed on that cloaked moon. My youngest, only an infant, passed away on my kind's ship. Both died due to lack of nutrients that our kin's ship lacked.</Page>
 		</Dialogue>
 		<RevealFacts>
-			<FactID>LAB_MEM</FactID>
+			<FactID>LAB_TEXT_MEM</FactID>
 		</RevealFacts>
 	</DialogueNode>
 </DialogueTree>

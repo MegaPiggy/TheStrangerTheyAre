@@ -65,5 +65,23 @@
 				<Text>A piece of text on the table reveals The Scientist and The Prisoner are brothers!</Text>
 			</ExploreFact>
         </Entry>
+		
+		<Entry>
+			<!-- An Entry For This Planet -->
+			<ID>LAB_MEM</ID>
+			<Name>Memorial Room</Name>
+			<Curiosity>LAB_MAIN</Curiosity>
+			<!-- The curiosity this entry belongs to (optional) in this case, it belongs to itself -->
+
+			<ExploreFact>
+				<ID>LAB_MEM_E</ID>
+				<Text>I found a room containing what appears to be a memorial.</Text>
+			</ExploreFact>
+
+			<ExploreFact>
+				<ID>LAB_TEXT_MEM</ID>
+				<Text>A piece of text on the wall says the writer lost both of their children to a lack of nutrients. The oldest died on the cloaked moon, while the youngest died aboard their kind's ship.</Text>
+			</ExploreFact>
+		</Entry>
     </Entry>
 </AstroObjectEntry>

@@ -244,6 +244,17 @@
 				},
 				"revealOn": "enter",
 				"revealFor": "player"
+			},
+			{
+				"reveals": [ "LAB_MEM_E" ],
+				"radius": 5,
+				"position": {
+					"x": 0.1801348,
+					"y": -36.19197,
+					"z": 1.748817
+				},
+				"revealOn": "enter",
+				"revealFor": "player"
 			}
 		]
 	},
