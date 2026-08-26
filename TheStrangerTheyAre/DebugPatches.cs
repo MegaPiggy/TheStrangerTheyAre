@@ -1,7 +1,8 @@
 using HarmonyLib;
-using UnityEngine;
 using NewHorizons.Utility;
 using OWML.Common;
+using System.Collections.Generic;
+using UnityEngine;
 
 namespace TheStrangerTheyAre;
 
@@ -74,8 +75,10 @@ public static class DebugPatches
 
     [HarmonyPrefix]
     [HarmonyPatch(typeof(OWLightController), nameof(OWLightController.UpdateVisuals))]
-    public static void OWLightController_UpdateVisuals_Patch(OWLightController __instance)
+    public static bool OWLightController_UpdateVisuals_Patch(OWLightController __instance)
     {
+        var allowed = true;
+
         if (__instance._lights != null)
         {
             for (int i = 0; i < __instance._lights.Length; i++)
@@ -83,12 +86,14 @@ public static class DebugPatches
                 if (__instance._lights[i] == null)
                 {
                     TheStrangerTheyAre.WriteLine("Light at index " + i + " is null at " + __instance.transform.GetPath(), MessageType.Error);
+                    allowed = false;
                 }
             }
         }
         else
         {
             TheStrangerTheyAre.WriteLine("Lights are null at " + __instance.transform.GetPath(), MessageType.Error);
+            allowed = false;
         }
         if (__instance._renderers != null)
         {
@@ -97,13 +102,17 @@ public static class DebugPatches
                 if (__instance._renderers[i] == null)
                 {
                     TheStrangerTheyAre.WriteLine("Renderer at index " + i + " is null at " + __instance.transform.GetPath(), MessageType.Error);
+                    allowed = false;
                 }
             }
         }
         else
         {
             TheStrangerTheyAre.WriteLine("Renderers are null at " + __instance.transform.GetPath(), MessageType.Error);
+            allowed = false;
         }
+
+        return allowed;
     }
 
     [HarmonyPrefix]
@@ -198,7 +207,7 @@ public static class DebugPatches
 
     [HarmonyPrefix]
     [HarmonyPatch(typeof(CullGroup), nameof(CullGroup.Awake))]
-    public static void CullGroup_Awake_Patch(CullGroup __instance)
+    public static bool CullGroup_Awake_Patch(CullGroup __instance)
     {
         if (__instance._waitForStreaming && __instance._streamingMeshes != null)
         {
@@ -210,10 +219,11 @@ public static class DebugPatches
                         "CullGroup._streamingMeshes[" + i + "] is null at " + __instance.transform.GetPath(),
                         MessageType.Error
                     );
-                    break; // No need to spam if one is null, likely all are
+                    return false; // No need to spam if one is null, likely all are
                 }
             }
         }
+        return true;
     }
 
     [HarmonyPrefix]
