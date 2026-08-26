@@ -115,7 +115,7 @@ namespace TheStrangerTheyAre
             }
 
             // Makes sure that artifacts get blown out when going under water
-            Locator.GetPlayerBody().gameObject.AddComponent<HeldArtifactWaterHandler>();
+            ModHelper.Events.Unity.RunWhen(() => Locator.GetPlayerBody() != null, () => Locator.GetPlayerBody().gameObject.AddComponent<HeldArtifactWaterHandler>());
         }
 
         public void OnStrangerSystemLoaded()
