@@ -7,7 +7,7 @@ namespace TheStrangerTheyAre;
 
 #if DEBUG
 [HarmonyPatch]
-public class DebugPatches
+public static class DebugPatches
 {
     [HarmonyPrefix]
     [HarmonyPatch(typeof(GhostAirlock), nameof(GhostAirlock.OnClose))]
