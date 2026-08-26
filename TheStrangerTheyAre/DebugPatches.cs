@@ -455,5 +455,46 @@ public static class DebugPatches
     {
         TheStrangerTheyAre.WriteLine($"AudioVolume.Deactivate called on instance of type: {__instance.GetType().FullName}", MessageType.Error);
     }
+
+    [HarmonyPrefix]
+    [HarmonyPatch(
+        typeof(OWExtensions),
+        nameof(OWExtensions.Assert),
+        new[] { typeof(Collider), typeof(LayerMask), typeof(bool) }
+    )]
+    public static bool OWExtensions_Assert_Prefix(Collider collider, LayerMask layerMask, bool isTrigger)
+    {
+        if (!OWLayerMask.IsLayerInMask(collider.gameObject.layer, layerMask))
+        {
+            string colliderLayer = LayerMask.LayerToName(collider.gameObject.layer);
+
+            var maskLayers = new List<string>();
+            for (int i = 0; i < 32; i++)
+            {
+                if ((layerMask.value & (1 << i)) == 0)
+                    continue;
+
+                string layerName = LayerMask.LayerToName(i);
+
+                maskLayers.Add(string.IsNullOrEmpty(layerName)
+                    ? $"Layer {i}"
+                    : $"{layerName} ({i})");
+            }
+
+            TheStrangerTheyAre.WriteLine(
+                $"Collider '{collider.name}' is on layer '{colliderLayer}' ({collider.gameObject.layer}), " +
+                $"but expected one of: {string.Join(", ", maskLayers)}",
+                MessageType.Error);
+        }
+
+        if (collider.isTrigger != isTrigger)
+        {
+            TheStrangerTheyAre.WriteLine(
+                $"Collider '{collider.name}' isTrigger is {collider.isTrigger}, expected {isTrigger}.",
+                MessageType.Error);
+        }
+
+        return false;
+    }
 }
 #endif
