@@ -109,6 +109,50 @@
 				"isRelativeToParent": true
 			}
 		],
+
+		"entryLocation": [
+			{
+				"id": "QUANTUM"
+			},
+			{
+				"id": "QUANTUM_TRAVELER",
+				"parentPath": "Sector/STATE1_TENT/ENIGMA_TRAVELER",
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_S1_LAB",
+				"parentPath": "Sector/QuantumResearchLab2",
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_BASE",
+				"position": {
+					"x": -31.97149,
+					"y": -197.039,
+					"z": -11.89976
+				},
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_CRACK",
+				"position": {
+					"x": -179.9395,
+					"y": 60.5591,
+					"z": -57.7551
+				},
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_SCRATCH",
+				"position": {
+					"x": -145.6181,
+					"y": -133.3766,
+					"z": -19.6035
+				},
+				"isRelativeToParent": true
+			}
+		],
+
 		"dialogue": [
 			{
 				"xmlFile": "dialogue/NewTravelers/Enigma.xml",

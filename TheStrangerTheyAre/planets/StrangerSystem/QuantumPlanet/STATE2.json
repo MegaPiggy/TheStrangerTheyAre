@@ -77,6 +77,28 @@
 				"detectionRadius": 400
 			}
 		],
+
+		"entryLocation": [
+			{
+				"id": "QUANTUM"
+			},
+			{
+				"id": "QUANTUM_S2_LAB",
+				"parentPath": "Sector-2/QuantumResearchLabBroken",
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_INT",
+				"parentPath": "Sector-2/EnigmaInterface",
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_CORPSE",
+				"parentPath": "Sector-2/Enigma_Dead2_1",
+				"isRelativeToParent": true
+			}
+		],
+
 		"dialogue": [
 			{
 				"xmlFile": "dialogue/QuantumPlanet/LabState2/Rubble.xml",

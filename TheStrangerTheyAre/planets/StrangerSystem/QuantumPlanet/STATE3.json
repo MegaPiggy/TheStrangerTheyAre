@@ -76,6 +76,29 @@
 				"isRelativeToParent": true
 			}
 		],
+
+		"entryLocation": [
+			{
+				"id": "QUANTUM"
+			},
+			{
+				"id": "QUANTUM_S3_LAB",
+				"parentPath": "Sector-3/QuantumResearchLab",
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_SEAL",
+				"cloaked": false,
+				"parentPath": "Sector-3/Seal_Enigma",
+				"isRelativeToParent": true
+			},
+			{
+				"id": "QUANTUM_CORPSE",
+				"parentPath": "Sector-3/Enigma_Dead2_1",
+				"isRelativeToParent": true
+			}
+		],
+
 		"scatter": [
 			{
 				"assetBundle": "assets/AssetBundle/strangerbundle",
