@@ -447,10 +447,10 @@
 		"dialogue": [
 			{
 				"xmlFile": "dialogue/Homeworld/DBMuseum/2F_AnglerExhibit.xml",
-				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/AnglerExhibit/Props_IP_DoNotEnterSign (2)",
+				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/AnglerExhibit/Props_IP_DoNotEnterSign (2)/Arc_TestAlienWriting/Dialogue/",
 				"isRelativeToParent": true,
 				"position": {
-					"y": 2
+					"y": 0.75
 				},
 				"attentionPoint": {
 					"position": {
@@ -462,10 +462,10 @@
 			},
 			{
 				"xmlFile": "dialogue/Homeworld/DBMuseum/2F_DBExhibit.xml",
-				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/DBModelExhibit/Props_IP_DoNotEnterSign",
+				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/DBModelExhibit/Props_IP_DoNotEnterSign/Arc_TestAlienWriting/Dialogue/",
 				"isRelativeToParent": true,
 				"position": {
-					"y": 2
+					"y": 0.75
 				},
 				"attentionPoint": {
 					"position": {
@@ -477,10 +477,10 @@
 			},
 			{
 				"xmlFile": "dialogue/Homeworld/DBMuseum/2F_VineExhibit.xml",
-				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/CloakMineralExhibit/Props_IP_DoNotEnterSign (1)",
+				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/CloakMineralExhibit/Props_IP_DoNotEnterSign (1)/Arc_TestAlienWriting/Dialogue/",
 				"isRelativeToParent": true,
 				"position": {
-					"y": 2
+					"y": 0.75
 				},
 				"attentionPoint": {
 					"position": {
@@ -493,21 +493,27 @@
 			{
 				"xmlFile": "dialogue/Homeworld/DBMuseum/1F_MineralExhibit.xml",
 				"radius": 1,
-				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/CloakMineralExhibit2/Props_IP_DoNotEnterSign (1)",
+				"parentPath": "Sector/BrambleMuseum_HOME/Exhibits/CloakMineralExhibit2/Props_IP_DoNotEnterSign (1)/Arc_TestAlienWriting/Dialogue/",
 				"isRelativeToParent": true,
 				"position": {
-					"y": 2
+					"y": 0.75
 				}
 			},
 			{
 				"xmlFile": "dialogue/Homeworld/DBMuseum/1F_Wall1.xml",
 				"parentPath": "Sector/BrambleMuseum_HOME/Interactables/Text/SolarLeft/Arc_TestAlienWriting/Dialogue",
-				"isRelativeToParent": true
+				"isRelativeToParent": true,
+				"position": {
+					"y": 0.75
+				}
 			},
 			{
 				"xmlFile": "dialogue/Homeworld/DBMuseum/1F_Wall2.xml",
 				"parentPath": "Sector/BrambleMuseum_HOME/Interactables/Text/SolarRight/Arc_TestAlienWriting/Dialogue",
-				"isRelativeToParent": true
+				"isRelativeToParent": true,
+				"position": {
+					"y": 0.75
+				}
 			},
 			{
 				"xmlFile": "dialogue/Homeworld/Outside/ScientistStatue.xml",

@@ -9,9 +9,12 @@ namespace TheStrangerTheyAre
         [SerializeField] public GameObject Dialogue;
 
         private bool _isSwapped;
+        private Collider _collider;
 
         public void Start()
         {
+            _collider = GetComponent<Collider>();
+
             if (Dialogue == null)
             {
                 TheStrangerTheyAre.WriteLine($"TextSwap at {transform.GetPath()} is missing a reference to the dialogue.", OWML.Common.MessageType.Error);
@@ -24,12 +27,18 @@ namespace TheStrangerTheyAre
                 TranslatorText = gameObject.FindChild("Arc 1");
             }
 
-            Apply(Check());
+            Apply(StrangerTextHandlerTSTA.KnowsLanguage());
+            GlobalMessenger<string, bool>.AddListener("NHPersistentConditionChanged", OnPersistentConditionChanged);
         }
 
-        public void Update()
+        public void OnDestroy()
         {
-            if (!_isSwapped && Check())
+            GlobalMessenger<string, bool>.RemoveListener("NHPersistentConditionChanged", OnPersistentConditionChanged);
+        }
+
+        private void OnPersistentConditionChanged(string condition, bool value)
+        {
+            if (!_isSwapped && condition == StrangerTextHandlerTSTA.LANGUAGE_PC && value)
             {
                 Apply(true);
             }
@@ -37,14 +46,15 @@ namespace TheStrangerTheyAre
 
         private void Apply(bool learnedLanguage)
         {
-            TranslatorText.SetActive(false);
+            TranslatorText.SetActive(false); // Ghost arcs are always disabled because a decal already exists
             Dialogue.SetActive(learnedLanguage);
-            _isSwapped = learnedLanguage;
-        }
 
-        private bool Check()
-        {
-            return Locator.GetShipLogManager().IsFactRevealed("ANGLERS_EYE_ALIENTEXT_E2");
+            if (_collider != null)
+            {
+                _collider.enabled = !learnedLanguage;
+            }
+
+            _isSwapped = learnedLanguage;
         }
     }
 }

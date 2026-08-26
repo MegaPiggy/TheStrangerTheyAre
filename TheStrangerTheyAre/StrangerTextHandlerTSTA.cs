@@ -5,6 +5,8 @@ namespace TheStrangerTheyAre
 {
     public class StrangerTextHandlerTSTA : MonoBehaviour
     {
+        public static readonly string LANGUAGE_PC = "TSTA_LANGUAGE_LEARNED";
+
         private GameObject[] _strangerDialogue = new GameObject[11]; // create new array of gameobjects to store all custom sim reels
 
         public void Start()
@@ -17,7 +19,7 @@ namespace TheStrangerTheyAre
 
         public static bool KnowsLanguage()
         {
-            return Locator.GetShipLogManager().IsFactRevealed("ANGLERS_EYE_ALIENTEXT_E2");
+            return PlayerData.GetPersistentCondition(LANGUAGE_PC);
         }
 
         public void Update()

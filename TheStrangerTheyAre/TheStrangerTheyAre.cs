@@ -1,4 +1,5 @@
 ﻿using HarmonyLib;
+using NewHorizons.Utility;
 using OWML.Common;
 using OWML.ModHelper;
 using OWML.Utils;
@@ -119,10 +120,20 @@ namespace TheStrangerTheyAre
 
         public void OnStrangerSystemLoaded()
         {
+            var homeworld = NewHorizonsAPI.GetPlanet("Strangers' Homeworld");
             var ringedGiant = NewHorizonsAPI.GetPlanet("Ringed Giant");
+            var ringedLaboratory = NewHorizonsAPI.GetPlanet("Ringed Laboratory");
+            var sizzlingSands = NewHorizonsAPI.GetPlanet("Sizzling Sands");
+            var velvetVortex = NewHorizonsAPI.GetPlanet("Velvet Vortex");
+            var burningBombardier = NewHorizonsAPI.GetPlanet("Burning Bombardier");
+            var strandedVessel = NewHorizonsAPI.GetPlanet("Stranded Vessel");
+            var strangersProbe = NewHorizonsAPI.GetPlanet("Strangers' Probe");
+            var distantEnigma = NewHorizonsAPI.GetPlanet("Distant Enigma");
+
+            // Increased ring render queue
             ringedGiant.transform.Find("Sector/Ring").GetComponent<MeshRenderer>().sharedMaterial.renderQueue = 4001;
 
-            var burningBombardier = NewHorizonsAPI.GetPlanet("Burning Bombardier");
+            // Custom Meteor Launchers
             var detector = burningBombardier.GetComponentInChildren<ConstantForceDetector>();
             foreach (var meteorLauncher in burningBombardier.GetComponentsInChildren<MeteorLauncher>())
             {
@@ -142,6 +153,33 @@ namespace TheStrangerTheyAre
                 veryActiveLauncher._launchDirection = meteorLauncher._launchDirection;
                 GameObject.DestroyImmediate(meteorLauncher);
                 veryActiveLauncher.gameObject.SetActive(true);
+            }
+
+            var ghostWallTexts = new[]
+            {
+                homeworld,
+                ringedGiant,
+                ringedLaboratory,
+                sizzlingSands,
+                velvetVortex,
+                burningBombardier,
+                strandedVessel,
+                strangersProbe,
+                distantEnigma
+            }
+            .Where(planet => planet != null)
+            .SelectMany(planet => planet.GetComponentsInChildren<GhostWallText>(true))
+            .ToArray();
+            foreach (var ghostWallText in ghostWallTexts)
+            {
+                if (ghostWallText.transform.Find("Dialogue") != null)
+                {
+                    if (ghostWallText.gameObject.GetComponent<TextSwap>() != null) continue;
+
+                    TextSwap textSwap = ghostWallText.gameObject.AddComponent<TextSwap>();
+                    textSwap.Dialogue = ghostWallText.gameObject.FindChild("Dialogue");
+                    textSwap.TranslatorText = ghostWallText.gameObject.FindChild("Arc 1");
+                } 
             }
         }
 
