@@ -1,13 +1,14 @@
 using HarmonyLib;
-using UnityEngine;
 using NewHorizons.Utility;
 using OWML.Common;
+using System.Collections.Generic;
+using UnityEngine;
 
 namespace TheStrangerTheyAre;
 
 #if DEBUG
 [HarmonyPatch]
-public class DebugPatches
+public static class DebugPatches
 {
     [HarmonyPrefix]
     [HarmonyPatch(typeof(GhostAirlock), nameof(GhostAirlock.OnClose))]
@@ -74,8 +75,10 @@ public class DebugPatches
 
     [HarmonyPrefix]
     [HarmonyPatch(typeof(OWLightController), nameof(OWLightController.UpdateVisuals))]
-    public static void OWLightController_UpdateVisuals_Patch(OWLightController __instance)
+    public static bool OWLightController_UpdateVisuals_Patch(OWLightController __instance)
     {
+        var allowed = true;
+
         if (__instance._lights != null)
         {
             for (int i = 0; i < __instance._lights.Length; i++)
@@ -83,12 +86,14 @@ public class DebugPatches
                 if (__instance._lights[i] == null)
                 {
                     TheStrangerTheyAre.WriteLine("Light at index " + i + " is null at " + __instance.transform.GetPath(), MessageType.Error);
+                    allowed = false;
                 }
             }
         }
         else
         {
             TheStrangerTheyAre.WriteLine("Lights are null at " + __instance.transform.GetPath(), MessageType.Error);
+            allowed = false;
         }
         if (__instance._renderers != null)
         {
@@ -97,13 +102,17 @@ public class DebugPatches
                 if (__instance._renderers[i] == null)
                 {
                     TheStrangerTheyAre.WriteLine("Renderer at index " + i + " is null at " + __instance.transform.GetPath(), MessageType.Error);
+                    allowed = false;
                 }
             }
         }
         else
         {
             TheStrangerTheyAre.WriteLine("Renderers are null at " + __instance.transform.GetPath(), MessageType.Error);
+            allowed = false;
         }
+
+        return allowed;
     }
 
     [HarmonyPrefix]
@@ -198,7 +207,7 @@ public class DebugPatches
 
     [HarmonyPrefix]
     [HarmonyPatch(typeof(CullGroup), nameof(CullGroup.Awake))]
-    public static void CullGroup_Awake_Patch(CullGroup __instance)
+    public static bool CullGroup_Awake_Patch(CullGroup __instance)
     {
         if (__instance._waitForStreaming && __instance._streamingMeshes != null)
         {
@@ -210,10 +219,11 @@ public class DebugPatches
                         "CullGroup._streamingMeshes[" + i + "] is null at " + __instance.transform.GetPath(),
                         MessageType.Error
                     );
-                    break; // No need to spam if one is null, likely all are
+                    return false; // No need to spam if one is null, likely all are
                 }
             }
         }
+        return true;
     }
 
     [HarmonyPrefix]
@@ -454,6 +464,47 @@ public class DebugPatches
     public static void AudioVolume_Deactivate_Patch(AudioVolume __instance, float fadeSeconds)
     {
         TheStrangerTheyAre.WriteLine($"AudioVolume.Deactivate called on instance of type: {__instance.GetType().FullName}", MessageType.Error);
+    }
+
+    [HarmonyPrefix]
+    [HarmonyPatch(
+        typeof(OWExtensions),
+        nameof(OWExtensions.Assert),
+        new[] { typeof(Collider), typeof(LayerMask), typeof(bool) }
+    )]
+    public static bool OWExtensions_Assert_Prefix(Collider collider, LayerMask layerMask, bool isTrigger)
+    {
+        if (!OWLayerMask.IsLayerInMask(collider.gameObject.layer, layerMask))
+        {
+            string colliderLayer = LayerMask.LayerToName(collider.gameObject.layer);
+
+            var maskLayers = new List<string>();
+            for (int i = 0; i < 32; i++)
+            {
+                if ((layerMask.value & (1 << i)) == 0)
+                    continue;
+
+                string layerName = LayerMask.LayerToName(i);
+
+                maskLayers.Add(string.IsNullOrEmpty(layerName)
+                    ? $"Layer {i}"
+                    : $"{layerName} ({i})");
+            }
+
+            TheStrangerTheyAre.WriteLine(
+                $"Collider '{collider.name}' is on layer '{colliderLayer}' ({collider.gameObject.layer}), " +
+                $"but expected one of: {string.Join(", ", maskLayers)}",
+                MessageType.Error);
+        }
+
+        if (collider.isTrigger != isTrigger)
+        {
+            TheStrangerTheyAre.WriteLine(
+                $"Collider '{collider.name}' isTrigger is {collider.isTrigger}, expected {isTrigger}.",
+                MessageType.Error);
+        }
+
+        return false;
     }
 }
 #endif

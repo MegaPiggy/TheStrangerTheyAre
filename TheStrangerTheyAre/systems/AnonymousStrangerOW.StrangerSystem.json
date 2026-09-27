@@ -107,6 +107,13 @@
       }
     },
     {
+      "id": "LAB_MEM",
+      "position": {
+        "x": -100,
+        "y": -100
+      }
+    },
+    {
       "id": "HOME",
       "position": {
         "x": 500,

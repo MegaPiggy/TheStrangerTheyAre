@@ -529,5 +529,24 @@
 				"y": 0
 			}
 		}
-	}
+	},
+  "Spawn": {
+    "playerSpawnPoints": [
+			{
+				"rename": "SpawnPlayer_StrandedVessel",
+				"makeDefaultIfPersistentCondition": "TSTA_DEBUG",
+				"offset": { "y": 0 },
+				"position": {
+					"x": -40,
+					"y": -7,
+					"z": -140
+				},
+				"rotation": {
+					"x": 0,
+					"y": 45,
+					"z": 0
+				}
+			}
+    ]
+  }
 }

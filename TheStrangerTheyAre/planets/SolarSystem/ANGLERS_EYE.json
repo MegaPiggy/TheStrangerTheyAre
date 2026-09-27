@@ -2182,5 +2182,43 @@
 	},
 	"MapMarker": {
 		"enabled": false
+	},
+	"Spawn": {
+		"playerSpawnPoints": [
+			{
+				"rename": "SpawnPlayer_AnglersEye_Artifact",
+				"makeDefaultIfPersistentCondition": "TSTA_DEBUG",
+				"parentPath": "Sector/SignalHouse/Building",
+				"isRelativeToParent": true,
+				"offset": { "y": 0 },
+				"position": {
+					"x": 0,
+					"y": 3,
+					"z": 0
+				},
+				"rotation": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"rename": "SpawnPlayer_AnglersEye_DreamFire",
+				"makeDefaultIfPersistentCondition": "TSTA_DEBUG",
+				"parentPath": "Sector/BrambleMuseum/Building",
+				"isRelativeToParent": true,
+				"offset": { "y": 0 },
+				"position": {
+					"x": 0.5,
+					"y": -5,
+					"z": -2.5
+				},
+				"rotation": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			}
+		]
 	}
 }

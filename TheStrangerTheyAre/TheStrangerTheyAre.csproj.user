@@ -9,9 +9,9 @@
     <CopyUnityBundles>true</CopyUnityBundles>
     
     <OutputPath>$(OuterWildsModsDirectory)/AnonymousStrangerOW.TheStrangerTheyAre/</OutputPath>
-    <UnityPath>$(USERPROFILE)\Desktop\Apps\Gamerip\outer-wilds-unity-assets-main\</UnityPath>
-    <!--
     <UnityPath>D:/tsta-unity/</UnityPath>
+    <!--
+    <UnityPath>$(USERPROFILE)\Desktop\Apps\Gamerip\outer-wilds-unity-assets-main\</UnityPath>
     -->
     <UnityDllsDir>$(UnityPath)Assets/</UnityDllsDir>
     <UnityBundlesDir>$(UnityPath)AssetBundles/StandaloneWindows/</UnityBundlesDir>
